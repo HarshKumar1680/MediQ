@@ -1,0 +1,57 @@
+Title: Heart Failure - Treatment and Cardiological Management
+Source: Based on Wikipedia, Mayo Clinic, ESC/ACC/AHA Guidelines
+Disease: Heart Failure (HF)
+
+Heart failure (HF) is a clinical syndrome resulting from structural or functional cardiac abnormality that impairs the ability of the ventricle to fill with or eject blood, leading to the cardinal symptoms of dyspnea, fatigue, and fluid retention. It affects over 64 million people worldwide.
+
+CLASSIFICATION
+Heart failure with reduced ejection fraction (HFrEF): left ventricular ejection fraction (LVEF) ≤ 40%.
+Heart failure with mildly reduced ejection fraction (HFmrEF): LVEF 41-49%.
+Heart failure with preserved ejection fraction (HFpEF): LVEF ≥ 50%, with evidence of cardiac structural/functional abnormalities or elevated natriuretic peptides.
+
+SYMPTOMS
+Dyspnea at rest or on exertion, orthopnea (inability to lie flat), paroxysmal nocturnal dyspnea, peripheral edema, reduced exercise tolerance, fatigue, and in advanced heart failure, cardiac cachexia.
+
+DIAGNOSIS
+Clinical assessment, echocardiography (assessment of LVEF and cardiac structure), BNP or NT-proBNP (biomarkers of cardiac stress), chest X-ray, electrocardiogram, and cardiopulmonary exercise testing.
+
+TREATMENT OF HFrEF
+
+Four Pillars of HFrEF Therapy:
+Current guidelines recommend starting all four drug classes simultaneously or as quickly as tolerated:
+
+1. Angiotensin pathway blockade:
+ACE inhibitors (enalapril, ramipril, lisinopril) or ARBs (candesartan, valsartan) reduce cardiac remodeling and mortality. Sacubitril-valsartan (Entresto, ARNI) is preferred over ACE inhibitor or ARB alone in patients who remain symptomatic, combining neprilysin inhibition with ARB to enhance beneficial neurohormonal effects.
+
+2. Beta-blockers:
+Carvedilol, bisoprolol, and metoprolol succinate reduce heart rate, cardiac remodeling, arrhythmias, and mortality. Initiated at low doses and gradually uptitrated.
+
+3. Mineralocorticoid receptor antagonists (MRAs):
+Spironolactone and eplerenone block aldosterone-mediated cardiac fibrosis and fluid retention, reducing mortality and hospitalization.
+
+4. SGLT2 inhibitors:
+Dapagliflozin and empagliflozin reduce hospitalizations and cardiovascular death in HFrEF regardless of diabetes status. They promote osmotic diuresis and have direct cardiac effects.
+
+Diuretics:
+Loop diuretics (furosemide, bumetanide, torasemide) relieve congestion and dyspnea but do not reduce mortality. Thiazides are added for diuretic resistance. Tolvaptan (vasopressin antagonist) is used for hyponatremic congestion.
+
+Hydralazine-Nitrate Combination:
+An alternative vasodilator regimen for patients intolerant of ACE inhibitors/ARBs, particularly self-identified Black patients who derive greater benefit.
+
+Ivabradine:
+Reduces heart rate through selective If channel blockade in the sinus node, reducing hospitalizations in patients with resting heart rate ≥ 70 bpm on maximally tolerated beta-blocker dose.
+
+Vericiguat:
+A soluble guanylate cyclase stimulator reducing hospitalizations in high-risk HFrEF.
+
+Device Therapy:
+Implantable cardioverter-defibrillator (ICD) prevents sudden cardiac death due to ventricular arrhythmias in eligible patients.
+Cardiac resynchronization therapy (CRT): Biventricular pacing improves cardiac synchrony and function in patients with wide QRS (≥ 150 ms) and reduced EF.
+Combined CRT-D devices provide both resynchronization and defibrillation.
+
+TREATMENT OF HFpEF
+SGLT2 inhibitors (empagliflozin, dapagliflozin) reduce hospitalizations. MRAs reduce hospitalizations. GLP-1 receptor agonists improve symptoms in obese HFpEF patients. Diuretics for congestion control. Managing underlying causes (hypertension, atrial fibrillation, coronary artery disease, obesity, diabetes) is paramount.
+
+ADVANCED HEART FAILURE
+Left ventricular assist devices (LVADs) provide mechanical circulatory support as a bridge to transplant or as destination therapy.
+Heart transplantation is the definitive treatment for eligible patients with end-stage heart failure refractory to medical therapy.

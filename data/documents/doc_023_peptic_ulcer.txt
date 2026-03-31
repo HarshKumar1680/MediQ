@@ -1,0 +1,45 @@
+Title: Peptic Ulcer Disease - Treatment and Gastroenterological Management
+Source: Based on Wikipedia, Mayo Clinic, ACG Guidelines
+Disease: Peptic Ulcer Disease (PUD)
+
+Peptic ulcer disease (PUD) refers to open sores that develop on the inner lining of the stomach (gastric ulcers) or the upper portion of the small intestine, the duodenum (duodenal ulcers). The most common causes are infection with Helicobacter pylori and long-term use of NSAIDs.
+
+OVERVIEW
+The gastric and duodenal mucosa is normally protected by a layer of mucus, bicarbonate secretion, mucosal blood flow, and prostaglandins. Peptic ulcers occur when these defensive mechanisms are overwhelmed by acid and pepsin. H. pylori disrupts mucosal defenses and induces inflammation. NSAIDs inhibit prostaglandin synthesis, reducing mucosal protection.
+
+SYMPTOMS
+Burning or gnawing epigastric pain, which may be relieved by eating (duodenal ulcers) or worsened by eating (gastric ulcers), nausea, bloating, belching, and in complicated cases, hematemesis, melena, or signs of perforation.
+
+DIAGNOSIS
+Upper gastrointestinal endoscopy (esophagogastroduodenoscopy, EGD) is the gold standard for diagnosis and allows biopsy. H. pylori is diagnosed by urea breath test, stool antigen test, rapid urease test from biopsy, or serology. All ulcers should be tested for H. pylori.
+
+TREATMENT APPROACHES
+
+H. pylori Eradication:
+All patients with peptic ulcers and confirmed H. pylori infection should receive eradication therapy. Successful eradication heals most duodenal ulcers and significantly reduces gastric ulcer recurrence.
+
+First-line regimens (14 days preferred over 7-10 days):
+Triple therapy: proton pump inhibitor (PPI) + clarithromycin + amoxicillin (or metronidazole if penicillin-allergic). Increasing clarithromycin resistance has reduced efficacy in many regions.
+Bismuth quadruple therapy: PPI + bismuth subcitrate + tetracycline + metronidazole. Preferred in areas with high clarithromycin resistance.
+Concomitant therapy: PPI + clarithromycin + amoxicillin + metronidazole simultaneously for 10-14 days.
+Hybrid therapy and levofloxacin-based regimens are alternative options.
+
+Second-line and salvage therapy for eradication failure:
+Levofloxacin triple or quadruple regimens, rifabutin-based triple therapy, or high-dose dual therapy (PPI + amoxicillin) are used after first-line failure.
+
+Acid Suppression:
+Proton pump inhibitors (PPIs) including omeprazole, lansoprazole, pantoprazole, rabeprazole, and esomeprazole are the most potent acid-suppressive agents. They irreversibly block the H+/K+-ATPase proton pump in gastric parietal cells. PPIs are used for ulcer healing, H. pylori eradication, and maintenance therapy.
+H2 receptor antagonists (ranitidine, famotidine, cimetidine) block histamine-stimulated acid secretion. They are less potent than PPIs but effective for ulcer healing and maintenance.
+Antacids (aluminum hydroxide, magnesium hydroxide, calcium carbonate) neutralize gastric acid and provide rapid symptom relief but do not promote ulcer healing.
+Sucralfate forms a protective coating over the ulcer base, promoting healing.
+
+NSAID-Related Ulcers:
+Discontinuing NSAID use whenever possible is the most important step. When NSAID continuation is necessary, misoprostol (a prostaglandin analog) or PPIs are used as gastroprotective co-therapy. COX-2 selective NSAIDs (celecoxib) have lower ulcerogenic risk than non-selective NSAIDs.
+
+COMPLICATIONS
+Upper gastrointestinal bleeding: endoscopic hemostasis with injection, thermal coagulation, or clipping. Proton pump inhibitor infusion reduces rebleeding risk. H. pylori eradication and PPI maintenance prevent recurrence.
+Perforation: emergency surgical repair (laparoscopic patch repair).
+Gastric outlet obstruction: endoscopic balloon dilation or surgery.
+
+FOLLOW-UP
+Gastric ulcers should be biopsied at diagnosis to exclude malignancy and followed with repeat endoscopy at 8-12 weeks to confirm healing. Test-of-cure for H. pylori eradication should be performed at least 4 weeks after completing therapy.

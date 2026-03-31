@@ -1,0 +1,125 @@
+================================================================================
+  MEDICAL IR SYSTEM — DATASET INDEX
+  Medical Treatment Information Retrieval System
+  Total Documents: 40 | Total Size: ~170 KB
+================================================================================
+
+All documents are based on established medical knowledge from sources including:
+  - Wikipedia Medical Articles
+  - Mayo Clinic Patient Care & Health Information
+  - World Health Organization (WHO) Guidelines
+  - Centers for Disease Control and Prevention (CDC)
+  - NIH / MedlinePlus / NCI
+  - Specialty Society Guidelines (AHA, ADA, ACR, GOLD, ILAE, EASL, ESC, etc.)
+
+--------------------------------------------------------------------------------
+ #   FILENAME                                  DISEASE / CONDITION
+--------------------------------------------------------------------------------
+001  doc_001_diabetes_type2.txt                Type 2 Diabetes Mellitus
+002  doc_002_asthma.txt                        Bronchial Asthma
+003  doc_003_heart_disease.txt                 Coronary Artery Disease
+004  doc_004_hypertension.txt                  Arterial Hypertension
+005  doc_005_tuberculosis.txt                  Tuberculosis (TB)
+006  doc_006_pneumonia.txt                     Pneumonia
+007  doc_007_malaria.txt                       Malaria
+008  doc_008_chronic_kidney_disease.txt        Chronic Kidney Disease (CKD)
+009  doc_009_depression.txt                    Major Depressive Disorder
+010  doc_010_cancer_treatment.txt              Cancer (General Oncology)
+011  doc_011_hiv_aids.txt                      HIV / AIDS
+012  doc_012_stroke.txt                        Cerebrovascular Accident (Stroke)
+013  doc_013_rheumatoid_arthritis.txt          Rheumatoid Arthritis
+014  doc_014_epilepsy.txt                      Epilepsy
+015  doc_015_copd.txt                          COPD
+016  doc_016_alzheimers.txt                    Alzheimer's Disease
+017  doc_017_hepatitis_b.txt                   Hepatitis B
+018  doc_018_parkinsons.txt                    Parkinson's Disease
+019  doc_019_anemia.txt                        Anemia
+020  doc_020_thyroid_disorders.txt             Hypothyroidism / Hyperthyroidism
+021  doc_021_osteoporosis.txt                  Osteoporosis
+022  doc_022_migraine.txt                      Migraine
+023  doc_023_peptic_ulcer.txt                  Peptic Ulcer Disease
+024  doc_024_dengue_fever.txt                  Dengue Fever
+025  doc_025_psoriasis.txt                     Psoriasis
+026  doc_026_schizophrenia.txt                 Schizophrenia
+027  doc_027_liver_cirrhosis.txt               Liver Cirrhosis
+028  doc_028_breast_cancer.txt                 Breast Cancer
+029  doc_029_typhoid_fever.txt                 Typhoid Fever
+030  doc_030_inflammatory_bowel_disease.txt    Inflammatory Bowel Disease (IBD)
+031  doc_031_diabetes_type1.txt                Type 1 Diabetes Mellitus
+032  doc_032_anxiety_disorders.txt             Anxiety Disorders
+033  doc_033_obesity.txt                       Obesity
+034  doc_034_urinary_tract_infection.txt       Urinary Tract Infection (UTI)
+035  doc_035_heart_failure.txt                 Heart Failure
+036  doc_036_lung_cancer.txt                   Lung Cancer
+037  doc_037_sepsis.txt                        Sepsis / Septic Shock
+038  doc_038_gout.txt                          Gout
+039  doc_039_chickenpox_shingles.txt           Chickenpox / Shingles (VZV)
+040  doc_040_atrial_fibrillation.txt           Atrial Fibrillation
+
+================================================================================
+ DOCUMENT FORMAT
+================================================================================
+
+Each document follows a consistent structure:
+  - Title          : Disease name + management type
+  - Source         : Reference medical sources
+  - Disease        : Primary disease label
+  - Overview       : Pathophysiology and epidemiology
+  - Symptoms       : Clinical presentation
+  - Diagnosis      : Diagnostic criteria and tools
+  - Treatment      : Full treatment sections with drug names, classes, dosages
+  - Prevention     : Preventive strategies where applicable
+
+================================================================================
+ CATEGORY BREAKDOWN
+================================================================================
+
+Cardiovascular     : Heart Disease (003), Hypertension (004), Heart Failure (035),
+                     Atrial Fibrillation (040), Stroke (012)
+
+Metabolic/Endocrine: Type 2 Diabetes (001), Type 1 Diabetes (031),
+                     Thyroid Disorders (020), Obesity (033)
+
+Respiratory        : Asthma (002), COPD (015), Pneumonia (006), Lung Cancer (036)
+
+Infectious Disease : Tuberculosis (005), Malaria (007), HIV/AIDS (011),
+                     Hepatitis B (017), Dengue (024), Typhoid (029),
+                     Chickenpox/Shingles (039), Sepsis (037), UTI (034)
+
+Neurological       : Epilepsy (014), Alzheimer's (016), Parkinson's (018),
+                     Migraine (022), Stroke (012)
+
+Psychiatric        : Depression (009), Anxiety (032), Schizophrenia (026)
+
+Oncology           : Cancer General (010), Breast Cancer (028), Lung Cancer (036)
+
+Renal/GI           : CKD (008), Liver Cirrhosis (027), Peptic Ulcer (023),
+                     IBD (030)
+
+Rheumatology       : Rheumatoid Arthritis (013), Osteoporosis (021), Gout (038)
+
+Dermatology        : Psoriasis (025)
+
+Hematology         : Anemia (019)
+
+================================================================================
+ SUGGESTED TEST QUERIES FOR THE IR SYSTEM
+================================================================================
+
+  "diabetes treatment insulin"
+  "asthma therapy inhaler bronchodilator"
+  "heart disease management statin"
+  "hypertension blood pressure medication"
+  "tuberculosis antibiotic regimen"
+  "cancer chemotherapy immunotherapy"
+  "depression antidepressant therapy"
+  "HIV antiretroviral treatment"
+  "stroke thrombolysis management"
+  "epilepsy seizure antiepileptic drugs"
+  "kidney disease dialysis transplant"
+  "malaria artemisinin treatment"
+  "Parkinson levodopa dopamine"
+  "anxiety CBT cognitive behavioral therapy"
+  "obesity weight loss bariatric surgery"
+
+================================================================================

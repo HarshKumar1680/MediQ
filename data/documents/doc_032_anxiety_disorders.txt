@@ -1,0 +1,48 @@
+Title: Anxiety Disorders - Treatment and Psychiatric Management
+Source: Based on Wikipedia, Mayo Clinic, APA, NICE Guidelines
+Disease: Anxiety Disorders (Generalized Anxiety, Panic Disorder, Social Anxiety)
+
+Anxiety disorders are the most common group of psychiatric disorders, characterized by excessive fear, worry, and related behavioral disturbances that cause significant distress and functional impairment. Types include generalized anxiety disorder (GAD), panic disorder, social anxiety disorder, specific phobias, separation anxiety, and agoraphobia.
+
+OVERVIEW
+Anxiety disorders involve dysfunction in neural circuits regulating fear and stress responses, particularly the amygdala, prefrontal cortex, and hippocampus. Dysregulation of serotonergic, noradrenergic, and GABAergic neurotransmission contributes to pathological anxiety.
+
+GENERALIZED ANXIETY DISORDER (GAD)
+Characterized by excessive, uncontrollable worry about multiple life domains for at least 6 months, accompanied by restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbance.
+
+PANIC DISORDER
+Recurrent unexpected panic attacks with intense fear and physical symptoms (palpitations, sweating, tremor, dyspnea, chest pain, dizziness, derealization, fear of dying), followed by persistent concern about future attacks and avoidance behavior.
+
+SOCIAL ANXIETY DISORDER
+Intense fear of social situations and scrutiny by others, leading to avoidance of social and performance situations.
+
+TREATMENT APPROACHES
+
+Psychological Therapies:
+Cognitive Behavioral Therapy (CBT) is the most effective evidence-based psychotherapy for anxiety disorders. It involves identifying and challenging maladaptive thoughts and beliefs (cognitive restructuring) and systematic exposure to feared situations (exposure therapy). Exposure-based CBT including in-vivo and imaginal exposure with response prevention is essential for phobias and panic disorder.
+Acceptance and Commitment Therapy (ACT) focuses on accepting thoughts and feelings rather than fighting them and committing to value-driven actions.
+Mindfulness-based Cognitive Therapy (MBCT) combines mindfulness meditation with CBT and reduces anxiety recurrence.
+Psychoeducation about the nature of anxiety and the fight-or-flight response helps demystify symptoms.
+
+Pharmacological Treatment:
+First-Line Medications:
+SSRIs (selective serotonin reuptake inhibitors): escitalopram, sertraline, paroxetine, and fluoxetine are approved first-line pharmacological treatments for multiple anxiety disorders. Full therapeutic effect requires 4 to 8 weeks. Treatment should continue for at least 12 months.
+SNRIs: venlafaxine and duloxetine are also first-line for GAD, social anxiety, and panic disorder.
+
+Second-Line and Adjunctive Agents:
+Buspirone is a non-benzodiazepine anxiolytic acting on 5-HT1A receptors. Effective for GAD with no dependence risk or abuse potential.
+TCAs (imipramine, clomipramine) are effective for panic disorder and anxiety but are used less due to side effects.
+Pregabalin and gabapentin are effective for GAD and social anxiety, acting on voltage-gated calcium channels.
+
+Short-Term Symptom Relief:
+Benzodiazepines (diazepam, lorazepam, clonazepam, alprazolam) provide rapid anxiolytic and sedative effects through GABA-A receptor potentiation. They are used for short-term or situational anxiety relief but carry risks of dependence, tolerance, withdrawal, cognitive impairment, and falls in elderly. Long-term use is generally discouraged.
+Beta-blockers (propranolol, atenolol) reduce peripheral autonomic symptoms (palpitations, tremor) in performance anxiety.
+
+Hydroxyzine is an antihistamine with anxiolytic properties, useful for acute anxiety management without dependence risk.
+
+Newer Treatments:
+Brexanolone and zuranolone are neurosteroid GABA-A receptor modulators. Zuranolone has anxiolytic properties.
+MDMA-assisted psychotherapy for PTSD is in Phase 3 trials.
+
+Non-Pharmacological Strategies:
+Regular aerobic exercise has robust evidence as an anxiolytic intervention. Sleep hygiene, relaxation techniques (progressive muscle relaxation, deep breathing), mindfulness meditation, yoga, and caffeine and alcohol reduction are all beneficial adjuncts.

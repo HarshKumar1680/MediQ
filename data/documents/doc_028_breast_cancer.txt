@@ -1,0 +1,51 @@
+Title: Breast Cancer - Treatment and Oncological Management
+Source: Based on Wikipedia, NCI, NCCN, ASCO Guidelines
+Disease: Breast Cancer
+
+Breast cancer is the most common cancer in women worldwide and a leading cause of cancer death. It arises from the epithelial cells of the breast ducts or lobules. Key prognostic and predictive factors include tumor stage, grade, hormone receptor (ER/PR) status, HER2 status, and molecular subtype.
+
+MOLECULAR SUBTYPES
+Luminal A: ER+/PR+, HER2-, low Ki-67. Best prognosis, endocrine therapy-sensitive.
+Luminal B: ER+/PR+, HER2+ or HER2- with high Ki-67. Intermediate prognosis.
+HER2-enriched: ER-/PR-, HER2+. Treated with anti-HER2 therapy.
+Triple-negative (TNBC): ER-/PR-/HER2-. Most aggressive, no hormone or HER2-targeted therapy, chemotherapy mainstay.
+
+TREATMENT APPROACHES
+
+Surgery:
+Breast-conserving surgery (lumpectomy/wide local excision) removes the tumor with a margin of healthy tissue, followed by radiotherapy. It provides equivalent survival to mastectomy for most early-stage patients.
+Total mastectomy removes the entire breast. Skin-sparing, nipple-sparing, and contralateral prophylactic mastectomy options are available.
+Sentinel lymph node biopsy evaluates axillary lymph node involvement with less morbidity than axillary dissection.
+Breast reconstruction with implants, tissue expanders, or autologous flaps (TRAM, DIEP, latissimus dorsi) may follow mastectomy.
+
+Radiotherapy:
+Adjuvant radiotherapy after breast-conserving surgery reduces local recurrence. Post-mastectomy radiotherapy is given in high-risk cases. Hypofractionated and accelerated partial breast irradiation regimens have reduced treatment burden.
+
+Systemic Therapy:
+
+Hormone Receptor-Positive (HR+) Breast Cancer:
+Endocrine therapy is the backbone of HR+ breast cancer treatment.
+Premenopausal women: tamoxifen for 5 to 10 years. Ovarian function suppression (GnRH agonist: goserelin, leuprolide) plus tamoxifen or aromatase inhibitor for high-risk patients.
+Postmenopausal women: aromatase inhibitors (anastrozole, letrozole, exemestane) are superior to tamoxifen. Sequential tamoxifen then aromatase inhibitor is an option.
+CDK4/6 inhibitors (palbociclib, ribociclib, abemaciclib) combined with aromatase inhibitors significantly improve outcomes in metastatic HR+ HER2- breast cancer and in adjuvant setting for high-risk early breast cancer.
+PI3K inhibitors (alpelisib for PIK3CA-mutant) and HDAC inhibitors (tucatinib combinations) are used in metastatic disease.
+
+HER2-Positive Breast Cancer:
+Trastuzumab (Herceptin) plus pertuzumab dual HER2 blockade with chemotherapy followed by 12 months adjuvant trastuzumab is standard for HER2+ early breast cancer.
+Neratinib (extended adjuvant) for HR+/HER2+ high-risk patients.
+Trastuzumab emtansine (T-DM1) is an antibody-drug conjugate used for residual disease after neoadjuvant therapy.
+Trastuzumab deruxtecan (T-DXd) is a next-generation ADC with transformative efficacy in metastatic HER2+ breast cancer and HER2-low disease.
+Tucatinib plus trastuzumab plus capecitabine for HER2+ metastatic breast cancer including brain metastases.
+Lapatinib and neratinib are small-molecule HER2 tyrosine kinase inhibitors.
+
+Triple-Negative Breast Cancer:
+Chemotherapy regimens including anthracyclines (doxorubicin, epirubicin) and taxanes (paclitaxel, docetaxel) are standard.
+Immunotherapy with pembrolizumab (anti-PD-1) combined with chemotherapy improves outcomes in PD-L1-positive TNBC.
+PARP inhibitors (olaparib, talazoparib) for BRCA1/2-mutated HER2-negative breast cancer.
+Sacituzumab govitecan (TROP-2 targeted ADC) for metastatic TNBC.
+
+Neoadjuvant Therapy:
+Pre-operative systemic therapy (chemotherapy, targeted therapy, immunotherapy) reduces tumor size, allows breast conservation, and provides in-vivo assessment of treatment sensitivity. Pathological complete response predicts better long-term outcomes.
+
+BONE HEALTH AND SUPPORTIVE CARE
+Bisphosphonates (zoledronic acid) and denosumab prevent skeletal-related events in metastatic bone disease and adjuvantly reduce bone metastasis risk and improve survival.

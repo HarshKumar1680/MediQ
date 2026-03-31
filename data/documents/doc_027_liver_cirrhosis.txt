@@ -1,0 +1,48 @@
+Title: Liver Cirrhosis - Treatment and Hepatological Management
+Source: Based on Wikipedia, Mayo Clinic, EASL Guidelines
+Disease: Liver Cirrhosis
+
+Liver cirrhosis is a late-stage form of hepatic fibrosis resulting from long-term liver damage. It is characterized by replacement of normal liver tissue by diffuse fibrosis, regenerative nodules, and vascular remodeling, leading to portal hypertension and liver dysfunction.
+
+OVERVIEW
+Common causes include chronic alcohol use (alcoholic cirrhosis), chronic viral hepatitis B and C, non-alcoholic fatty liver disease (NAFLD/NASH), autoimmune hepatitis, primary biliary cholangitis, primary sclerosing cholangitis, hereditary hemochromatosis, Wilson disease, and alpha-1 antitrypsin deficiency.
+
+CLASSIFICATION
+Compensated cirrhosis: No overt complications, relatively preserved liver function.
+Decompensated cirrhosis: Development of variceal bleeding, ascites, hepatic encephalopathy, or jaundice, indicating significant liver dysfunction and portal hypertension.
+
+TREATMENT APPROACHES
+
+Treating Underlying Causes:
+Alcohol abstinence: Cessation of alcohol consumption is the most important intervention in alcoholic cirrhosis and can partially reverse fibrosis.
+Antiviral therapy: Treating hepatitis B and C viruses eliminates the primary driver of inflammation, stabilizes fibrosis, and can lead to regression.
+Weight loss and metabolic control: For NAFLD/NASH, lifestyle modification targeting weight loss of 7 to 10 percent significantly reduces liver inflammation and fibrosis.
+Immunosuppression: Corticosteroids and azathioprine for autoimmune hepatitis.
+Ursodeoxycholic acid (UDCA) slows progression of primary biliary cholangitis.
+Copper chelation (penicillamine, trientine) or zinc supplementation for Wilson disease.
+Phlebotomy for hereditary hemochromatosis.
+
+Portal Hypertension and Its Complications:
+Varices and Variceal Bleeding:
+Non-selective beta-blockers (propranolol, carvedilol) reduce portal pressure and prevent first variceal bleeding and rebleeding. Endoscopic band ligation eradicates esophageal varices.
+Acute variceal bleeding: vasoconstrictors (terlipressin, somatostatin analogs: octreotide, vapreotide), emergency endoscopic band ligation or sclerotherapy, IV antibiotics (ceftriaxone), and balloon tamponade as bridge to definitive therapy. Transjugular intrahepatic portosystemic shunt (TIPS) is used for refractory bleeding.
+
+Ascites:
+Sodium restriction (88 mmol/day) and diuretics: spironolactone (aldosterone antagonist) and furosemide (loop diuretic) in 100:40 mg ratio are first-line treatment.
+Refractory ascites: Large volume paracentesis with albumin infusion. TIPS reduces ascites recurrence.
+Spontaneous bacterial peritonitis (SBP): Intravenous cefotaxime or ceftriaxone, IV albumin infusion to prevent hepatorenal syndrome, long-term norfloxacin or trimethoprim-sulfamethoxazole prophylaxis.
+
+Hepatic Encephalopathy:
+Lactulose is the first-line treatment, reducing ammonia production and absorption by acidifying colonic contents and acting as a laxative.
+Rifaximin is a non-absorbable antibiotic that reduces gut bacterial ammonia production and prevents recurrent episodes.
+Identifying and treating precipitating factors (infection, GI bleeding, electrolyte disturbances, constipation).
+Dietary protein restriction is no longer recommended; adequate protein intake supports muscle mass preservation.
+
+Hepatorenal Syndrome (HRS):
+Vasoconstrictors: terlipressin is the most effective agent. Norepinephrine with albumin as alternative. Midodrine plus octreotide plus albumin may be used where terlipressin is unavailable.
+
+Hepatocellular Carcinoma Surveillance:
+Ultrasound with or without alpha-fetoprotein every 6 months for HCC screening in all patients with cirrhosis.
+
+Liver Transplantation:
+The only definitive treatment for end-stage liver disease. MELD score (Model for End-stage Liver Disease) based on bilirubin, creatinine, and INR guides organ allocation. Contraindications include active alcohol/substance use, extrahepatic malignancy, and severe cardiopulmonary disease.

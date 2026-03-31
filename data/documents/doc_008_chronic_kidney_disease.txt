@@ -1,0 +1,46 @@
+Title: Chronic Kidney Disease - Treatment and Management
+Source: Based on Wikipedia, Mayo Clinic, KDIGO Guidelines
+Disease: Chronic Kidney Disease (CKD)
+
+Chronic kidney disease (CKD) is a long-term condition characterized by a gradual loss of kidney function over time. It is defined as abnormalities of kidney structure or function present for more than 3 months, with implications for health. The kidneys filter waste products and excess fluid from the blood, which are then excreted in urine.
+
+STAGING
+CKD is staged according to the glomerular filtration rate (GFR):
+Stage 1: GFR ≥ 90 mL/min (kidney damage with normal function)
+Stage 2: GFR 60-89 mL/min (mildly decreased)
+Stage 3a: GFR 45-59 mL/min
+Stage 3b: GFR 30-44 mL/min
+Stage 4: GFR 15-29 mL/min (severely decreased)
+Stage 5: GFR < 15 mL/min (kidney failure, end-stage renal disease)
+
+COMMON CAUSES
+Diabetic nephropathy and hypertensive nephrosclerosis account for the majority of CKD cases. Other causes include glomerulonephritis, polycystic kidney disease, recurrent urinary tract infections, and obstructive uropathy.
+
+SYMPTOMS
+Early CKD is usually asymptomatic. As CKD progresses, symptoms include fatigue, edema, nausea, vomiting, decreased urine output, itching, muscle cramps, confusion, and hypertension.
+
+TREATMENT APPROACHES
+
+Treating Underlying Causes:
+Aggressive management of diabetes through optimal glycemic control (HbA1c below 7%) and hypertension management (blood pressure below 130/80 mmHg) are the most important measures to slow CKD progression.
+
+Renin-Angiotensin-Aldosterone System Blockade:
+ACE inhibitors or ARBs reduce proteinuria and slow CKD progression, particularly in diabetic nephropathy and proteinuric CKD. SGLT2 inhibitors, particularly dapagliflozin and empagliflozin, have demonstrated significant renoprotective effects in CKD patients with and without diabetes. Finerenone, a non-steroidal mineralocorticoid receptor antagonist, reduces CKD progression in diabetic kidney disease.
+
+Managing Complications:
+Anemia: Erythropoiesis-stimulating agents (ESAs) such as epoetin alfa and darbepoetin are used when hemoglobin falls below 10 g/dL. Intravenous iron supplementation corrects iron deficiency.
+Mineral and bone disorder: Active vitamin D analogs (calcitriol, paricalcitol) and phosphate binders (calcium carbonate, sevelamer, lanthanum carbonate) manage hyperphosphatemia and secondary hyperparathyroidism.
+Metabolic acidosis: Sodium bicarbonate supplementation corrects acidosis and may slow CKD progression.
+Hyperkalemia: Dietary potassium restriction, potassium binders (patiromer, sodium zirconium cyclosilicate), and diuretics manage elevated potassium levels.
+Fluid overload: Loop diuretics such as furosemide manage edema and fluid retention.
+
+Dietary Interventions:
+Protein restriction to 0.6-0.8 g/kg/day in non-dialysis CKD may slow progression. Sodium restriction, potassium restriction in later stages, and phosphorus restriction are important dietary measures.
+
+Renal Replacement Therapy (Stage 5/End-Stage Renal Disease):
+Hemodialysis: Blood is circulated through an external dialysis machine to remove waste products and excess fluid, typically three times weekly.
+Peritoneal dialysis: Dialysis fluid is introduced into the peritoneal cavity through a catheter, and the peritoneum acts as a natural filter.
+Kidney Transplantation: The optimal treatment for end-stage renal disease, offering better quality of life and survival compared to dialysis.
+
+CARDIOVASCULAR RISK MANAGEMENT
+CKD patients have markedly elevated cardiovascular risk. Statins, antiplatelet therapy, and comprehensive cardiovascular risk factor management are essential components of CKD care.

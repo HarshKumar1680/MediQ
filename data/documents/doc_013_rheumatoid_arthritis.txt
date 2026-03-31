@@ -1,0 +1,47 @@
+Title: Rheumatoid Arthritis - Treatment and Disease Management
+Source: Based on Wikipedia, Mayo Clinic, ACR Guidelines
+Disease: Rheumatoid Arthritis
+
+Rheumatoid arthritis (RA) is a chronic, systemic autoimmune inflammatory disease that primarily affects the synovial joints. The immune system attacks the synovial membrane, causing inflammation, joint damage, and disability. It affects approximately 1% of the population worldwide.
+
+OVERVIEW
+RA is characterized by symmetric polyarthritis affecting small joints of the hands and feet, along with systemic features such as fatigue, anemia, and extra-articular manifestations including nodules, vasculitis, and interstitial lung disease. RA is associated with increased cardiovascular risk.
+
+PATHOPHYSIOLOGY
+Autoreactive T and B lymphocytes, macrophages, and synovial fibroblasts drive persistent synovial inflammation. Key inflammatory mediators include TNF-alpha, IL-1, IL-6, and IL-17. Cytokine-driven synovitis leads to cartilage destruction, bone erosion, and joint deformity.
+
+DIAGNOSIS
+Diagnosis is based on clinical criteria including symmetric joint inflammation, morning stiffness lasting over 1 hour, elevated inflammatory markers (CRP, ESR), positive rheumatoid factor (RF) and anti-citrullinated protein antibodies (ACPA/anti-CCP), and radiographic evidence of joint damage.
+
+TREATMENT APPROACHES
+
+Treat-to-Target Strategy:
+The current standard is to treat aggressively with frequent monitoring and therapy escalation to achieve clinical remission or low disease activity, assessed using validated composite disease activity scores (DAS28, CDAI, SDAI).
+
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs):
+NSAIDs such as ibuprofen, naproxen, and celecoxib reduce pain and inflammation but do not prevent joint damage. They provide symptomatic relief while disease-modifying therapy takes effect.
+
+Glucocorticoids:
+Low-dose prednisolone or methylprednisolone rapidly reduces inflammation and serves as a bridge therapy while DMARDs take effect. Short courses of glucocorticoids are used for flares. Long-term use is minimized due to side effects.
+
+Conventional Synthetic DMARDs (csDMARDs):
+Methotrexate is the anchor drug for RA and the first-line DMARD. It inhibits folate metabolism and reduces synovial inflammation. It is used as monotherapy or in combination with other DMARDs. Folic acid supplementation reduces methotrexate toxicity.
+Hydroxychloroquine has anti-inflammatory properties and is often used in combination.
+Sulfasalazine reduces inflammation and is used alone or in triple therapy with methotrexate and hydroxychloroquine.
+Leflunomide inhibits pyrimidine synthesis and can substitute for or combine with methotrexate.
+
+Biologic DMARDs (bDMARDs):
+TNF-alpha inhibitors including etanercept, adalimumab, infliximab, certolizumab, and golimumab are the most widely used biologics. They block the central proinflammatory cytokine TNF-alpha.
+IL-6 receptor inhibitors: tocilizumab and sarilumab block IL-6 signaling.
+CTLA-4-Ig fusion protein: abatacept inhibits T cell costimulation.
+Rituximab depletes CD20+ B cells and is effective, particularly in seropositive RA.
+IL-1 receptor antagonist: anakinra.
+
+Targeted Synthetic DMARDs (tsDMARDs) - JAK Inhibitors:
+Tofacitinib, baricitinib, upadacitinib, and filgotinib block Janus kinase enzymes involved in cytokine signaling. They are oral agents with rapid onset of action.
+
+Physical and Occupational Therapy:
+Joint protection techniques, therapeutic exercise, assistive devices, and orthoses help maintain function and reduce disability. Regular exercise including aerobic activity and resistance training is beneficial.
+
+Surgery:
+Synovectomy, tendon repair, and joint replacement may be required for patients with significant structural damage.

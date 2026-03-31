@@ -1,0 +1,56 @@
+Title: Urinary Tract Infection - Treatment and Antimicrobial Management
+Source: Based on Wikipedia, Mayo Clinic, IDSA Guidelines
+Disease: Urinary Tract Infection (UTI)
+
+A urinary tract infection (UTI) is an infection affecting any part of the urinary system including the kidneys, ureters, bladder, and urethra. Most infections involve the lower urinary tract — the bladder (cystitis) and the urethra (urethritis). UTIs are one of the most common bacterial infections, particularly in women.
+
+OVERVIEW
+Escherichia coli accounts for approximately 80-85% of community-acquired UTIs. Other pathogens include Klebsiella pneumoniae, Staphylococcus saprophyticus, Enterococcus faecalis, Proteus mirabilis, and Pseudomonas aeruginosa (in healthcare-associated infections).
+
+CLASSIFICATION
+Uncomplicated UTI: infection in a non-pregnant adult woman with no structural or functional urinary tract abnormality.
+Complicated UTI: UTI in men, pregnant women, elderly, immunocompromised individuals, or those with urinary tract abnormalities, catheters, or recent instrumentation.
+Cystitis: lower UTI involving the bladder.
+Pyelonephritis: upper UTI involving the renal parenchyma.
+Recurrent UTI: two or more UTIs in 6 months or three or more in 12 months.
+
+SYMPTOMS
+Cystitis: dysuria (painful urination), frequency, urgency, suprapubic pain, hematuria, cloudy or malodorous urine.
+Pyelonephritis: fever, rigors, flank pain, costovertebral angle tenderness, nausea, vomiting, plus cystitis symptoms.
+
+DIAGNOSIS
+Urinalysis showing pyuria (white blood cells), bacteriuria, and nitrites. Urine culture and sensitivity (midstream clean-catch specimen) confirms the causative organism and guides antibiotic selection. Blood cultures for pyelonephritis and febrile UTI.
+
+TREATMENT APPROACHES
+
+Uncomplicated Cystitis (Women):
+First-line agents (short-course therapy):
+Nitrofurantoin macrocrystals (100 mg twice daily for 5 days) - acts within the urinary tract only, not suitable for pyelonephritis.
+Trimethoprim-sulfamethoxazole (TMP-SMX, DS twice daily for 3 days) - effective where local resistance is less than 20%.
+Fosfomycin trometamol (3 g single oral dose) - highly effective and convenient single-dose therapy.
+Pivmecillinam (400 mg twice daily for 3-7 days) - available in Europe and Scandinavia.
+
+Second-line agents (reserve for resistant organisms or allergy):
+Fluoroquinolones (ciprofloxacin, levofloxacin) - very effective but reserved as second-line to preserve efficacy for serious infections.
+Beta-lactams (amoxicillin-clavulanate, cephalexin) - less efficacious than first-line agents but used when others are not appropriate.
+
+Pyelonephritis:
+Outpatient: oral ciprofloxacin (500 mg twice daily for 7 days) or levofloxacin (750 mg once daily for 5 days) for uncomplicated pyelonephritis in areas with low fluoroquinolone resistance. Oral TMP-SMX for 14 days if susceptibility confirmed.
+Hospitalized patients: IV ceftriaxone, gentamicin, or piperacillin-tazobactam until fever resolves, then step-down to oral therapy based on culture results.
+
+Complicated UTI:
+Broader-spectrum antibiotics are often required. Duration is typically 7-14 days depending on response. Underlying causes (obstruction, stones, anatomical abnormality) must be addressed.
+
+Catheter-Associated UTI (CAUTI):
+Remove or change urinary catheter if possible before initiating antibiotics. Antibiotic choice guided by culture and local resistance patterns. 7-day course for women, 10-14 days for men.
+
+Recurrent UTIs (Women):
+Behavioral modifications: adequate hydration, voiding after intercourse, avoidance of spermicides.
+Prophylactic antibiotics: low-dose continuous prophylaxis (nitrofurantoin 50-100 mg nightly, TMP-SMX half-tablet nightly, trimethoprim 100 mg nightly) reduces recurrence by 95%.
+Post-coital prophylaxis: single-dose antibiotic taken within 2 hours of intercourse.
+Vaginal estrogen cream for postmenopausal women reduces UTI recurrence.
+D-mannose supplementation may reduce recurrence by blocking E. coli adhesion.
+Methenamine hippurate reduces recurrence through urinary formaldehyde production.
+
+PREGNANCY
+Asymptomatic bacteriuria in pregnancy requires antibiotic treatment (7-day course) to prevent progression to pyelonephritis and preterm birth. Nitrofurantoin, cephalexin, and amoxicillin-clavulanate are safe in pregnancy. Nitrofurantoin should be avoided near term.

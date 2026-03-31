@@ -1,0 +1,51 @@
+Title: Dengue Fever - Treatment and Clinical Management
+Source: Based on Wikipedia, WHO, CDC Guidelines
+Disease: Dengue Fever
+
+Dengue fever is a mosquito-borne viral infection caused by any of four dengue virus serotypes (DENV-1 to DENV-4). It is transmitted primarily by Aedes aegypti and Aedes albopictus mosquitoes. Dengue is the most prevalent arthropod-borne viral disease globally, with an estimated 390 million infections occurring annually.
+
+OVERVIEW
+Dengue infection can be asymptomatic or present as a spectrum of clinical illness ranging from undifferentiated fever, classic dengue fever, dengue with warning signs, to severe dengue (dengue hemorrhagic fever/dengue shock syndrome). Secondary infection with a different serotype is associated with higher risk of severe disease due to antibody-dependent enhancement.
+
+CLINICAL PHASES
+Febrile Phase (Days 1-3): Abrupt onset of high fever, severe headache, retro-orbital pain, myalgia, arthralgia, and sometimes rash.
+Critical Phase (Days 4-6): Defervescence occurs, plasma leakage from capillaries can cause hemoconcentration, pleural effusion, ascites, hypovolemia, and shock.
+Recovery Phase (Days 7-10): Reabsorption of leaked fluids, hemodynamic stabilization, and symptomatic improvement.
+
+WARNING SIGNS
+Abdominal pain or tenderness, persistent vomiting, clinical fluid accumulation, mucosal bleeding, lethargy, liver enlargement greater than 2 cm, and rising hematocrit with rapid platelet decline indicate progression to severe dengue.
+
+DIAGNOSIS
+Complete blood count (monitoring for leukopenia, thrombocytopenia, rising hematocrit), NS1 antigen detection (days 1-5), IgM/IgG serology, and PCR for early diagnosis.
+
+TREATMENT APPROACHES
+
+There is no specific antiviral therapy for dengue. Management is supportive.
+
+Supportive Care for Dengue Fever (Non-Severe):
+Adequate hydration with oral rehydration solutions is essential. Patients should drink at least 5 glasses of fluids per day.
+Antipyretics: Paracetamol (acetaminophen) is used for fever and pain relief. NSAIDs and aspirin must be strictly avoided due to risk of bleeding and Reye syndrome in children.
+Rest is advised during the febrile phase.
+Daily monitoring of platelet count, hematocrit, and warning signs is crucial.
+
+Fluid Management in Dengue with Warning Signs:
+Intravenous crystalloid fluid therapy (0.9% normal saline or Ringer's lactate) is initiated when oral hydration is inadequate. The rate is titrated based on clinical status, urine output, and hematocrit. Fluid overload must be avoided during the recovery phase.
+
+Management of Severe Dengue / Dengue Shock:
+Rapid intravenous fluid resuscitation with isotonic crystalloids (10-20 mL/kg over 15-30 minutes).
+Colloids (dextran, gelatin) may be used in refractory shock.
+Careful monitoring of vital signs, urine output, hematocrit, and electrolytes guides ongoing fluid management.
+Blood transfusion: Packed red blood cells for significant bleeding with hemodynamic compromise. Platelet transfusion is reserved for severe active bleeding with very low platelet counts, not for prophylactic correction of low platelet count alone.
+Fresh frozen plasma and cryoprecipitate may be used for coagulopathy with significant bleeding.
+Careful monitoring in ICU setting.
+
+Management of Complications:
+Liver impairment: supportive care, avoid hepatotoxic drugs.
+Neurological complications (encephalitis): steroids may be considered.
+Myocarditis: cardiac monitoring and supportive management.
+
+PREVENTION
+Vector control through elimination of mosquito breeding sites (standing water), use of insect repellent, and protective clothing are the main prevention strategies. The Dengvaxia vaccine is approved for seropositive individuals aged 9-45 years in endemic countries. CYD-TDV (Dengvaxia) increases risk of severe dengue in seronegative individuals, requiring pre-vaccination screening.
+
+DISCHARGE CRITERIA
+Afebrile for at least 24 hours without antipyretics, improvement in clinical status, increasing platelet trend, stable hematocrit, good urine output, and absence of distress signals.

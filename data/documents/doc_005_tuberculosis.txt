@@ -1,0 +1,46 @@
+Title: Tuberculosis - Treatment, Therapy, and Drug Regimens
+Source: Based on Wikipedia, WHO, CDC
+Disease: Tuberculosis (TB)
+
+Tuberculosis (TB) is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs (pulmonary TB) but can also affect other organs including the kidneys, spine, and brain. TB remains one of the leading infectious causes of death worldwide.
+
+OVERVIEW
+TB spreads through the air when an infected person coughs, sneezes, or speaks. Not all people infected with Mycobacterium tuberculosis become sick. Latent TB infection means the bacteria are present in the body but inactive and cause no symptoms. Active TB disease causes symptoms and can spread to others.
+
+SYMPTOMS
+Active pulmonary TB symptoms include persistent cough lasting more than three weeks, coughing up blood or mucus, chest pain, weight loss, fatigue, fever, night sweats, and loss of appetite.
+
+DIAGNOSIS
+TB is diagnosed through tuberculin skin tests (Mantoux test), interferon-gamma release assays (IGRAs), chest X-rays, and sputum smear microscopy or culture. Molecular tests like GeneXpert can rapidly detect TB and rifampicin resistance.
+
+TREATMENT APPROACHES
+
+Standard First-Line Treatment (Active TB):
+The standard treatment for drug-susceptible active TB follows a two-phase regimen:
+Intensive Phase (2 months): Four drugs administered simultaneously - Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), and Ethambutol (E). This phase rapidly reduces the bacterial load and eliminates actively multiplying bacteria.
+Continuation Phase (4 months): Two drugs - Isoniazid and Rifampicin. This phase eliminates remaining dormant bacteria and prevents relapse.
+Total treatment duration: 6 months (2HRZE/4HR regimen).
+
+Latent TB Treatment:
+Treatment of latent TB infection prevents progression to active disease. Options include isoniazid for 6 or 9 months, rifampicin for 4 months, or combined isoniazid-rifapentine for 3 months (3HP regimen).
+
+Drug-Resistant TB:
+Multidrug-resistant TB (MDR-TB) is resistant to at least isoniazid and rifampicin. Treatment requires second-line drugs for 18 to 24 months. Newer shorter regimens using bedaquiline, pretomanid, and linezolid show promise.
+Extensively drug-resistant TB (XDR-TB) is resistant to isoniazid, rifampicin, fluoroquinolones, and at least one injectable second-line drug. Treatment options are very limited and outcomes are poor.
+
+Second-Line Drug Classes:
+Fluoroquinolones: levofloxacin, moxifloxacin
+Injectable aminoglycosides: amikacin, capreomycin
+Newer agents: bedaquiline, delamanid, linezolid, clofazimine
+
+Pyridoxine Supplementation:
+Vitamin B6 (pyridoxine) is routinely given alongside isoniazid to prevent peripheral neuropathy.
+
+MONITORING
+Patients are monitored through sputum cultures, liver function tests, visual acuity tests (for ethambutol toxicity), and clinical assessments throughout treatment.
+
+DIRECTLY OBSERVED THERAPY (DOT):
+WHO recommends directly observed therapy where a health worker or trained supporter watches the patient swallow each dose to ensure treatment completion and prevent resistance development.
+
+HIV-TB CO-INFECTION
+Patients with both TB and HIV face unique treatment challenges. Antiretroviral therapy should be started early. Rifampicin interacts with many antiretroviral drugs, requiring regimen adjustments.

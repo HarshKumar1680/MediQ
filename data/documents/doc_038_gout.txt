@@ -1,0 +1,43 @@
+Title: Gout - Treatment and Rheumatological Management
+Source: Based on Wikipedia, Mayo Clinic, ACR/EULAR Guidelines
+Disease: Gout
+
+Gout is the most common form of inflammatory arthritis, caused by deposition of monosodium urate (MSU) crystals in joints and soft tissues due to sustained hyperuricemia (serum urate > 6.8 mg/dL). It is characterized by recurrent attacks of acute gouty arthritis and, if untreated, chronic tophaceous gout with joint destruction.
+
+OVERVIEW
+Uric acid is the final product of purine catabolism in humans. Hyperuricemia results from overproduction of uric acid, underexcretion by the kidneys, or both. Crystal deposition triggers intense neutrophil-mediated inflammation via NLRP3 inflammasome activation and IL-1beta release.
+
+SYMPTOMS
+Acute gout: sudden onset of severe, excruciating pain, swelling, redness, and warmth typically in a single joint. The first metatarsophalangeal joint (podagra) is classically affected, but ankles, knees, wrists, and elbows are also common sites. Attacks peak within 12-24 hours and resolve over 3-14 days.
+Intercritical gout: asymptomatic periods between attacks with ongoing subclinical crystal deposition.
+Chronic tophaceous gout: persistent urate crystal deposits forming tophi in joints, bursae, tendons, and subcutaneous tissues, causing joint destruction and disability.
+
+DIAGNOSIS
+Joint aspiration with polarized light microscopy demonstrating negatively birefringent needle-shaped MSU crystals is the gold standard. Ultrasound reveals characteristic double contour sign. Dual-energy CT can detect urate crystal deposits. Serum urate is supportive but may be normal during acute attacks.
+
+TREATMENT APPROACHES
+
+Acute Gout Attack:
+NSAIDs: indomethacin, naproxen, or ibuprofen at full anti-inflammatory doses for 5-7 days are first-line if no contraindications. Should be initiated within 24 hours of attack onset for maximum efficacy.
+Colchicine: Low-dose colchicine (1.2 mg followed by 0.6 mg one hour later, then 0.6 mg twice daily) is highly effective and equally efficacious to high-dose regimens with fewer gastrointestinal side effects. Best results when started within 12-24 hours of attack onset.
+Corticosteroids: Prednisolone 30-35 mg/day for 5 days, or intra-articular methylprednisolone injection for monoarthritis, are used when NSAIDs and colchicine are contraindicated (renal impairment, drug interactions).
+IL-1 inhibitors: Anakinra, canakinumab, or rilonacept are used for refractory acute gout when other agents are contraindicated.
+
+Urate-Lowering Therapy (ULT):
+ULT is the cornerstone of long-term gout management and reduces serum urate below the saturation threshold (target < 6 mg/dL, or < 5 mg/dL in tophaceous gout), causing crystal dissolution and preventing future attacks.
+
+Xanthine Oxidase Inhibitors (first-line ULT):
+Allopurinol is the preferred first-line ULT. It inhibits xanthine oxidase, reducing uric acid production. Starting dose of 100 mg daily is gradually uptitrated by 100 mg every 2-4 weeks to reach target serum urate. Maximum dose is 800-900 mg/day. HLA-B*5801 testing is recommended in Southeast Asian and Black patients before starting allopurinol to identify those at high risk of severe cutaneous adverse reactions (DRESS, Stevens-Johnson syndrome).
+Febuxostat is a selective xanthine oxidase inhibitor used when allopurinol is not tolerated. FDA black box warning for cardiovascular events requires monitoring.
+
+Uricosuric Agents:
+Probenecid and lesinurad increase renal uric acid excretion. Lesinurad is used in combination with allopurinol for patients not at target on xanthine oxidase inhibitor alone.
+
+Pegloticase:
+Recombinant polyethylene glycol-conjugated uricase converts urate to allantoin, dramatically reducing serum urate. Used for treatment-refractory chronic tophaceous gout. Given IV every 2 weeks. Immunogenicity is a major concern. Co-administration with methotrexate reduces antibody formation and improves response durability.
+
+LIFESTYLE MODIFICATIONS
+Dietary purine reduction (limiting red meat, organ meats, shellfish, sardines), alcohol restriction (especially beer), sugar-sweetened beverage avoidance, adequate hydration, and weight loss all reduce serum urate and attack frequency. Dairy consumption and vitamin C supplementation have uricosuric effects.
+
+Prophylaxis During ULT Initiation:
+Low-dose colchicine (0.6 mg once or twice daily) or low-dose NSAIDs should be given for 3-6 months when starting ULT to prevent mobilization flares as crystals dissolve.

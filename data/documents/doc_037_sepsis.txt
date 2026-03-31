@@ -1,0 +1,48 @@
+Title: Sepsis and Septic Shock - Treatment and Critical Care Management
+Source: Based on Wikipedia, Surviving Sepsis Campaign Guidelines, WHO
+Disease: Sepsis / Septic Shock
+
+Sepsis is a life-threatening organ dysfunction caused by a dysregulated host response to infection. Septic shock is a subset of sepsis with circulatory and cellular/metabolic abnormalities profound enough to substantially increase mortality.
+
+OVERVIEW
+Sepsis results from the host's immune response to infection causing widespread inflammation, coagulopathy, and organ dysfunction. Any infection (bacterial, viral, fungal, or parasitic) can cause sepsis. Common sources include lung (pneumonia), urinary tract, abdominal infections, and bloodstream (bacteremia).
+
+DIAGNOSIS
+Sepsis is defined by a suspected or confirmed infection plus organ dysfunction, identified by an increase of ≥ 2 points in the Sequential Organ Failure Assessment (SOFA) score. Septic shock is defined by vasopressor requirement to maintain MAP ≥ 65 mmHg and lactate > 2 mmol/L despite adequate volume resuscitation.
+
+TREATMENT APPROACHES
+
+Time-Critical Initial Resuscitation:
+The Surviving Sepsis Campaign recommends the "Hour-1 Bundle": Measure lactate. Obtain blood cultures before administering antibiotics. Administer broad-spectrum antibiotics. Administer 30 mL/kg IV crystalloid for hypotension or lactate ≥ 4 mmol/L. Apply vasopressors for hypotension unresponsive to initial fluid resuscitation to maintain mean arterial pressure (MAP) ≥ 65 mmHg.
+
+Antibiotic Therapy:
+Empirical broad-spectrum antibiotic therapy should be initiated within 1 hour of sepsis recognition, before culture results are available.
+Typical empirical regimens cover gram-positive, gram-negative, and anaerobic organisms: piperacillin-tazobactam, meropenem, imipenem-cilastatin, or cefepime plus metronidazole.
+MRSA coverage with vancomycin or linezolid is added when MRSA is a concern.
+Antifungal therapy (micafungin, caspofungin) is added when invasive candidiasis is suspected.
+De-escalation and narrowing of antibiotics based on culture results and clinical response is essential to reduce resistance. Duration is typically 7-10 days.
+
+Source Control:
+Identifying and controlling the source of infection (drainage of abscess, removal of infected catheter, surgical debridement, treatment of pneumonia) is critical and reduces mortality.
+
+Fluid Resuscitation:
+Crystalloids (normal saline or Ringer's lactate) are first-line. Balanced crystalloids (Ringer's lactate, Plasmalyte) are preferred over normal saline to reduce hyperchloremic acidosis. Albumin is added for resuscitation of patients requiring large volumes of crystalloids. Fluid responsiveness should guide ongoing fluid administration to avoid fluid overload.
+
+Vasopressors:
+Norepinephrine is the first-choice vasopressor for septic shock, targeting MAP ≥ 65 mmHg.
+Vasopressin is added as a second-line agent to reduce norepinephrine dose.
+Dopamine is a second-line alternative in highly selected patients.
+Epinephrine may be added in refractory shock.
+Dobutamine is used when myocardial dysfunction with persistent hypoperfusion is present.
+
+Corticosteroids:
+IV hydrocortisone (200 mg/day continuous infusion or 50 mg every 6 hours) is used in septic shock not responding to fluid resuscitation and vasopressors (refractory septic shock). It shortens shock duration and reduces vasopressor requirements.
+
+Organ Support:
+Mechanical ventilation for acute respiratory failure: Lung-protective ventilation strategy with low tidal volumes (6 mL/kg ideal body weight), plateau pressure ≤ 30 cmH2O, and positive end-expiratory pressure (PEEP) to maintain oxygenation. Prone positioning for severe ARDS.
+Renal replacement therapy (continuous or intermittent hemodialysis) for acute kidney injury and fluid overload.
+Transfusion: Packed red blood cells when hemoglobin < 7 g/dL in non-bleeding, non-cardiac patients.
+Glycemic control: Insulin infusion targeting blood glucose 140-180 mg/dL.
+
+Immunomodulation:
+IVIG has been used but evidence is inconclusive. Activated protein C (drotrecogin alfa) was withdrawn from the market after lack of benefit. Complement inhibitors and IL-6 blockade are under investigation.

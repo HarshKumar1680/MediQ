@@ -1,0 +1,43 @@
+Title: Asthma - Treatment, Therapy, and Management
+Source: Based on Wikipedia, Mayo Clinic, NHLBI
+Disease: Bronchial Asthma
+
+Asthma is a chronic inflammatory disease of the airways characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm. It is one of the most common chronic diseases globally, affecting an estimated 300 million people worldwide.
+
+OVERVIEW
+Asthma involves inflammation and narrowing of the bronchial airways, leading to episodes of wheezing, chest tightness, shortness of breath, and coughing. Triggers include allergens, respiratory infections, exercise, cold air, and environmental pollutants.
+
+PATHOPHYSIOLOGY
+In asthma, exposure to triggers causes mast cell degranulation, eosinophilic infiltration, smooth muscle hypertrophy, and mucus hypersecretion. These processes narrow the airway lumen and increase airway resistance, making breathing difficult.
+
+CLASSIFICATION
+Asthma is classified by severity: intermittent, mild persistent, moderate persistent, and severe persistent. This classification guides treatment decisions and the stepwise management approach.
+
+TREATMENT APPROACHES
+
+Quick-Relief Medications (Rescue Inhalers):
+Short-acting beta-2 agonists (SABAs) such as albuterol (salbutamol) and levalbuterol are the primary rescue medications. They relax bronchial smooth muscle, providing rapid bronchodilation within minutes. They are used during acute asthma attacks and before exercise.
+
+Long-Term Control Medications:
+Inhaled corticosteroids (ICS) such as fluticasone, budesonide, and beclomethasone are the most effective long-term controller medications. They reduce airway inflammation, decrease mucus production, and prevent exacerbations. They are the preferred first-line therapy for persistent asthma.
+Long-acting beta-2 agonists (LABAs) including salmeterol and formoterol provide sustained bronchodilation over 12 hours. They are used in combination with inhaled corticosteroids for moderate to severe asthma.
+Leukotriene modifiers such as montelukast block the action of leukotrienes, reducing inflammation and bronchoconstriction.
+Theophylline is an oral bronchodilator used as add-on therapy in some patients.
+
+Biologics for Severe Asthma:
+Monoclonal antibodies including omalizumab (anti-IgE), mepolizumab, reslizumab (anti-IL-5), dupilumab (anti-IL-4/IL-13), and benralizumab target specific inflammatory pathways. These biologics are reserved for severe uncontrolled asthma.
+
+Immunotherapy:
+Allergen immunotherapy (allergy shots or sublingual tablets) can reduce sensitivity to specific allergens and may modify the underlying allergic response over time.
+
+Bronchial Thermoplasty:
+This minimally invasive procedure uses controlled heat to reduce excess smooth muscle in the airways of adults with severe persistent asthma.
+
+ACTION PLAN
+Patients should work with their doctor to develop a written Asthma Action Plan that guides medication use based on symptom severity and peak flow measurements.
+
+MONITORING
+Peak flow meters and spirometry are used to assess lung function and monitor treatment effectiveness.
+
+TRIGGER AVOIDANCE
+Identifying and avoiding personal triggers is a critical component of asthma management. Common triggers include dust mites, pet dander, pollen, mold, smoke, and strong odors.

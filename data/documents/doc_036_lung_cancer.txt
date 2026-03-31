@@ -1,0 +1,38 @@
+Title: Lung Cancer - Treatment and Thoracic Oncology Management
+Source: Based on Wikipedia, NCI, NCCN, ASCO Guidelines
+Disease: Lung Cancer
+
+Lung cancer is the leading cause of cancer death worldwide, accounting for approximately 1.8 million deaths annually. It is classified into non-small cell lung cancer (NSCLC, 85%) and small cell lung cancer (SCLC, 15%). NSCLC includes adenocarcinoma, squamous cell carcinoma, and large cell carcinoma.
+
+TREATMENT APPROACHES
+
+Non-Small Cell Lung Cancer (NSCLC):
+Early Stage (I-II):
+Surgical resection (lobectomy, segmentectomy, or pneumonectomy) is the treatment of choice for early-stage NSCLC. Video-assisted thoracoscopic surgery (VATS) or robotic-assisted surgery reduces morbidity. Stereotactic body radiotherapy (SBRT/SABR) is an alternative for medically inoperable patients with excellent local control.
+Adjuvant chemotherapy with cisplatin-based doublets (cisplatin-vinorelbine, cisplatin-pemetrexed) reduces recurrence in Stage II-IIIA disease. Adjuvant osimertinib for EGFR-mutated Stage IB-IIIA disease significantly improves disease-free survival.
+Neoadjuvant chemoimmunotherapy (nivolumab plus chemotherapy) improves pathological complete response and event-free survival before surgery.
+
+Locally Advanced Stage III:
+Concurrent chemoradiotherapy (platinum-based chemotherapy with thoracic radiotherapy) is standard for unresectable Stage III NSCLC. Durvalumab maintenance immunotherapy after concurrent chemoradiotherapy significantly improves progression-free and overall survival.
+
+Metastatic NSCLC - Molecular Targeted Therapy:
+Molecular testing for driver mutations is mandatory before first-line therapy.
+EGFR mutations (present in 10-15% of Western, 30-40% of Asian patients): osimertinib (3rd generation EGFR-TKI targeting EGFR T790M resistance mutation) is the preferred first-line agent with remarkable efficacy.
+ALK rearrangements (3-5%): alectinib, brigatinib, or lorlatinib (ALK inhibitors) with superior outcomes to chemotherapy.
+ROS1 rearrangements: crizotinib, entrectinib.
+BRAF V600E mutations: dabrafenib plus trametinib.
+MET exon 14 skipping: capmatinib, tepotinib.
+RET fusions: selpercatinib, pralsetinib.
+NTRK fusions: larotrectinib, entrectinib.
+KRAS G12C mutations: sotorasib, adagrasib.
+HER2 mutations: trastuzumab deruxtecan, poziotinib.
+
+Metastatic NSCLC - Immunotherapy:
+PD-L1 expression guides immunotherapy use. Pembrolizumab monotherapy for PD-L1 ≥ 50% (TPS). Pembrolizumab or atezolizumab plus chemotherapy for all-comers regardless of PD-L1. Nivolumab plus ipilimumab (dual checkpoint) improves overall survival in high PD-L1 expressors.
+
+Small Cell Lung Cancer (SCLC):
+Limited stage: Concurrent chemoradiotherapy (cisplatin-etoposide with thoracic radiotherapy) with prophylactic cranial irradiation.
+Extensive stage: Atezolizumab or durvalumab plus platinum-etoposide chemotherapy as first-line. Second-line options include lurbinectedin, topotecan, and clinical trials.
+
+Palliative Care:
+Symptom management including pain control with opioids, dyspnea management, thoracentesis for pleural effusions, endobronchial interventions (stenting, laser) for central airway obstruction, and palliative radiotherapy for bone metastases and brain metastases.

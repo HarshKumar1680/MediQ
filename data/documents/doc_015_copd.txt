@@ -1,0 +1,56 @@
+Title: Chronic Obstructive Pulmonary Disease (COPD) - Treatment and Management
+Source: Based on Wikipedia, GOLD Guidelines, Mayo Clinic
+Disease: COPD
+
+Chronic obstructive pulmonary disease (COPD) is a chronic inflammatory lung disease characterized by persistent and progressive airflow limitation. It encompasses two main conditions: chronic bronchitis, characterized by chronic productive cough, and emphysema, characterized by destruction of alveolar walls and loss of lung elasticity.
+
+OVERVIEW
+COPD is caused primarily by long-term exposure to irritants that damage the lungs and airways, most commonly cigarette smoke, and also occupational dusts, chemicals, and air pollution. COPD is a leading cause of morbidity and mortality worldwide.
+
+SYMPTOMS
+Progressive dyspnea (shortness of breath), chronic productive cough, wheeze, chest tightness, recurrent respiratory infections, and reduced exercise capacity are hallmark symptoms. Advanced COPD may cause cyanosis, cor pulmonale, and respiratory failure.
+
+DIAGNOSIS
+Spirometry is essential for diagnosis, confirming airflow obstruction with a post-bronchodilator FEV1/FVC ratio below 0.70. Disease severity is classified by GOLD stages based on FEV1 percent predicted.
+
+TREATMENT APPROACHES
+
+Smoking Cessation:
+The most effective intervention to slow COPD progression. Nicotine replacement therapy, varenicline, and bupropion are effective pharmacological aids to cessation.
+
+Bronchodilators:
+Bronchodilators are the cornerstone of COPD pharmacological management. They reduce airflow obstruction, improve exercise tolerance, and reduce exacerbations.
+Short-acting bronchodilators (SABA: albuterol/salbutamol; SAMA: ipratropium) are used for acute symptom relief.
+Long-acting muscarinic antagonists (LAMAs) including tiotropium, umeclidinium, aclidinium, and glycopyrronium are once or twice daily inhalers that are highly effective for COPD symptom control.
+Long-acting beta-2 agonists (LABAs) including salmeterol, formoterol, indacaterol, and olodaterol provide sustained bronchodilation.
+Dual bronchodilation (LAMA + LABA) in fixed-dose inhalers such as umeclidinium/vilanterol or glycopyrronium/formoterol is preferred for symptomatic patients.
+
+Inhaled Corticosteroids (ICS):
+ICS including fluticasone, budesonide, and beclomethasone reduce exacerbation frequency in patients with frequent exacerbations and elevated blood eosinophils. Triple therapy (ICS + LAMA + LABA) is used for patients with persistent symptoms and exacerbations.
+
+Phosphodiesterase-4 Inhibitor:
+Roflumilast, an oral anti-inflammatory agent, reduces exacerbation frequency in severe COPD with chronic bronchitis phenotype.
+
+Mucolytics:
+N-acetylcysteine (NAC) and carbocisteine reduce mucus viscosity and may reduce exacerbation frequency.
+
+Antibiotics:
+Macrolide antibiotics (azithromycin) given long-term reduce exacerbation frequency in selected patients.
+
+Supplemental Oxygen:
+Long-term oxygen therapy (LTOT) for more than 15 hours per day improves survival in patients with severe resting hypoxemia (PaO2 below 55 mmHg or SpO2 below 88%).
+
+Non-Invasive Ventilation (NIV):
+CPAP or BiPAP is used for patients with hypercapnic respiratory failure, particularly during acute exacerbations or chronically in patients with nocturnal hypoventilation.
+
+Pulmonary Rehabilitation:
+Supervised multidisciplinary exercise training, education, and psychosocial support is the most effective intervention for improving exercise capacity, dyspnea, and quality of life in COPD.
+
+Lung Volume Reduction:
+Bronchoscopic lung volume reduction (endobronchial valves, coils) or surgical lung volume reduction removes hyperinflated lung tissue in selected patients with emphysema-predominant COPD.
+
+Lung Transplantation:
+Single or bilateral lung transplantation may be appropriate for carefully selected patients with very severe COPD not responding to other treatments.
+
+EXACERBATION MANAGEMENT
+Acute exacerbations are treated with increased bronchodilator frequency, short courses of systemic corticosteroids (prednisolone), antibiotics for infectious exacerbations, and oxygen supplementation. Hospitalization may be required for severe exacerbations.

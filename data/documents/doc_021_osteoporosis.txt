@@ -1,0 +1,42 @@
+Title: Osteoporosis - Treatment and Bone Health Management
+Source: Based on Wikipedia, Mayo Clinic, NOF, AACE Guidelines
+Disease: Osteoporosis
+
+Osteoporosis is a systemic skeletal disorder characterized by low bone mineral density and deterioration of bone microarchitecture, leading to increased bone fragility and susceptibility to fractures. It is often called a silent disease because bone loss occurs without symptoms until a fracture occurs.
+
+OVERVIEW
+Bone is a dynamic tissue continuously being remodeled through osteoclast-mediated resorption and osteoblast-mediated formation. Osteoporosis occurs when bone resorption exceeds formation, reducing bone mass and strength. It predominantly affects postmenopausal women due to estrogen deficiency, but also occurs in older men and in association with various diseases and medications.
+
+RISK FACTORS
+Advanced age, female sex, postmenopausal status, low body weight, family history, smoking, excessive alcohol consumption, physical inactivity, calcium and vitamin D deficiency, glucocorticoid use, and conditions such as rheumatoid arthritis, celiac disease, and hypogonadism.
+
+DIAGNOSIS
+Dual-energy X-ray absorptiometry (DXA) measures bone mineral density at the lumbar spine and hip. T-score of -2.5 or below defines osteoporosis. T-score between -1.0 and -2.5 defines osteopenia. FRAX tool estimates 10-year fracture probability and guides treatment decisions.
+
+TREATMENT APPROACHES
+
+Non-Pharmacological Measures:
+Adequate calcium intake (1000-1200 mg daily from diet and supplements) and vitamin D supplementation (800-2000 IU daily) are foundational. Weight-bearing and resistance exercises strengthen muscles, improve balance, and maintain bone density. Fall prevention strategies including home hazard assessment, balance training, and medication review reduce fracture risk.
+
+Bisphosphonates:
+Bisphosphonates are the most widely used first-line medications for osteoporosis. They inhibit osteoclast-mediated bone resorption by binding to hydroxyapatite in bone and inducing osteoclast apoptosis.
+Oral: alendronate (weekly), risedronate (weekly or monthly), ibandronate (monthly). Must be taken with a full glass of water 30 minutes before food to reduce esophageal side effects.
+Intravenous: zoledronic acid (once yearly infusion) provides the most convenient dosing and strongest evidence for fracture reduction. Ibandronate (quarterly IV) is an alternative.
+Atypical femoral fractures and osteonecrosis of the jaw are rare but recognized complications with long-term use, necessitating drug holidays in selected patients.
+
+Denosumab:
+A monoclonal antibody that inhibits RANKL, a key mediator of osteoclast activation. Given as subcutaneous injection every 6 months. Highly effective at reducing vertebral, hip, and non-vertebral fractures. Rebound increase in bone resorption occurs if treatment is discontinued without transitioning to a bisphosphonate.
+
+Anabolic Agents:
+Teriparatide (recombinant PTH 1-34) and abaloparatide (PTH-related protein analog) stimulate osteoblast activity and bone formation. Given as daily subcutaneous injections for up to 24 months. Significantly increase bone mineral density and reduce fracture risk. Used for severe osteoporosis or patients who have failed antiresorptive therapy.
+Romosozumab is a monoclonal antibody that inhibits sclerostin, stimulating bone formation while reducing resorption. Given as monthly subcutaneous injections for 12 months, producing rapid and large gains in bone density.
+
+Hormone Replacement Therapy (HRT):
+Estrogen therapy prevents postmenopausal bone loss and reduces fracture risk. Due to increased risks of breast cancer, cardiovascular disease, and venous thromboembolism, HRT is primarily used for women with menopausal symptoms who also have osteoporosis, with careful risk-benefit assessment.
+Raloxifene is a selective estrogen receptor modulator (SERM) that maintains bone density and reduces vertebral fracture risk without stimulating breast or uterine tissue.
+
+Calcitonin:
+Salmon calcitonin nasal spray has modest antiresorptive effects and analgesic properties for acute vertebral fracture pain. It is now less commonly used due to weak fracture data and safety concerns.
+
+FRACTURE LIAISON SERVICES
+Systematic identification and treatment of patients with osteoporotic fractures reduces secondary fracture risk through the Fracture Liaison Service (FLS) model of care.

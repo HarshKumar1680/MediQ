@@ -1,0 +1,42 @@
+Title: Alzheimer's Disease - Treatment and Dementia Management
+Source: Based on Wikipedia, Alzheimer's Association, Mayo Clinic
+Disease: Alzheimer's Disease
+
+Alzheimer's disease is the most common cause of dementia, accounting for 60 to 80 percent of dementia cases. It is a progressive neurodegenerative disorder characterized by accumulation of amyloid-beta plaques and neurofibrillary tau tangles, leading to neuronal loss and cognitive decline.
+
+OVERVIEW
+Alzheimer's disease typically begins with episodic memory impairment and progresses to affect multiple cognitive domains including language, visuospatial function, executive function, and behavior. The disease course spans 8 to 10 years on average from diagnosis to death.
+
+STAGES
+Mild: Memory lapses, word-finding difficulties, difficulty with complex tasks.
+Moderate: Worsening memory, confusion, behavioral changes, difficulty with daily activities.
+Severe: Loss of speech, inability to care for oneself, complete dependence on caregivers.
+
+TREATMENT APPROACHES
+
+Symptomatic Pharmacological Treatment:
+Cholinesterase inhibitors including donepezil, rivastigmine, and galantamine inhibit acetylcholinesterase, increasing acetylcholine levels in the brain. They modestly improve cognition and function in mild to moderate Alzheimer's disease. Donepezil is also approved for severe Alzheimer's disease.
+Memantine is an NMDA receptor antagonist that modulates glutamate activity, providing modest cognitive and functional benefits in moderate to severe Alzheimer's disease. It is often combined with a cholinesterase inhibitor.
+
+Disease-Modifying Immunotherapy:
+Lecanemab (Leqembi) is a monoclonal antibody targeting amyloid-beta protofibrils, approved by the FDA in 2023. It reduces amyloid plaques and slows clinical decline in early Alzheimer's disease.
+Donanemab has shown similar amyloid-clearing efficacy with clinical benefit in early Alzheimer's disease.
+Aducanumab was approved controversially in 2021 but has been withdrawn from the market.
+
+Behavioral and Psychological Symptoms (BPSD):
+Non-pharmacological approaches are first-line for behavioral symptoms including agitation, aggression, depression, and psychosis. Environmental modifications, structured activities, caregiver training, and music therapy are effective.
+When pharmacological treatment is necessary: low-dose antipsychotics (risperidone, quetiapine) for severe agitation or psychosis with careful monitoring for adverse effects. Antidepressants for depression and anxiety.
+
+Non-Pharmacological Interventions:
+Cognitive stimulation therapy, cognitive training, reminiscence therapy, exercise, and music therapy can slow functional decline and improve quality of life.
+Aerobic exercise has neuroprotective effects and may slow cognitive decline.
+Social engagement and intellectually stimulating activities support cognitive reserve.
+
+Caregiver Support:
+Caregiver training and education, support groups, and respite care are essential components of Alzheimer's management. Caregiver burden is significant, and psychosocial support for family caregivers is a critical need.
+
+Risk Factor Modification:
+Cardiovascular risk factor control (hypertension, diabetes, hypercholesterolemia), smoking cessation, regular physical activity, mentally stimulating activities, and social engagement are associated with reduced dementia risk.
+
+ADVANCE CARE PLANNING
+Early discussions about goals of care, advance directives, power of attorney, and end-of-life preferences are important while patients retain decision-making capacity.

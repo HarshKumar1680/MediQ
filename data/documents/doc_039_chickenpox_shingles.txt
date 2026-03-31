@@ -1,0 +1,55 @@
+Title: Chickenpox and Shingles (Varicella-Zoster Infection) - Treatment and Management
+Source: Based on Wikipedia, Mayo Clinic, CDC, IDSA Guidelines
+Disease: Varicella (Chickenpox) and Herpes Zoster (Shingles)
+
+Varicella (chickenpox) and herpes zoster (shingles) are both caused by the varicella-zoster virus (VZV), a member of the herpesvirus family. Primary infection causes chickenpox. After resolution, the virus establishes latency in dorsal root and cranial nerve ganglia. Reactivation later in life causes shingles.
+
+VARICELLA (CHICKENPOX)
+
+Overview:
+Varicella is a highly contagious disease spread by respiratory droplets and direct contact with skin lesions. It is characterised by a pruritic vesicular rash that progresses through papules, vesicles, pustules, and crusts over 7-10 days, accompanied by fever and malaise. Before widespread vaccination, it was a near-universal childhood disease.
+
+Symptoms:
+Prodrome of fever, malaise, and loss of appetite lasting 1-2 days followed by a characteristic rash starting on the face and trunk and spreading to the extremities. New crops of lesions appear over several days.
+
+Treatment:
+Healthy children: Symptomatic treatment only. Calamine lotion, antihistamines (diphenhydramine), and trimmed fingernails reduce itching and secondary bacterial infection. Paracetamol (acetaminophen) for fever. Aspirin must be avoided in children with varicella due to the risk of Reye syndrome.
+High-risk patients (adolescents, adults, pregnant women, immunocompromised individuals): Oral acyclovir (800 mg five times daily for 5 days in adults) or valacyclovir reduces severity and duration of illness if started within 24 hours of rash onset. Intravenous acyclovir is used for severe or disseminated varicella in immunocompromised patients.
+Post-exposure prophylaxis: Varicella-zoster immune globulin (VariZIG) given within 10 days of exposure to susceptible high-risk individuals (immunocompromised, pregnant non-immune women, premature infants). Acyclovir prophylaxis may also be used.
+
+Complications:
+Secondary bacterial skin infections (impetigo, cellulitis), pneumonia (especially in adults and immunocompromised), encephalitis, cerebellar ataxia, and Reye syndrome (with aspirin use) are recognised complications.
+
+HERPES ZOSTER (SHINGLES)
+
+Overview:
+Shingles occurs when VZV reactivates from its latent state, typically decades after primary varicella infection. Reactivation is associated with declining cell-mediated immunity due to ageing, stress, or immunosuppression. The virus travels along sensory nerve fibres to the skin, producing a painful unilateral dermatomal vesicular rash.
+
+Symptoms:
+Prodrome of dermatomal pain, burning, or tingling lasting 2-3 days before rash appearance. The rash consists of clusters of vesicles on an erythematous base confined to one or two adjacent dermatomes. Thoracic dermatomes are most commonly affected. Rash typically crusts over in 7-10 days.
+
+Complications:
+Post-herpetic neuralgia (PHN): persistent pain in the affected dermatome lasting more than 90 days after rash healing; most common and debilitating complication, especially in elderly patients.
+Herpes zoster ophthalmicus: involvement of the ophthalmic division of trigeminal nerve, risking keratitis, uveitis, and vision loss.
+Ramsay Hunt syndrome: facial palsy, ear pain, and vesicles in the ear canal due to geniculate ganglion involvement.
+Disseminated zoster in immunocompromised patients.
+
+Treatment:
+Antiviral Therapy:
+Oral antiviral treatment should be started within 72 hours of rash onset to reduce the severity and duration of the acute illness and reduce the risk of post-herpetic neuralgia.
+Valacyclovir (1000 mg three times daily for 7 days) is preferred over acyclovir due to better bioavailability and simpler dosing.
+Famciclovir (500 mg three times daily for 7 days) is an alternative.
+Acyclovir (800 mg five times daily for 7-10 days) is the original antiviral; less convenient dosing.
+Intravenous acyclovir for severe zoster, ophthalmic involvement, or immunocompromised patients.
+Corticosteroids may reduce acute pain severity but do not prevent post-herpetic neuralgia.
+
+Management of Post-Herpetic Neuralgia (PHN):
+First-line: Gabapentinoids (gabapentin 300-3600 mg/day or pregabalin 150-600 mg/day) reduce neuropathic pain.
+Tricyclic antidepressants (amitriptyline, nortriptyline) at low doses are effective for PHN.
+Topical agents: 5% lidocaine medicated plasters (Versatis) and 8% capsaicin patch (Qutenza) applied to the painful area provide localised relief with minimal systemic absorption.
+Opioids (tramadol, oxycodone) for refractory severe PHN.
+SNRIs (duloxetine, venlafaxine) as alternative systemic agents.
+
+Vaccination:
+Recombinant subunit zoster vaccine (RZV, Shingrix): two-dose intramuscular series given 2-6 months apart. Highly effective (97% efficacy in adults aged 50-69, 91% in those aged 70+) in preventing shingles and post-herpetic neuralgia. Recommended for all adults aged 50 and over, including those with prior shingles or prior receipt of the older live attenuated vaccine (Zostavax).
+Live attenuated zoster vaccine (Zostavax): single dose, largely replaced by RZV due to lower and waning efficacy.

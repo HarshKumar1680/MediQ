@@ -1,0 +1,45 @@
+Title: Type 1 Diabetes - Insulin Therapy and Management
+Source: Based on Wikipedia, Mayo Clinic, ADA Standards of Care
+Disease: Type 1 Diabetes Mellitus
+
+Type 1 diabetes mellitus (T1DM) is an autoimmune disease in which the immune system destroys the insulin-producing beta cells of the pancreatic islets of Langerhans. Without insulin, the body cannot use glucose for energy, leading to hyperglycemia, diabetic ketoacidosis, and, untreated, death.
+
+OVERVIEW
+T1DM typically presents in childhood or young adulthood but can occur at any age. Patients are absolutely dependent on exogenous insulin for survival. Unlike Type 2 diabetes, T1DM is not caused by lifestyle factors and cannot be managed with oral agents alone.
+
+INSULIN THERAPY
+Insulin replacement is the cornerstone of T1DM management. The goal is to mimic normal physiological insulin secretion.
+
+Basal-Bolus Insulin Regimen:
+Basal insulin provides background insulin to control glucose overnight and between meals.
+Long-acting insulin analogs: insulin glargine (U-100, U-300), insulin detemir, and insulin degludec (U-100, U-200). These provide smooth, near-peakless coverage lasting 24 hours or more.
+Bolus (prandial) insulin is given before meals to manage postprandial glucose excursions.
+Rapid-acting insulin analogs: insulin lispro, insulin aspart, insulin glulisine, faster aspart (Fiasp), and ultra-rapid lispro (URLi). These have a rapid onset (5-15 minutes) and short duration (3-4 hours), closely mimicking normal mealtime insulin secretion.
+Correction doses of rapid-acting insulin address hyperglycemia between meals.
+
+Intermediate-Acting Insulin:
+NPH (neutral protamine Hagedorn) insulin has an intermediate duration and is used in twice-daily regimens, though less favored than analog-based basal-bolus regimens.
+
+Premixed Insulin:
+Fixed-ratio combinations of intermediate and rapid-acting insulins, less flexible for tight glycemic control.
+
+Insulin Delivery Devices:
+Insulin pens (disposable or reusable) are most widely used for multi-injection therapy.
+Insulin pumps (continuous subcutaneous insulin infusion, CSII) deliver programmable basal rates and bolus doses, offering superior glycemic control and flexibility for appropriate patients.
+
+Advanced Technology:
+Continuous glucose monitoring (CGM) systems (Dexterity G7, Libre 3) provide real-time glucose data, trend arrows, and alarms, reducing hypoglycemia and improving HbA1c.
+Hybrid closed-loop systems (artificial pancreas) automatically adjust insulin delivery based on CGM readings, approaching physiological insulin regulation. Examples include MiniMed 780G, Omnipod 5, and Tandem Control-IQ.
+
+DIABETIC KETOACIDOSIS (DKA) MANAGEMENT
+DKA is a life-threatening complication. Treatment includes IV fluid resuscitation (normal saline), IV insulin infusion, potassium replacement, and monitoring and treating the precipitating cause. Bicarbonate is rarely required.
+
+HYPOGLYCEMIA MANAGEMENT
+Mild-moderate: 15-20 g fast-acting carbohydrates (glucose tablets, juice), repeat if needed (15-15 rule).
+Severe (unable to self-treat): intramuscular or intranasal glucagon. IV dextrose in healthcare settings.
+
+IMMUNOTHERAPY RESEARCH
+Teplizumab (anti-CD3 monoclonal antibody) delays clinical onset of T1DM by approximately 2 years in high-risk individuals with Stage 2 (presymptomatic) T1DM and is FDA-approved for this indication.
+
+TRANSPLANTATION
+Pancreas transplantation and islet cell transplantation can restore endogenous insulin secretion and eliminate hypoglycemia. Pancreas transplantation is typically performed simultaneously with kidney transplantation in patients with T1DM and end-stage renal disease.

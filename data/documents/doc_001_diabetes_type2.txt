@@ -1,0 +1,39 @@
+Title: Type 2 Diabetes - Treatment and Management
+Source: Based on Mayo Clinic, Wikipedia, MedlinePlus
+Disease: Type 2 Diabetes Mellitus
+
+Type 2 diabetes mellitus is a chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency, leading to elevated blood glucose levels. It accounts for approximately 90 to 95 percent of all diabetes cases worldwide.
+
+OVERVIEW
+Type 2 diabetes occurs when the body's cells do not respond effectively to insulin, a hormone produced by the pancreas that regulates blood sugar. Over time, the pancreas may also produce less insulin. This condition develops gradually and is strongly associated with obesity, physical inactivity, and genetic predisposition.
+
+SYMPTOMS
+Common symptoms include increased thirst, frequent urination, fatigue, blurred vision, slow-healing wounds, frequent infections, and darkened skin in body creases. Some patients are asymptomatic and are diagnosed during routine blood tests.
+
+DIAGNOSIS
+Diagnosis is confirmed through fasting blood glucose tests (126 mg/dL or higher), HbA1c levels (6.5% or higher), or oral glucose tolerance tests. Prediabetes is identified when blood glucose is elevated but not yet at diabetic thresholds.
+
+TREATMENT APPROACHES
+
+Lifestyle Modifications:
+The cornerstone of Type 2 diabetes management is lifestyle change. A healthy diet low in refined carbohydrates, saturated fats, and added sugars is essential. Regular physical activity, including at least 150 minutes of moderate-intensity exercise per week, improves insulin sensitivity. Weight loss of even 5 to 10 percent of body weight can significantly improve blood glucose control.
+
+Oral Medications:
+Metformin is the first-line pharmacological treatment for Type 2 diabetes. It works by reducing hepatic glucose production and improving insulin sensitivity. It is well-tolerated and associated with minimal hypoglycemia risk.
+Sulfonylureas such as glibenclamide and glipizide stimulate the pancreas to produce more insulin.
+SGLT2 inhibitors including empagliflozin and dapagliflozin reduce glucose reabsorption in the kidneys and have shown cardiovascular and renal protective benefits.
+DPP-4 inhibitors such as sitagliptin and saxagliptin increase incretin levels, stimulating insulin release and reducing glucagon secretion.
+GLP-1 receptor agonists including liraglutide and semaglutide promote insulin secretion and weight loss.
+Thiazolidinediones such as pioglitazone improve insulin sensitivity in peripheral tissues.
+
+Insulin Therapy:
+When oral medications are insufficient, insulin therapy may be initiated. Basal insulin, rapid-acting insulin, or combination regimens may be used depending on the patient's glucose profile and lifestyle.
+
+Monitoring:
+Regular self-monitoring of blood glucose, periodic HbA1c testing, and continuous glucose monitoring devices help patients and clinicians track glycemic control.
+
+COMPLICATIONS IF UNTREATED
+Poorly controlled Type 2 diabetes can lead to cardiovascular disease, nephropathy, retinopathy, neuropathy, and lower limb amputations. Early intervention significantly reduces the risk of these complications.
+
+PREVENTION
+Type 2 diabetes is largely preventable through maintaining a healthy weight, eating a balanced diet, engaging in regular physical activity, and avoiding smoking.

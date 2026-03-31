@@ -1,0 +1,36 @@
+Title: Thyroid Disorders - Treatment and Endocrine Management
+Source: Based on Wikipedia, Mayo Clinic, ATA Guidelines
+Disease: Hypothyroidism and Hyperthyroidism
+
+Thyroid disorders are among the most common endocrine diseases. The thyroid gland produces thyroxine (T4) and triiodothyronine (T3) hormones that regulate metabolism, growth, and development. Disorders include hypothyroidism (underactive thyroid), hyperthyroidism (overactive thyroid), and thyroid nodules or cancer.
+
+HYPOTHYROIDISM
+
+Overview:
+Hypothyroidism results from insufficient thyroid hormone production. The most common cause worldwide is iodine deficiency. In iodine-sufficient countries, autoimmune thyroiditis (Hashimoto's thyroiditis) is the leading cause. Other causes include thyroidectomy, radioiodine treatment, pituitary disease, and medications.
+
+Symptoms:
+Fatigue, weight gain, cold intolerance, constipation, dry skin, hair loss, depression, bradycardia, menstrual irregularities, and cognitive slowing.
+
+Treatment:
+Levothyroxine (synthetic T4) is the standard treatment. It is taken as a single daily oral dose on an empty stomach, 30 to 60 minutes before breakfast. Starting dose depends on age, weight, cardiac status, and severity. TSH is monitored every 6 to 8 weeks after dose adjustments until stable, then annually. The goal is to normalize TSH within the reference range.
+Liothyronine (synthetic T3) or combined T4/T3 therapy is used in some patients with persistent symptoms on levothyroxine monotherapy.
+Desiccated thyroid extract (DTE) is a porcine-derived preparation containing both T4 and T3.
+Myxedema coma (severe hypothyroidism) is treated with intravenous levothyroxine and hydrocortisone as a medical emergency.
+
+HYPERTHYROIDISM
+
+Overview:
+Hyperthyroidism results from excessive thyroid hormone production. Graves' disease (autoimmune stimulation of the TSH receptor) is the most common cause. Other causes include toxic multinodular goiter, toxic adenoma, and thyroiditis.
+
+Symptoms:
+Weight loss despite increased appetite, heat intolerance, excessive sweating, palpitations, tremor, anxiety, irritability, diarrhea, exophthalmos (Graves' disease), and irregular menstrual periods.
+
+Treatment Options:
+Antithyroid Drugs (ATDs): Methimazole (carbimazole) and propylthiouracil (PTU) inhibit thyroid hormone synthesis. They are used for initial control of hyperthyroidism, as long-term therapy in Graves' disease, or to prepare patients for radioiodine or surgery. Remission occurs in about 40 to 60 percent of Graves' disease patients after 12 to 18 months of ATD therapy. Side effects include agranulocytosis, hepatotoxicity, and rash.
+Beta-blockers (propranolol, atenolol) provide rapid symptomatic relief of adrenergic symptoms (palpitations, tremor, anxiety) while awaiting thyroid hormone normalization.
+Radioiodine (I-131) therapy: Oral radioactive iodine is concentrated in and destroys thyroid tissue. It is a definitive treatment resulting in hypothyroidism in most patients who then require lifelong levothyroxine replacement.
+Thyroidectomy (surgical removal): Total or near-total thyroidectomy is indicated for large goiters, suspected malignancy, patient preference, or contraindications to other treatments. Complications include hypoparathyroidism and recurrent laryngeal nerve injury.
+
+THYROID CANCER
+Papillary and follicular thyroid cancers (well-differentiated) are treated with thyroidectomy followed by radioiodine ablation in high-risk patients and levothyroxine suppression therapy. Medullary thyroid cancer requires total thyroidectomy and central lymph node dissection. Vandetanib and cabozantinib are kinase inhibitors used for advanced medullary thyroid cancer. Anaplastic thyroid cancer has a very poor prognosis and is treated with multimodal therapy.

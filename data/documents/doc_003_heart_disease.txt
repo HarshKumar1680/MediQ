@@ -1,0 +1,39 @@
+Title: Coronary Heart Disease - Treatment and Management
+Source: Based on Wikipedia, Mayo Clinic, American Heart Association
+Disease: Coronary Artery Disease / Ischemic Heart Disease
+
+Coronary heart disease (CHD), also known as ischemic heart disease or coronary artery disease, is the most common form of cardiovascular disease. It results from the buildup of atherosclerotic plaques inside the coronary arteries, reducing blood flow to the heart muscle.
+
+OVERVIEW
+Atherosclerosis involves the accumulation of cholesterol-rich plaques within arterial walls. When these plaques rupture, they can trigger blood clot formation that partially or completely blocks a coronary artery, leading to angina or a myocardial infarction (heart attack).
+
+SYMPTOMS
+Symptoms include chest pain or pressure (angina), shortness of breath, palpitations, weakness, and fatigue. A heart attack may present with sudden severe chest pain radiating to the arm, jaw, or neck, often accompanied by sweating and nausea.
+
+TREATMENT APPROACHES
+
+Lifestyle Modifications:
+Heart-healthy lifestyle changes are the foundation of coronary heart disease management. These include following a diet low in saturated fat, trans fat, sodium, and added sugars. The Mediterranean diet has strong evidence for cardiovascular benefit. Regular aerobic exercise, smoking cessation, weight management, stress reduction, and limiting alcohol intake are all essential components.
+
+Medications:
+Antiplatelet therapy with aspirin or clopidogrel reduces the risk of blood clot formation on ruptured plaques.
+Statins such as atorvastatin, rosuvastatin, and simvastatin lower LDL cholesterol and stabilize plaques, significantly reducing the risk of heart attack and stroke.
+Beta-blockers including metoprolol and carvedilol reduce heart rate and blood pressure, decreasing cardiac workload and the risk of arrhythmias.
+ACE inhibitors such as lisinopril and ramipril reduce blood pressure and protect heart function, especially after a heart attack.
+Angiotensin receptor blockers (ARBs) such as losartan are used as alternatives to ACE inhibitors.
+Nitrates including nitroglycerin relieve acute angina by dilating coronary arteries.
+Calcium channel blockers such as amlodipine reduce blood pressure and relieve angina.
+Ranolazine is used for chronic angina as add-on therapy.
+
+Coronary Revascularization:
+Percutaneous coronary intervention (PCI), commonly known as coronary angioplasty, involves threading a catheter with a balloon to the blocked artery. The balloon is inflated to compress the plaque, and a stent is typically placed to keep the artery open.
+Coronary artery bypass grafting (CABG) is a surgical procedure that creates new routes for blood to flow around blocked coronary arteries using vessels from other parts of the body.
+
+Cardiac Rehabilitation:
+A structured program of exercise training, education, and counseling helps patients recover from heart events, adopt heart-healthy behaviors, and reduce the risk of future events.
+
+PREVENTION
+Primary prevention includes controlling blood pressure, cholesterol, blood sugar, weight, and avoiding tobacco. Secondary prevention after a cardiac event involves aggressive risk factor management and adherence to prescribed medications.
+
+MONITORING
+Regular follow-up with electrocardiograms (ECG), echocardiograms, stress tests, and blood lipid panels are important for monitoring disease progression and treatment response.

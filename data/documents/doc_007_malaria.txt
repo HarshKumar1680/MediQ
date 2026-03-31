@@ -1,0 +1,46 @@
+Title: Malaria - Treatment and Antimalarial Therapy
+Source: Based on Wikipedia, WHO, CDC
+Disease: Malaria
+
+Malaria is a life-threatening mosquito-borne infectious disease caused by Plasmodium parasites transmitted through the bites of infected female Anopheles mosquitoes. Five Plasmodium species infect humans: P. falciparum, P. vivax, P. malariae, P. ovale, and P. knowlesi.
+
+OVERVIEW
+P. falciparum causes the most severe form of malaria and is responsible for the majority of malaria deaths, predominantly in sub-Saharan Africa. P. vivax is the most geographically widespread species. The parasite life cycle involves both the human host and the mosquito vector.
+
+SYMPTOMS
+Malaria symptoms typically begin 10 to 15 days after the infective mosquito bite. Symptoms include fever, chills, sweating, headache, nausea, vomiting, muscle aches, and fatigue. Severe malaria can cause cerebral malaria, severe anemia, acute respiratory distress, organ failure, and death.
+
+DIAGNOSIS
+Microscopic examination of Giemsa-stained blood smears remains the gold standard for malaria diagnosis, allowing species identification and parasite density quantification. Rapid diagnostic tests (RDTs) detect malaria antigens and are widely used in field settings. PCR-based tests offer high sensitivity and specificity.
+
+TREATMENT APPROACHES
+
+Uncomplicated P. falciparum Malaria:
+Artemisinin-based combination therapies (ACTs) are the WHO-recommended first-line treatment. Artemisinin derivatives act rapidly against all blood-stage parasites. Partner drugs eliminate residual parasites and prevent resistance.
+Recommended ACT regimens include:
+- Artemether-lumefantrine (Coartem): standard 3-day oral course
+- Artesunate-amodiaquine: 3-day course
+- Artesunate-mefloquine: 3-day course
+- Dihydroartemisinin-piperaquine: 3-day course
+- Artesunate-pyronaridine: 3-day course
+
+Uncomplicated P. vivax Malaria:
+Chloroquine remains effective for P. vivax treatment in most regions. Radical cure to eliminate dormant liver-stage hypnozoites requires primaquine or tafenoquine. G6PD testing is essential before administering primaquine to avoid hemolytic anemia.
+
+Severe Malaria:
+Intravenous artesunate is the preferred treatment for severe malaria and is superior to quinine. It is given for at least 24 hours before switching to oral ACT. Supportive care including blood transfusion for severe anemia, anticonvulsants for seizures, mechanical ventilation for respiratory failure, and renal replacement therapy for acute kidney injury may be required.
+
+Malaria in Pregnancy:
+Artemether-lumefantrine is recommended for uncomplicated P. falciparum malaria in the second and third trimester. Quinine plus clindamycin is used in the first trimester. Intermittent preventive treatment with sulfadoxine-pyrimethamine is recommended for pregnant women in high-transmission areas.
+
+Artemisinin Partial Resistance:
+Emerging partial resistance to artemisinins, first detected in Southeast Asia, poses a significant threat. Strategies include using triple combination therapies and extending ACT treatment courses.
+
+CHEMOPROPHYLAXIS
+For travelers to malaria-endemic areas: atovaquone-proguanil, mefloquine, doxycycline, or chloroquine (in chloroquine-sensitive areas) are used for malaria prevention.
+
+VECTOR CONTROL
+Insecticide-treated bed nets and indoor residual spraying remain the most effective malaria prevention interventions at the population level.
+
+VACCINATION
+The RTS,S/AS01 (Mosquirix) vaccine and the R21/Matrix-M vaccine have been recommended by WHO for children in sub-Saharan Africa and other malaria-endemic regions.

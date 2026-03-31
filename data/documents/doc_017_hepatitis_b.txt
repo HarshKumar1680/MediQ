@@ -1,0 +1,43 @@
+Title: Hepatitis B - Treatment and Antiviral Management
+Source: Based on Wikipedia, WHO, AASLD Guidelines
+Disease: Hepatitis B
+
+Hepatitis B is a viral infection caused by the hepatitis B virus (HBV) that attacks the liver and can cause chronic liver disease. It is transmitted through contact with infected blood, semen, and other body fluids. Approximately 296 million people live with chronic hepatitis B infection worldwide.
+
+OVERVIEW
+HBV infection may be acute or chronic. Acute hepatitis B resolves spontaneously in over 95% of adults. Chronic infection persists when the immune system fails to eliminate the virus. Chronic hepatitis B can lead to liver cirrhosis, liver failure, and hepatocellular carcinoma.
+
+PHASES OF CHRONIC HEPATITIS B
+HBeAg-positive immune tolerant phase, HBeAg-positive immune active phase, HBeAg-negative inactive carrier phase, and HBeAg-negative hepatitis phase. Management decisions are based on HBeAg status, HBV DNA levels, ALT levels, and liver histology.
+
+TREATMENT APPROACHES
+
+Goals of Treatment:
+Suppression of HBV DNA to undetectable levels, normalization of ALT, prevention of disease progression to cirrhosis and hepatocellular carcinoma, and ideally, functional cure (HBsAg loss).
+
+Antiviral Medications:
+
+Nucleos(t)ide Analogues (NAs):
+These are oral medications that inhibit HBV reverse transcriptase activity, suppressing viral replication.
+Tenofovir disoproxil fumarate (TDF) and tenofovir alafenamide (TAF) are potent, high-barrier-to-resistance preferred first-line agents. TAF has improved renal and bone safety compared to TDF.
+Entecavir is another high-barrier-to-resistance antiviral recommended as first-line therapy. It is highly effective in treatment-naive patients.
+Lamivudine, adefovir, and telbivudine are older agents with lower resistance barriers, now rarely used.
+NAs require long-term or lifelong treatment as they suppress but do not eliminate the virus.
+
+Pegylated Interferon Alpha (Peg-IFN):
+Subcutaneous injections given for 48 weeks. It has immunomodulatory and antiviral effects. It offers the advantage of a finite treatment course and a higher chance of HBsAg loss compared to NAs. It requires careful patient selection and monitoring for side effects including flu-like symptoms, depression, neutropenia, and thrombocytopenia.
+
+Indications for Treatment:
+Treatment is indicated in: HBeAg-positive or negative patients with elevated HBV DNA and ALT, compensated or decompensated cirrhosis, immune active phase hepatitis, and patients at high risk of disease progression.
+
+MONITORING
+Regular monitoring of HBV DNA, HBeAg, HBsAg, liver enzymes, and liver imaging (for HCC surveillance with alpha-fetoprotein testing every 6 months) is essential.
+
+HEPATITIS B REACTIVATION
+Immunosuppression with chemotherapy, biologics, or corticosteroids can reactivate HBV. Prophylactic antiviral treatment with entecavir or tenofovir is given to HBsAg-positive patients undergoing immunosuppressive therapy.
+
+CO-INFECTION
+Hepatitis B and C co-infection, and hepatitis B and HIV co-infection, require special management considerations.
+
+VACCINATION
+Hepatitis B vaccination is the most effective prevention measure. The three-dose vaccine series provides protective immunity in over 95% of healthy adults. Universal infant vaccination is the cornerstone of global hepatitis B control.

@@ -1,0 +1,40 @@
+Title: Hypertension (High Blood Pressure) - Treatment and Management
+Source: Based on Wikipedia, Mayo Clinic, WHO
+Disease: Arterial Hypertension
+
+Hypertension, or high blood pressure, is a chronic medical condition in which the blood pressure in the arteries is persistently elevated. It is defined as systolic blood pressure at or above 130 mmHg or diastolic blood pressure at or above 80 mmHg, according to current guidelines.
+
+OVERVIEW
+Hypertension is often called the silent killer because it typically has no symptoms until serious complications develop. It is a major risk factor for stroke, myocardial infarction, heart failure, chronic kidney disease, and peripheral artery disease.
+
+CLASSIFICATION
+Normal: below 120/80 mmHg
+Elevated: 120-129 systolic, less than 80 diastolic
+Stage 1 Hypertension: 130-139 systolic or 80-89 diastolic
+Stage 2 Hypertension: 140 or higher systolic or 90 or higher diastolic
+Hypertensive Crisis: above 180/120 mmHg requiring immediate medical attention
+
+TREATMENT APPROACHES
+
+Lifestyle Modifications:
+Lifestyle changes are the first-line treatment for elevated blood pressure and Stage 1 hypertension and are recommended alongside medication for higher stages. The DASH diet (Dietary Approaches to Stop Hypertension) emphasizes fruits, vegetables, whole grains, low-fat dairy, and foods low in sodium, saturated fats, and total fat. Sodium intake should be restricted to less than 2,300 mg per day, with further reduction to 1,500 mg for greater benefit. Regular aerobic exercise of 30 minutes most days significantly lowers blood pressure. Weight reduction, limiting alcohol to no more than one drink per day for women and two for men, and smoking cessation are all important measures.
+
+Pharmacological Treatment:
+Thiazide diuretics such as hydrochlorothiazide and chlorthalidone are commonly used as first-line agents, reducing blood volume by promoting sodium and water excretion.
+ACE inhibitors including lisinopril, enalapril, and ramipril block the angiotensin-converting enzyme, reducing the production of angiotensin II and lowering blood pressure.
+Angiotensin II receptor blockers (ARBs) such as losartan, valsartan, and olmesartan block the action of angiotensin II at its receptors.
+Calcium channel blockers including amlodipine, nifedipine, and diltiazem prevent calcium from entering heart and blood vessel cells, reducing arterial stiffness and blood pressure.
+Beta-blockers such as metoprolol, atenolol, and bisoprolol reduce heart rate and cardiac output.
+Alpha-blockers, central-acting agents, and direct vasodilators may be used when other agents are insufficient.
+
+Combination Therapy:
+Most patients with Stage 2 hypertension or complicated hypertension require two or more medications from different classes. Fixed-dose combination pills improve adherence by reducing pill burden.
+
+Secondary Hypertension:
+In cases where hypertension is caused by an underlying condition such as renal artery stenosis, primary aldosteronism, pheochromocytoma, or sleep apnea, treating the underlying cause may resolve or improve blood pressure control.
+
+MONITORING
+Blood pressure should be measured regularly at home and in clinical settings. Ambulatory blood pressure monitoring provides a more comprehensive picture of blood pressure patterns throughout the day and night.
+
+COMPLICATIONS
+Uncontrolled hypertension leads to left ventricular hypertrophy, heart failure, stroke, renal failure, retinopathy, and vascular dementia. Effective treatment dramatically reduces these risks.

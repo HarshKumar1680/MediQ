@@ -1,0 +1,44 @@
+Title: Major Depressive Disorder - Treatment, Therapy, and Management
+Source: Based on Wikipedia, Mayo Clinic, NIMH, APA Guidelines
+Disease: Major Depressive Disorder (MDD)
+
+Major depressive disorder (MDD) is a common and serious mental health condition characterized by persistent depressed mood, loss of interest in activities, and a range of emotional and physical symptoms that significantly impair daily functioning. It is a leading cause of disability worldwide.
+
+OVERVIEW
+Depression involves dysregulation of neurotransmitter systems (serotonin, norepinephrine, dopamine), disrupted HPA axis function, neuroinflammation, and structural brain changes. The exact etiology is multifactorial, involving genetic, biological, psychological, and social factors.
+
+DIAGNOSIS
+Diagnosis requires at least five symptoms from the DSM-5 criteria present for at least two weeks, including depressed mood or loss of interest, along with changes in sleep, appetite, energy, concentration, psychomotor activity, and thoughts of death or suicide.
+
+TREATMENT APPROACHES
+
+Psychotherapy:
+Cognitive Behavioral Therapy (CBT) is the most extensively studied and effective psychotherapy for depression. It helps patients identify and modify negative thought patterns and behaviors.
+Interpersonal Therapy (IPT) focuses on improving interpersonal relationships and communication skills.
+Behavioral Activation Therapy encourages engagement in rewarding activities to break the cycle of withdrawal and low mood.
+Psychodynamic therapy explores unconscious conflicts and early experiences contributing to depression.
+
+Antidepressant Medications:
+Selective Serotonin Reuptake Inhibitors (SSRIs): First-line medications including fluoxetine, sertraline, escitalopram, citalopram, paroxetine, and fluvoxamine. They block serotonin reuptake, increasing synaptic serotonin levels. They are generally well-tolerated with a favorable side effect profile.
+Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs): Venlafaxine, duloxetine, and desvenlafaxine block both serotonin and norepinephrine reuptake. Duloxetine is also used for pain conditions comorbid with depression.
+Atypical Antidepressants: Bupropion inhibits norepinephrine and dopamine reuptake, is activating, and has no sexual side effects. Mirtazapine is sedating and useful for patients with insomnia and poor appetite.
+Tricyclic Antidepressants (TCAs): Amitriptyline, nortriptyline, and imipramine are older agents effective for depression but with more side effects and lethality in overdose.
+Monoamine Oxidase Inhibitors (MAOIs): Phenelzine and tranylcypromine are reserved for treatment-resistant cases due to dietary restrictions and drug interactions.
+
+Augmentation Strategies:
+When monotherapy is inadequate, adding lithium, atypical antipsychotics (aripiprazole, quetiapine, brexpiprazole), thyroid hormone, or buspirone to an antidepressant can improve response.
+
+Newer Treatments:
+Esketamine (Spravato) nasal spray is an NMDA receptor antagonist approved for treatment-resistant depression, providing rapid antidepressant effects.
+Ketamine infusion therapy is used off-label for treatment-resistant and suicidal depression.
+Brexanolone is approved for postpartum depression.
+
+Neuromodulation:
+Electroconvulsive therapy (ECT) remains the most effective treatment for severe, treatment-resistant, or psychotic depression and has rapid onset of action.
+Transcranial magnetic stimulation (TMS) uses magnetic pulses to stimulate neural circuits involved in mood regulation, approved for treatment-resistant depression.
+
+Lifestyle Interventions:
+Regular aerobic exercise has antidepressant effects comparable to medication for mild to moderate depression. Adequate sleep hygiene, social support, stress management, and nutrition also play important roles.
+
+DURATION OF TREATMENT
+Most guidelines recommend continuing antidepressants for at least 6 to 12 months after remission to prevent relapse. Patients with recurrent depression may require long-term maintenance treatment.

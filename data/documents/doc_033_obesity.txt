@@ -1,0 +1,40 @@
+Title: Obesity - Treatment and Weight Management
+Source: Based on Wikipedia, Mayo Clinic, WHO, AACE Guidelines
+Disease: Obesity
+
+Obesity is a complex, chronic, multifactorial disease characterized by excess body fat accumulation to the extent that it negatively affects health. It is defined as a body mass index (BMI) of 30 kg/m² or higher. Obesity is associated with increased risk of type 2 diabetes, cardiovascular disease, hypertension, sleep apnea, certain cancers, musculoskeletal disorders, and reduced life expectancy.
+
+OVERVIEW
+Obesity results from a chronic energy imbalance where caloric intake consistently exceeds caloric expenditure. Genetic, epigenetic, metabolic, hormonal, behavioral, psychological, environmental, and socioeconomic factors all contribute. Adipose tissue is an active endocrine organ secreting adipokines that regulate metabolism and inflammation.
+
+CLASSIFICATION
+Overweight: BMI 25.0-29.9 kg/m²
+Class I Obesity: BMI 30.0-34.9 kg/m²
+Class II Obesity: BMI 35.0-39.9 kg/m²
+Class III (Severe) Obesity: BMI ≥ 40.0 kg/m²
+
+TREATMENT APPROACHES
+
+Lifestyle Interventions:
+Intensive lifestyle intervention combining reduced-calorie diet, increased physical activity, and behavioral strategies is the foundation of obesity treatment.
+Dietary: Calorie reduction of 500-1000 kcal below total daily energy expenditure produces approximately 0.5-1 kg weekly weight loss. Specific dietary approaches include low-fat diets, low-carbohydrate or ketogenic diets, Mediterranean diets, very low calorie diets (800 kcal/day under medical supervision), and intermittent fasting. No single dietary pattern is superior for long-term weight maintenance.
+Physical activity: At least 150-300 minutes/week of moderate-intensity activity for weight maintenance; 200-300 minutes/week recommended for weight loss. Both aerobic exercise and resistance training are beneficial.
+Behavioral interventions: Self-monitoring (food diary, step counter), goal setting, motivational interviewing, cognitive behavioral therapy, stimulus control, problem solving, and social support improve adherence and outcomes.
+
+Pharmacological Treatment:
+Anti-obesity medications are recommended as adjuncts to lifestyle modification for BMI ≥ 30, or BMI ≥ 27 with weight-related comorbidities.
+Orlistat (Xenical, Alli) inhibits pancreatic and gastric lipases, reducing dietary fat absorption by approximately 30%. Produces 2-3 kg additional weight loss compared to placebo. GI side effects (oily stools, fecal urgency) are common.
+GLP-1 receptor agonists: Semaglutide (Wegovy, 2.4 mg subcutaneous weekly) achieves 12-17% mean body weight reduction in clinical trials, the most effective approved pharmacotherapy. Liraglutide (Saxenda, 3.0 mg subcutaneous daily) achieves 5-7% weight loss. Both reduce appetite and slow gastric emptying. Side effects include nausea, vomiting, and diarrhea.
+GLP-1/GIP dual agonist: Tirzepatide (Mounjaro/Zepbound) activates both GLP-1 and GIP receptors, achieving up to 20-22% weight loss in clinical trials with superior efficacy to semaglutide alone. FDA-approved for obesity management.
+Phentermine-topiramate ER (Qsymia) combines a sympathomimetic with an anticonvulsant.
+Naltrexone-bupropion ER (Contrave/Mysimba) combines an opioid antagonist with a norepinephrine-dopamine reuptake inhibitor to reduce appetite and food cravings.
+Bupropion alone is also used off-label.
+Setmelanotide targets the MC4R pathway and is approved for specific genetic obesity syndromes.
+
+Bariatric Surgery:
+Surgery is indicated for BMI ≥ 40, or BMI ≥ 35 with obesity-related comorbidities, after failure of conservative management.
+Roux-en-Y gastric bypass (RYGB): Creates a small gastric pouch and bypasses part of the small intestine. Produces 25-35% total body weight loss and often remits type 2 diabetes.
+Sleeve gastrectomy: Removes approximately 80% of the stomach, creating a tubular sleeve. Produces 20-30% total body weight loss. Most common bariatric procedure globally.
+Adjustable gastric banding: Less weight loss than bypass and sleeve, falling out of favor.
+Biliopancreatic diversion with duodenal switch: Most extensive procedure, greatest weight loss, highest nutritional deficiency risk.
+Endoscopic sleeve gastroplasty (ESG) and intragastric balloons are less invasive endoscopic weight loss procedures.

@@ -1,0 +1,45 @@
+Title: Psoriasis - Treatment and Dermatological Management
+Source: Based on Wikipedia, Mayo Clinic, AAD Guidelines
+Disease: Psoriasis
+
+Psoriasis is a chronic immune-mediated inflammatory skin disease characterized by well-demarcated, erythematous plaques covered with silvery scales. It results from accelerated epidermal proliferation driven by activated T lymphocytes and inflammatory cytokines. It affects approximately 2 to 3 percent of the global population.
+
+OVERVIEW
+Psoriasis has a relapsing-remitting course with periods of exacerbation and remission. Common triggers include infections (streptococcal pharyngitis), physical skin trauma (Koebner phenomenon), stress, medications (lithium, beta-blockers, antimalarials), and smoking. Psoriatic arthritis occurs in up to 30 percent of patients.
+
+TYPES
+Plaque psoriasis (psoriasis vulgaris) is the most common form, accounting for 80 to 90 percent of cases. Other forms include guttate, inverse, pustular (generalized von Zumbusch or palmoplantar), and erythrodermic psoriasis.
+
+TREATMENT APPROACHES
+
+Topical Therapies (Mild to Moderate Psoriasis):
+Topical corticosteroids are the most commonly used treatments. They reduce inflammation and epidermal proliferation. Potency is selected based on site and severity. Prolonged use carries risks of skin atrophy, striae, and telangiectasias.
+Topical vitamin D analogs (calcipotriol/calcipotriene, calcitriol) inhibit keratinocyte proliferation and promote differentiation. Combination calcipotriol/betamethasone dipropionate (Dovobet/Enstilar) foam or ointment is highly effective for plaque psoriasis.
+Topical retinoids (tazarotene) normalize keratinocyte differentiation.
+Topical calcineurin inhibitors (tacrolimus, pimecrolimus) are used for facial and intertriginous psoriasis where corticosteroids are less desirable.
+Coal tar has anti-inflammatory and antiproliferative properties and is used in shampoos and creams.
+Keratolytic agents (salicylic acid) remove scale and enhance penetration of other topical therapies.
+Tapinarof, a novel aryl hydrocarbon receptor agonist, is a non-steroidal topical approved for plaque psoriasis.
+Roflumilast cream (PDE4 inhibitor) is another non-steroidal topical approved for plaque psoriasis.
+
+Phototherapy (Moderate Psoriasis):
+Narrowband ultraviolet B (NB-UVB) phototherapy is the most widely used phototherapy and is effective and safe for moderate to severe plaque psoriasis.
+Psoralen plus ultraviolet A (PUVA) involves oral or topical psoralen sensitizer followed by UVA exposure. It is more effective but carries higher long-term risk of skin cancer.
+Excimer laser delivers targeted 308 nm UVB to plaques and is useful for localized disease.
+
+Systemic Therapies (Moderate to Severe Psoriasis):
+Conventional systemics:
+Methotrexate inhibits folate metabolism and proliferating keratinocytes and lymphocytes. Effective for psoriasis and psoriatic arthritis. Liver toxicity requires monitoring.
+Cyclosporine is a calcineurin inhibitor that rapidly clears psoriasis. Used short-term due to nephrotoxicity and hypertension.
+Acitretin is a retinoid effective for pustular and erythrodermic psoriasis. Teratogenic, requiring contraception.
+Apremilast is an oral phosphodiesterase-4 inhibitor with modest efficacy and an excellent safety profile, suitable for patients who cannot use biologics.
+
+Biologic Therapies:
+TNF-alpha inhibitors: etanercept, adalimumab, infliximab, certolizumab pegol. Highly effective for psoriasis and psoriatic arthritis.
+IL-12/23 inhibitor: ustekinumab. Effective for plaque psoriasis and psoriatic arthritis with convenient dosing (every 12 weeks after initial doses).
+IL-17A inhibitors: secukinumab and ixekizumab. Very high efficacy (PASI 90/100 responses), fast onset, approved for plaque psoriasis and psoriatic arthritis.
+IL-17A/F inhibitor: bimekizumab. Highest efficacy biologic currently available for plaque psoriasis.
+IL-23 inhibitors (p19 subunit): guselkumab, risankizumab, tildrakizumab. Excellent efficacy with infrequent dosing (every 8 or 12 weeks).
+
+Targeted Small Molecules:
+Deucravacitinib is a selective TYK2 inhibitor approved for moderate to severe plaque psoriasis with favorable safety compared to pan-JAK inhibitors.

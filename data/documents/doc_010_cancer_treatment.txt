@@ -1,0 +1,43 @@
+Title: Cancer - Overview of Treatment Modalities and Oncological Management
+Source: Based on Wikipedia, NCI, Mayo Clinic
+Disease: Cancer (General Oncology)
+
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. It is caused by genetic mutations that disrupt normal cell cycle regulation, leading to uncontrolled proliferation. Cancer is one of the leading causes of death worldwide.
+
+OVERVIEW
+Cancer development (carcinogenesis) is a multi-step process involving initiation, promotion, and progression. Mutations may be inherited, induced by environmental carcinogens (tobacco, radiation, chemicals), or occur spontaneously during cell division. Tumors can be benign or malignant; malignant tumors invade surrounding tissues and may metastasize through blood or lymphatic vessels.
+
+TYPES
+The most common cancers include lung, breast, colorectal, prostate, stomach, liver, and cervical cancers. Cancers are categorized by tissue of origin: carcinomas (epithelial), sarcomas (connective tissue), lymphomas and leukemias (blood/lymph), and others.
+
+DIAGNOSIS
+Cancer diagnosis involves biopsy and histopathological examination, imaging (CT, MRI, PET scans), tumor marker blood tests, molecular profiling, and staging procedures to determine extent of disease.
+
+TREATMENT APPROACHES
+
+Surgery:
+Surgical removal of the tumor is the primary treatment for many solid cancers. Procedures range from wide local excision to radical resections. Surgery may be curative, debulking, or palliative. Minimally invasive laparoscopic and robotic-assisted techniques have reduced surgical morbidity.
+
+Chemotherapy:
+Chemotherapy uses cytotoxic drugs to kill rapidly dividing cancer cells. Agents include alkylating agents (cyclophosphamide, cisplatin), antimetabolites (methotrexate, 5-fluorouracil), topoisomerase inhibitors (doxorubicin, irinotecan), taxanes (paclitaxel, docetaxel), and vinca alkaloids (vincristine). Chemotherapy may be given before surgery (neoadjuvant), after surgery (adjuvant), or as primary treatment. Side effects include myelosuppression, nausea, vomiting, alopecia, and mucositis.
+
+Radiation Therapy:
+Ionizing radiation damages cancer cell DNA, preventing replication. External beam radiation therapy (EBRT) delivers radiation from outside the body. Brachytherapy places radioactive sources inside or near the tumor. Stereotactic body radiation therapy (SBRT) and intensity-modulated radiation therapy (IMRT) allow precise targeting while sparing normal tissue.
+
+Targeted Therapy:
+Targeted agents attack specific molecular abnormalities in cancer cells. Examples include imatinib for BCR-ABL positive chronic myeloid leukemia, trastuzumab for HER2-positive breast cancer, erlotinib for EGFR-mutant lung cancer, and vemurafenib for BRAF-mutant melanoma. These therapies require molecular testing to identify appropriate patients.
+
+Immunotherapy:
+Immune checkpoint inhibitors block inhibitory receptors on T cells, unleashing anti-tumor immune responses. PD-1/PD-L1 inhibitors (pembrolizumab, nivolumab, atezolizumab) and CTLA-4 inhibitors (ipilimumab) have transformed treatment of melanoma, lung cancer, bladder cancer, and many others. CAR-T cell therapy engineers patients' own T cells to recognize and kill cancer cells and has achieved remarkable results in certain blood cancers.
+
+Hormone Therapy:
+Hormone-sensitive cancers including breast cancer (ER/PR positive) and prostate cancer can be treated by reducing hormone levels or blocking hormone receptors. Tamoxifen, aromatase inhibitors, and GnRH agonists are examples.
+
+Bone Marrow Transplantation:
+Hematopoietic stem cell transplantation following high-dose chemotherapy is used for leukemias, lymphomas, and multiple myeloma.
+
+PALLIATIVE CARE
+Palliative care focuses on relieving symptoms, managing pain, and improving quality of life throughout the cancer treatment journey, regardless of the stage of disease.
+
+PRECISION ONCOLOGY
+Genomic profiling and liquid biopsies guide treatment selection in the era of precision medicine, matching patients to therapies most likely to be effective based on their cancer's molecular characteristics.

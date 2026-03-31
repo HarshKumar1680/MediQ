@@ -1,0 +1,38 @@
+Title: Stroke - Acute Treatment and Rehabilitation
+Source: Based on Wikipedia, Mayo Clinic, American Stroke Association
+Disease: Cerebrovascular Accident (Stroke)
+
+A stroke occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die within minutes of a stroke. It is a medical emergency requiring immediate treatment.
+
+TYPES
+Ischemic stroke (about 87% of strokes) results from a blood clot blocking a cerebral artery. Sources include large artery atherothrombosis, small vessel (lacunar) disease, and cardiac embolism (atrial fibrillation, valvular disease).
+Hemorrhagic stroke results from rupture of a blood vessel, causing bleeding into or around the brain. Subtypes include intracerebral hemorrhage and subarachnoid hemorrhage.
+Transient ischemic attack (TIA) is a brief episode of neurological dysfunction without permanent damage, but carries high risk of subsequent stroke.
+
+SYMPTOMS - FAST
+Face drooping, Arm weakness, Speech difficulty, Time to call emergency services.
+
+ACUTE TREATMENT OF ISCHEMIC STROKE
+
+Intravenous Thrombolysis:
+Alteplase (recombinant tissue plasminogen activator, rtPA) dissolves blood clots and is the standard treatment for eligible patients within 4.5 hours of symptom onset. Tenecteplase is increasingly used as an alternative with simpler dosing. Strict eligibility criteria and contraindications must be assessed.
+
+Mechanical Thrombectomy:
+Endovascular mechanical thrombectomy retrieves clots from large cerebral arteries using a stent retriever or aspiration catheter. It is indicated for large vessel occlusion strokes and can be performed up to 24 hours from onset in carefully selected patients. It dramatically improves outcomes compared to medical therapy alone.
+
+Antiplatelet Therapy:
+Aspirin is given within 24-48 hours of ischemic stroke onset (after excluding hemorrhage). Dual antiplatelet therapy with aspirin plus clopidogrel reduces early stroke recurrence after minor stroke or high-risk TIA.
+
+ACUTE TREATMENT OF HEMORRHAGIC STROKE
+Blood pressure lowering to systolic below 140 mmHg reduces hematoma expansion. Reversal of anticoagulation in patients on warfarin with vitamin K, fresh frozen plasma, or prothrombin complex concentrate. Surgical evacuation of hematoma may be considered in cerebellar hemorrhage or deteriorating patients.
+
+SECONDARY STROKE PREVENTION
+Antithrombotic therapy: Antiplatelet agents (aspirin, clopidogrel, aspirin-dipyridamole) for non-cardioembolic stroke. Anticoagulation with warfarin or direct oral anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran, edoxaban) for cardioembolic stroke (particularly atrial fibrillation).
+Risk factor management: Aggressive control of hypertension, hypercholesterolemia (high-intensity statin therapy), diabetes, smoking cessation, and atrial fibrillation management.
+Carotid revascularization: Carotid endarterectomy or carotid artery stenting for symptomatic high-grade carotid stenosis.
+
+STROKE REHABILITATION
+Early mobilization and intensive multidisciplinary rehabilitation are essential for neurological recovery. Rehabilitation includes physiotherapy for motor recovery, speech and language therapy for aphasia and dysphagia, occupational therapy for activities of daily living, and neuropsychological support. Constraint-induced movement therapy, robotic-assisted therapy, and non-invasive brain stimulation techniques are emerging rehabilitation approaches.
+
+STROKE UNIT CARE
+Admission to a dedicated stroke unit with specialized nursing and multidisciplinary care reduces mortality and disability compared to general ward care.

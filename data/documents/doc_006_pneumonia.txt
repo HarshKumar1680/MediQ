@@ -1,0 +1,44 @@
+Title: Pneumonia - Treatment and Medical Management
+Source: Based on Wikipedia, Mayo Clinic, Infectious Diseases Society of America
+Disease: Pneumonia
+
+Pneumonia is an inflammatory condition of the lung parenchyma primarily affecting the alveoli. It is most commonly caused by bacterial, viral, or fungal infections. Pneumonia is a leading cause of morbidity and mortality globally, particularly in children under five and elderly adults.
+
+OVERVIEW
+Pneumonia is classified by the causative agent (bacterial, viral, fungal), by acquisition setting (community-acquired, hospital-acquired, ventilator-associated), and by pattern of lung involvement (lobar, bronchopneumonia, interstitial).
+
+COMMON CAUSATIVE AGENTS
+Streptococcus pneumoniae (most common bacterial cause of community-acquired pneumonia), Haemophilus influenzae, Mycoplasma pneumoniae, Legionella pneumophila, Staphylococcus aureus, respiratory viruses including influenza, RSV, and SARS-CoV-2, and fungi such as Pneumocystis jirovecii in immunocompromised patients.
+
+SYMPTOMS
+Symptoms include fever, chills, cough with purulent sputum, pleuritic chest pain, shortness of breath, rapid breathing, and fatigue. Atypical pneumonia may present with a more gradual onset and milder symptoms.
+
+DIAGNOSIS
+Diagnosis is based on clinical presentation, chest X-ray showing infiltrates or consolidation, complete blood count, sputum culture, blood culture, urinary antigen tests for Legionella and pneumococcus, and oxygen saturation measurement.
+
+TREATMENT APPROACHES
+
+Community-Acquired Pneumonia (CAP):
+For outpatient treatment in previously healthy adults: amoxicillin 500mg three times daily, or a macrolide (azithromycin or clarithromycin), or doxycycline.
+For outpatient treatment with comorbidities: respiratory fluoroquinolone (levofloxacin or moxifloxacin) or beta-lactam plus macrolide combination.
+For hospitalized non-ICU patients: beta-lactam (ampicillin-sulbactam, cefotaxime, ceftriaxone) plus macrolide, or respiratory fluoroquinolone alone.
+For severe pneumonia requiring ICU admission: beta-lactam plus azithromycin, or beta-lactam plus fluoroquinolone. Anti-MRSA coverage (vancomycin or linezolid) added if MRSA is suspected.
+
+Hospital-Acquired Pneumonia (HAP) / Ventilator-Associated Pneumonia (VAP):
+Empirical broad-spectrum antibiotics covering gram-negative bacilli (including Pseudomonas) and MRSA are initiated. De-escalation based on culture results is essential.
+Typical agents include piperacillin-tazobactam, cefepime, meropenem, or imipenem, combined with vancomycin or linezolid.
+
+Viral Pneumonia:
+Influenza pneumonia is treated with oseltamivir within 48 hours of symptom onset. Supportive care including oxygen supplementation, hydration, and antipyretics is the mainstay of viral pneumonia treatment.
+
+Fungal Pneumonia:
+Pneumocystis jirovecii pneumonia (PCP) is treated with trimethoprim-sulfamethoxazole (co-trimoxazole). Aspergillus pneumonia is treated with voriconazole.
+
+Supportive Care:
+Supplemental oxygen for hypoxia, intravenous fluids for dehydration, bronchodilators for wheeze, analgesics for pleuritic pain, and mechanical ventilation for respiratory failure constitute supportive management.
+
+SEVERITY ASSESSMENT
+The CURB-65 score (Confusion, Urea, Respiratory rate, Blood pressure, age 65+) guides the decision between outpatient, inpatient, and ICU admission.
+
+PREVENTION
+Pneumococcal vaccines (PCV13 and PPSV23) and annual influenza vaccination significantly reduce pneumonia risk in high-risk populations.

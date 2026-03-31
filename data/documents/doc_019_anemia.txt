@@ -1,0 +1,49 @@
+Title: Anemia - Treatment and Hematological Management
+Source: Based on Wikipedia, Mayo Clinic, WHO, ASH Guidelines
+Disease: Anemia
+
+Anemia is a condition in which the number of red blood cells or the hemoglobin concentration within them is lower than normal, resulting in reduced oxygen-carrying capacity of the blood. It is the most common hematological disorder worldwide, affecting over 2 billion people.
+
+CLASSIFICATION BY CAUSE
+Iron deficiency anemia: most common type, caused by inadequate iron intake, poor absorption, or chronic blood loss.
+Vitamin B12 deficiency anemia (pernicious anemia): caused by B12 malabsorption due to lack of intrinsic factor or dietary deficiency.
+Folate deficiency anemia: caused by inadequate folate intake or malabsorption.
+Anemia of chronic disease: associated with chronic inflammatory, infectious, or malignant conditions.
+Hemolytic anemias: destruction of red blood cells (autoimmune, hereditary spherocytosis, G6PD deficiency, sickle cell disease, thalassemia).
+Aplastic anemia: bone marrow failure with reduced production of all blood cell types.
+Sideroblastic anemia: ineffective erythropoiesis with iron loading of erythroid precursors.
+
+SYMPTOMS
+Fatigue, pallor, shortness of breath on exertion, dizziness, headache, palpitations, cold extremities, and reduced exercise tolerance. Severe anemia may cause angina, heart failure, and syncope.
+
+DIAGNOSIS
+Complete blood count (CBC) with differential, reticulocyte count, peripheral blood smear, serum iron, ferritin, TIBC, vitamin B12, folate levels, Coombs test, and bone marrow biopsy in complex cases.
+
+TREATMENT APPROACHES
+
+Iron Deficiency Anemia:
+Oral iron supplementation is first-line treatment. Ferrous sulfate 200 mg three times daily (providing 65 mg elemental iron per dose) is standard. Ferrous gluconate and ferrous fumarate are alternatives. Vitamin C taken concurrently enhances iron absorption. Treatment continues for 3 to 6 months after hemoglobin normalizes to replenish iron stores.
+Intravenous iron preparations including ferric carboxymaltose, iron sucrose, low-molecular-weight iron dextran, and ferumoxytol are used when oral iron is not tolerated, absorbed, or sufficient. They rapidly replenish iron stores in a few infusion sessions.
+Identifying and treating the underlying cause of iron loss (peptic ulcer, colorectal cancer, menorrhagia) is essential.
+
+Vitamin B12 Deficiency Anemia:
+Intramuscular hydroxocobalamin or cyanocobalamin injections are standard treatment for pernicious anemia and other causes of B12 malabsorption. Initial loading doses are followed by maintenance injections every 3 months for life.
+High-dose oral cyanocobalamin (1000-2000 mcg daily) can achieve adequate absorption even without intrinsic factor through passive diffusion and is an alternative for patients who prefer oral therapy.
+Dietary B12 deficiency is treated with oral supplementation or dietary improvement.
+
+Folate Deficiency Anemia:
+Folic acid 5 mg orally daily for 4 months corrects folate deficiency anemia. Dietary improvement with folate-rich foods (leafy greens, legumes, fortified cereals) is advised.
+
+Anemia of Chronic Disease:
+Primary treatment targets the underlying condition. Erythropoiesis-stimulating agents (epoetin, darbepoetin) increase red cell production in patients with renal anemia, cancer-related anemia, or anemia related to chemotherapy. Intravenous iron improves response to ESAs.
+
+Hemolytic Anemias:
+Autoimmune hemolytic anemia: prednisolone, rituximab, splenectomy for refractory cases.
+Sickle cell disease: hydroxyurea increases fetal hemoglobin and reduces sickling, vaso-occlusive crises, and transfusion requirement. Voxelotor inhibits hemoglobin S polymerization. L-glutamine reduces oxidative stress. Crizanlizumab reduces pain crises. Regular blood transfusions and iron chelation therapy for transfusion-related iron overload. Hematopoietic stem cell transplantation is curative.
+Thalassemia: Regular blood transfusions and iron chelation (deferasirox, deferoxamine, deferiprone). Stem cell transplantation is curative. Gene therapy approaches are in development.
+
+Aplastic Anemia:
+Immunosuppressive therapy with antithymocyte globulin and cyclosporine for patients who are not transplant candidates. Eltrombopag, a thrombopoietin receptor agonist, improves response rates. Hematopoietic stem cell transplantation is the treatment of choice for severe aplastic anemia in eligible patients.
+
+Blood Transfusion:
+Packed red blood cell transfusion provides immediate but temporary correction of severe symptomatic anemia. Thresholds for transfusion depend on clinical context and patient symptoms.

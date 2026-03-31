@@ -1,0 +1,45 @@
+Title: Inflammatory Bowel Disease - Treatment and Gastroenterological Management
+Source: Based on Wikipedia, Mayo Clinic, ECCO Guidelines
+Disease: Inflammatory Bowel Disease (IBD) - Crohn's Disease and Ulcerative Colitis
+
+Inflammatory bowel disease (IBD) encompasses two main conditions: Crohn's disease and ulcerative colitis. Both are chronic, relapsing immune-mediated inflammatory disorders of the gastrointestinal tract. IBD results from a dysregulated immune response to intestinal microbiota in genetically susceptible individuals.
+
+CROHN'S DISEASE
+Crohn's disease can affect any part of the GI tract from mouth to anus, with transmural (full-thickness) inflammation and a tendency toward skip lesions, fistulas, strictures, and abscesses. The terminal ileum and colon are most commonly involved.
+
+ULCERATIVE COLITIS
+Ulcerative colitis involves continuous mucosal and submucosal inflammation starting from the rectum and extending proximally in the colon. It is classified by extent: proctitis, left-sided colitis, and extensive (pancolitis).
+
+SYMPTOMS
+Diarrhea, rectal bleeding, abdominal pain and cramping, urgency, weight loss, fatigue, and fever. Extra-intestinal manifestations include arthritis, uveitis, erythema nodosum, pyoderma gangrenosum, and primary sclerosing cholangitis.
+
+TREATMENT APPROACHES
+
+5-Aminosalicylates (5-ASA):
+Mesalazine (mesalamine), sulfasalazine, olsalazine, and balsalazide are first-line for mild to moderate ulcerative colitis induction and maintenance of remission. Available as oral and topical (enema, suppository) formulations for distal disease. 5-ASA agents are not effective for Crohn's disease.
+
+Corticosteroids:
+Prednisolone, methylprednisolone, and hydrocortisone suppress acute inflammation and induce remission in moderate to severe IBD flares. Budesonide is a locally acting corticosteroid with fewer systemic side effects, effective for ileal/right-sided Crohn's disease and microscopic colitis. Corticosteroids are not used for maintenance therapy due to side effects.
+
+Immunomodulators:
+Azathioprine and 6-mercaptopurine inhibit T-lymphocyte proliferation and are used for maintenance of remission in both Crohn's disease and ulcerative colitis, and to minimize steroid use. Onset of action is slow (3-6 months).
+Methotrexate is used for Crohn's disease in patients intolerant of thiopurines.
+
+Biologic Therapies:
+TNF-alpha inhibitors: infliximab (IV), adalimumab (SC), certolizumab pegol (SC, Crohn's only), golimumab (SC, UC only). Highly effective for both induction and maintenance of remission in moderate to severe IBD. Used when conventional therapy fails.
+Anti-integrins: vedolizumab (anti-alpha4beta7 integrin) selectively targets gut lymphocyte trafficking, highly effective for both Crohn's disease and ulcerative colitis with an excellent gut-specific safety profile.
+IL-12/23 inhibitor: ustekinumab is effective for moderate to severe Crohn's disease and ulcerative colitis.
+IL-23 inhibitors (p19): risankizumab and guselkumab are effective for Crohn's disease. Mirikizumab is approved for ulcerative colitis.
+
+JAK Inhibitors:
+Tofacitinib (pan-JAK inhibitor, UC only) and upadacitinib (JAK1-selective, UC and CD) provide rapid oral induction of remission. Monitoring for thromboembolism and infection risk is important.
+
+Fecal Microbiota Transplantation (FMT):
+FMT from healthy donors has shown efficacy in inducing remission in mild to moderate ulcerative colitis. It is not yet standard care but represents a promising therapeutic approach.
+
+Surgery:
+Ulcerative colitis: total proctocolectomy with ileal pouch-anal anastomosis (J-pouch) is curative. Indicated for refractory disease, dysplasia, or colorectal cancer.
+Crohn's disease: Surgery for complications (strictures, fistulas, abscesses, obstruction) but is not curative. Postoperative prophylactic therapy reduces recurrence.
+
+TREAT-TO-TARGET
+Modern IBD management aims for mucosal healing (endoscopic remission) and transmural healing (in Crohn's), not just symptomatic improvement, as these endpoints correlate with reduced hospitalizations and surgery.

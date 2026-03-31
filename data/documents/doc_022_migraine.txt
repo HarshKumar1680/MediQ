@@ -1,0 +1,43 @@
+Title: Migraine - Treatment, Prevention, and Headache Management
+Source: Based on Wikipedia, Mayo Clinic, AHS Guidelines
+Disease: Migraine
+
+Migraine is a common, disabling primary headache disorder characterized by recurrent attacks of moderate to severe head pain, typically unilateral and pulsating, often accompanied by nausea, vomiting, and sensitivity to light and sound. It affects approximately 15 percent of the global population and is a leading cause of disability.
+
+OVERVIEW
+Migraine pathophysiology involves cortical spreading depression, trigeminovascular system activation, and release of calcitonin gene-related peptide (CGRP) and other nociceptive mediators. Migraine with aura is preceded by transient neurological symptoms such as visual disturbances, sensory changes, or speech difficulties.
+
+CLASSIFICATION
+Migraine without aura, migraine with aura, chronic migraine (15 or more headache days per month), hemiplegic migraine, vestibular migraine, and retinal migraine are recognized subtypes.
+
+TREATMENT APPROACHES
+
+Acute (Abortive) Treatment:
+Mild to Moderate Attacks:
+NSAIDs including ibuprofen, naproxen, aspirin, and diclofenac are effective for mild to moderate migraine attacks. They are most effective when taken early in the attack.
+Acetaminophen (paracetamol) provides modest relief for mild migraine attacks.
+Combination analgesics containing aspirin, acetaminophen, and caffeine (e.g., Excedrin) are effective.
+Antiemetics such as metoclopramide, prochlorperazine, and domperidone treat nausea and vomiting and may enhance analgesic absorption.
+
+Moderate to Severe Attacks:
+Triptans are selective serotonin 5-HT1B/1D receptor agonists that constrict cranial blood vessels and inhibit trigeminovascular inflammation. Sumatriptan (oral, nasal, subcutaneous), rizatriptan, eletriptan, almotriptan, frovatriptan, naratriptan, and zolmitriptan are available. They should be taken as early as possible in the attack. They are contraindicated in cardiovascular disease, uncontrolled hypertension, and hemiplegic migraine.
+Ergotamine and dihydroergotamine (DHE, nasal or injectable) are vasoconstrictors effective for moderate to severe migraine.
+Gepants (CGRP receptor antagonists): Ubrogepant and rimegepant are oral acute migraine treatments without vasoconstriction, suitable for patients with cardiovascular contraindications to triptans. Rimegepant also has preventive efficacy when taken every other day.
+Ditans: Lasmiditan is a selective 5-HT1F receptor agonist without vasoconstriction, effective for acute migraine.
+
+Preventive Treatment:
+Preventive therapy is indicated when migraine frequency is four or more days per month, attacks are severely disabling, acute treatments are overused, or attacks are prolonged.
+Beta-blockers: propranolol and metoprolol are first-line preventive agents with the strongest evidence.
+Antiepileptics: topiramate and valproate reduce migraine frequency and are first-line options. Topiramate causes weight loss, valproate causes weight gain.
+Tricyclic antidepressants: amitriptyline and nortriptyline are effective preventives, particularly when comorbid insomnia or depression is present.
+Calcium channel blockers: flunarizine (not available in US) has good preventive evidence.
+CGRP pathway therapies: Monoclonal antibodies against CGRP or its receptor including erenumab, fremanezumab, galcanezumab, and eptinezumab are subcutaneous or intravenous monthly or quarterly injections with excellent efficacy and tolerability, particularly for chronic migraine.
+Botulinum toxin A (Botox): 31 injections across the head and neck every 12 weeks are effective for chronic migraine prevention.
+Gepants: Atogepant and rimegepant are oral daily preventives targeting the CGRP pathway.
+
+Non-Pharmacological:
+Biofeedback, cognitive behavioral therapy, relaxation training, acupuncture, and aerobic exercise have evidence for migraine prevention.
+Trigger identification and avoidance (sleep regulation, stress management, dietary triggers, hydration, hormonal factors) is an important component of management.
+
+MEDICATION OVERUSE HEADACHE
+Overuse of acute medications (triptans, analgesics, ergotamines) on 10 to 15 or more days per month leads to medication overuse headache (MOH), a secondary chronic daily headache. Treatment requires withdrawal of the overused medication and initiation of preventive therapy.

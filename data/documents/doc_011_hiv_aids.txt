@@ -1,0 +1,42 @@
+Title: HIV/AIDS - Antiretroviral Treatment and Management
+Source: Based on Wikipedia, WHO, CDC, NIH AIDSinfo
+Disease: HIV/AIDS
+
+Human immunodeficiency virus (HIV) is a lentivirus that attacks the immune system, specifically CD4+ T lymphocytes (helper T cells). Without treatment, HIV progressively destroys the immune system, leading to acquired immunodeficiency syndrome (AIDS), in which life-threatening opportunistic infections and cancers develop.
+
+OVERVIEW
+HIV is transmitted through sexual contact, sharing of needles, blood transfusion, and mother-to-child transmission during pregnancy, childbirth, or breastfeeding. HIV integrates its genetic material into host cell DNA and uses the host's machinery to replicate. Antiretroviral therapy (ART) suppresses viral replication but does not eradicate the virus.
+
+STAGING
+HIV infection is staged by CD4+ T cell count and viral load. AIDS is defined by CD4 count below 200 cells/mm³ or the occurrence of AIDS-defining illnesses.
+
+TREATMENT: ANTIRETROVIRAL THERAPY (ART)
+ART involves combining multiple antiretroviral drugs from different classes to suppress HIV replication to undetectable levels and prevent drug resistance.
+
+Drug Classes:
+Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs): tenofovir alafenamide (TAF), tenofovir disoproxil fumarate (TDF), emtricitabine (FTC), lamivudine (3TC), abacavir (ABC). They incorporate into viral DNA and act as chain terminators.
+Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs): efavirenz, rilpivirine, doravirine, etravirine. They bind directly to reverse transcriptase and block its function.
+Integrase Strand Transfer Inhibitors (INSTIs): dolutegravir, bictegravir, elvitegravir, raltegravir. They prevent integration of viral DNA into the host genome and are currently preferred first-line agents.
+Protease Inhibitors (PIs): darunavir, atazanavir, lopinavir/ritonavir. They prevent viral protein processing and assembly.
+Entry Inhibitors: Fusion inhibitors (enfuvirtide), CCR5 antagonists (maraviroc), and attachment inhibitors (fostemsavir) prevent HIV from entering CD4+ cells.
+Capsid Inhibitor: Lenacapavir, a long-acting injectable agent given every 6 months.
+
+Preferred First-Line Regimens:
+Bictegravir/tenofovir alafenamide/emtricitabine (Biktarvy) - single-tablet regimen
+Dolutegravir/abacavir/lamivudine (Triumeq) - single-tablet regimen
+Dolutegravir + tenofovir alafenamide/emtricitabine
+
+Long-Acting Injectable ART:
+Cabotegravir + rilpivirine given monthly or every two months provides an alternative to daily oral tablets for virologically stable patients.
+
+Pre-Exposure Prophylaxis (PrEP):
+Daily oral emtricitabine/tenofovir disoproxil fumarate or emtricitabine/tenofovir alafenamide reduces HIV acquisition risk by more than 99% in high-risk individuals. Long-acting injectable cabotegravir is also approved for PrEP.
+
+Post-Exposure Prophylaxis (PEP):
+28-day ART regimen initiated within 72 hours of potential HIV exposure reduces infection risk.
+
+MONITORING
+Viral load and CD4 count are monitored at baseline and regularly during treatment. Undetectable viral load (below 50 copies/mL) indicates treatment success and prevents sexual HIV transmission (Undetectable = Untransmittable, U=U).
+
+OPPORTUNISTIC INFECTION PROPHYLAXIS
+Patients with CD4 below 200 cells/mm³ receive co-trimoxazole prophylaxis for Pneumocystis jirovecii pneumonia. Additional prophylaxis for toxoplasmosis, Mycobacterium avium complex, and fungal infections may be needed at lower CD4 counts.

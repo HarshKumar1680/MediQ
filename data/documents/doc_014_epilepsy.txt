@@ -1,0 +1,52 @@
+Title: Epilepsy - Treatment and Antiepileptic Management
+Source: Based on Wikipedia, Mayo Clinic, ILAE Guidelines
+Disease: Epilepsy
+
+Epilepsy is a chronic neurological disorder characterized by recurrent, unprovoked seizures resulting from abnormal, excessive, or synchronous neuronal activity in the brain. It affects approximately 50 million people worldwide and is one of the most common neurological disorders.
+
+OVERVIEW
+Seizures are classified as focal (arising from one brain hemisphere) or generalized (involving both hemispheres). Focal seizures may be aware or impaired awareness. Generalized seizures include absence, myoclonic, tonic-clonic, tonic, atonic, and clonic types. Epilepsy is diagnosed after two or more unprovoked seizures more than 24 hours apart.
+
+CAUSES
+Epilepsy has multiple causes including genetic mutations (channelopathies), structural brain lesions (tumors, cortical dysplasia, hippocampal sclerosis), metabolic disorders, immune-mediated encephalitides, and infections. In many cases no cause is identified (idiopathic/cryptogenic).
+
+TREATMENT APPROACHES
+
+Antiseizure Medications (ASMs):
+The goal of pharmacotherapy is complete seizure freedom without unacceptable side effects. About 70% of patients achieve seizure control with appropriate medication.
+
+First-Generation ASMs:
+Phenytoin, carbamazepine, valproate (valproic acid), phenobarbital, primidone, and ethosuximide (for absence seizures). Valproate is highly effective across multiple seizure types but requires careful monitoring in women of childbearing age due to teratogenicity.
+
+Second-Generation ASMs:
+Lamotrigine, levetiracetam, oxcarbazepine, topiramate, gabapentin, pregabalin, tiagabine, zonisamide, and felbamate. Lamotrigine and levetiracetam have broad-spectrum efficacy with favorable tolerability profiles.
+
+Third-Generation ASMs:
+Lacosamide, perampanel, eslicarbazepine, brivaracetam, cenobamate, and cannabidiol (Epidiolex for Dravet syndrome and Lennox-Gastaut syndrome). Cenobamate has shown remarkable efficacy in drug-resistant focal epilepsy.
+
+Selection Principles:
+ASM selection depends on seizure type, epilepsy syndrome, patient age, sex, comorbidities, drug interactions, and tolerability. Women of childbearing potential should avoid valproate when possible due to teratogenic risk. Levetiracetam and lamotrigine are commonly preferred in women.
+
+Drug-Resistant Epilepsy:
+Approximately 30% of epilepsy patients do not achieve seizure control with medications. These patients should be evaluated at specialized epilepsy centers.
+
+Ketogenic Diet:
+The high-fat, low-carbohydrate ketogenic diet has proven anticonvulsant effects and is particularly effective in children with drug-resistant epilepsy. Modified Atkins diet and low glycemic index treatment are more liberal alternatives.
+
+Vagus Nerve Stimulation (VNS):
+A device implanted in the chest delivers electrical impulses to the vagus nerve, reducing seizure frequency in drug-resistant epilepsy.
+
+Responsive Neurostimulation (RNS):
+An implanted device detects abnormal brain activity and delivers targeted electrical stimulation to abort seizures.
+
+Deep Brain Stimulation (DBS):
+Stimulation of the anterior nucleus of the thalamus reduces seizure frequency in drug-resistant focal epilepsy.
+
+Epilepsy Surgery:
+Resective surgery, removing the seizure focus (temporal lobectomy, lesionectomy), offers the chance of seizure freedom in carefully selected patients with drug-resistant focal epilepsy. Corpus callosotomy reduces drop attacks in generalized epilepsy.
+
+STATUS EPILEPTICUS MANAGEMENT
+Generalized convulsive status epilepticus (seizure lasting over 5 minutes) is a medical emergency. Treatment follows a stepwise approach: benzodiazepines (lorazepam, diazepam, midazolam), then second-line agents (fosphenytoin, valproate, levetiracetam, lacosamide), then anesthetic agents (propofol, midazolam infusion, pentobarbital) for refractory cases.
+
+DRIVING AND LIFESTYLE
+Most jurisdictions require a seizure-free period before driving is permitted. Patients should take safety precautions including avoiding heights and unsupervised swimming.

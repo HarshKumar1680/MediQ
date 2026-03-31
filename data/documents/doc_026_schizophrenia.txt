@@ -1,0 +1,48 @@
+Title: Schizophrenia - Treatment and Psychiatric Management
+Source: Based on Wikipedia, Mayo Clinic, APA Guidelines
+Disease: Schizophrenia
+
+Schizophrenia is a severe chronic psychiatric disorder characterized by episodes of psychosis including hallucinations, delusions, disorganized thinking, and negative symptoms such as flat affect, alogia, avolition, and social withdrawal. It affects approximately 1 percent of the global population and is a leading cause of psychiatric disability.
+
+OVERVIEW
+Schizophrenia involves dysregulation of multiple neurotransmitter systems, particularly dopamine and glutamate. The dopamine hypothesis proposes hyperactivity of mesolimbic dopamine pathways driving positive symptoms and hypoactivity of mesocortical pathways contributing to negative and cognitive symptoms. Glutamate NMDA receptor hypofunction also plays a role.
+
+SYMPTOMS
+Positive symptoms: auditory hallucinations (hearing voices), visual hallucinations, delusions (persecutory, grandiose, referential), disorganized speech, and catatonic behavior.
+Negative symptoms: flat or blunted affect, alogia (poverty of speech), avolition, anhedonia, and social withdrawal.
+Cognitive symptoms: impaired working memory, executive function, and processing speed.
+
+TREATMENT APPROACHES
+
+Antipsychotic Medications:
+Antipsychotics are the cornerstone of schizophrenia treatment, primarily reducing positive symptoms through dopamine D2 receptor blockade.
+
+First-Generation (Typical) Antipsychotics:
+Haloperidol, chlorpromazine, fluphenazine, perphenazine, trifluoperazine, and thioridazine. Effective for positive symptoms but associated with extrapyramidal side effects (EPS) including dystonia, parkinsonism, akathisia, and tardive dyskinesia. Long-acting injectable (LAI) formulations of haloperidol and fluphenazine are available.
+
+Second-Generation (Atypical) Antipsychotics:
+Clozapine, risperidone, olanzapine, quetiapine, aripiprazole, ziprasidone, paliperidone, asenapine, iloperidone, lurasidone, brexpiprazole, and cariprazine. Generally preferred over first-generation agents due to lower EPS risk. Clozapine is the most effective antipsychotic and is reserved for treatment-resistant schizophrenia due to risk of agranulocytosis requiring mandatory blood monitoring.
+
+Long-Acting Injectable (LAI) Antipsychotics:
+Paliperidone palmitate (monthly or 3-monthly), aripiprazole lauroxil, olanzapine pamoate, risperidone microspheres, and haloperidol decanoate improve medication adherence and reduce relapse rates. LAIs are particularly valuable for patients with poor medication adherence.
+
+Side Effect Management:
+Metabolic syndrome (weight gain, dyslipidemia, hyperglycemia) is a major concern particularly with olanzapine and clozapine. Regular monitoring of weight, glucose, and lipids is essential.
+Anticholinergic agents (benztropine, trihexyphenidyl) treat EPS.
+Tardive dyskinesia is treated with valbenazine or deutetrabenazine (VMAT2 inhibitors).
+
+Psychosocial Interventions:
+Cognitive behavioral therapy for psychosis (CBTp) reduces symptom severity and distress.
+Family therapy and psychoeducation improve family coping and reduce relapse rates.
+Social skills training, cognitive remediation therapy, and vocational rehabilitation support community reintegration.
+Assertive Community Treatment (ACT) teams provide intensive outreach support for patients with severe illness.
+Supported employment (Individual Placement and Support) helps patients achieve competitive employment.
+
+Early Intervention:
+Early intervention in first-episode psychosis (FEP) programs with coordinated specialty care improve long-term outcomes. Prodromal intervention with CBT and low-dose antipsychotics in ultra-high-risk individuals may prevent or delay psychosis onset.
+
+TREATMENT-RESISTANT SCHIZOPHRENIA
+Clozapine is the evidence-based treatment for schizophrenia not responding to two adequate antipsychotic trials. Augmentation strategies include adding another antipsychotic, mood stabilizer, or antidepressant.
+
+PHYSICAL HEALTH
+Cardiovascular mortality is significantly elevated in schizophrenia. Regular monitoring and management of metabolic risk factors, smoking cessation support, and preventive healthcare are important components of comprehensive care.

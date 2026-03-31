@@ -1,0 +1,48 @@
+Title: Parkinson's Disease - Treatment and Neurological Management
+Source: Based on Wikipedia, Mayo Clinic, Movement Disorder Society Guidelines
+Disease: Parkinson's Disease
+
+Parkinson's disease is a progressive neurodegenerative disorder primarily affecting the dopaminergic neurons in the substantia nigra pars compacta. It is the second most common neurodegenerative disease after Alzheimer's disease.
+
+OVERVIEW
+The loss of dopamine-producing neurons leads to the cardinal motor features of Parkinson's disease: resting tremor, bradykinesia, rigidity, and postural instability. Non-motor symptoms including autonomic dysfunction, sleep disorders, cognitive impairment, depression, anxiety, and anosmia are increasingly recognized as important aspects of the disease.
+
+TREATMENT APPROACHES
+
+Dopamine Replacement Therapy:
+Levodopa combined with a peripheral decarboxylase inhibitor (carbidopa in carbidopa/levodopa, benserazide in levodopa/benserazide) remains the most effective treatment for motor symptoms. Levodopa is converted to dopamine in the brain, directly replenishing the dopamine deficit. Long-term use leads to motor fluctuations (wearing off, on-off phenomena) and dyskinesias.
+
+Dopamine Agonists:
+Pramipexole, ropinirole, and rotigotine (transdermal patch) stimulate dopamine receptors directly without requiring enzymatic conversion. They are used as monotherapy in early disease or as adjuncts to levodopa. Apomorphine is a potent dopamine agonist available as subcutaneous injection or infusion for rescue of off episodes.
+
+MAO-B Inhibitors:
+Selegiline, rasagiline, and safinamide inhibit monoamine oxidase B, slowing dopamine breakdown and extending the effect of levodopa. They have mild symptomatic benefit and possible neuroprotective effects.
+
+COMT Inhibitors:
+Entacapone and opicapone inhibit catechol-O-methyltransferase, prolonging levodopa activity and reducing motor fluctuations.
+
+Anticholinergics:
+Trihexyphenidyl and benztropine reduce tremor, particularly in younger patients, but have significant cognitive and autonomic side effects limiting their use.
+
+Amantadine:
+An NMDA receptor antagonist that has mild antiparkinsonian effects and is particularly useful for treating levodopa-induced dyskinesias.
+
+Continuous Drug Delivery:
+Duodopa (levodopa-carbidopa intestinal gel) delivered via percutaneous endoscopic gastrostomy-jejunal tube provides continuous intestinal infusion, reducing motor fluctuations. Continuous subcutaneous apomorphine infusion is an alternative.
+
+Deep Brain Stimulation (DBS):
+DBS involves surgical implantation of electrodes targeting the subthalamic nucleus (STN) or globus pallidus internus (GPi). Continuous high-frequency electrical stimulation modulates abnormal neural circuit activity, dramatically improving motor fluctuations, dyskinesias, tremor, and allowing levodopa dose reduction. It is the most effective surgical treatment for advanced Parkinson's disease.
+
+Focused Ultrasound Thalamotomy:
+High-intensity focused ultrasound creates a precise lesion in the ventral intermediate nucleus of the thalamus for medication-resistant tremor.
+
+Non-Motor Symptom Management:
+Depression: SSRIs, SNRIs, pramipexole.
+REM sleep behavior disorder: melatonin, clonazepam.
+Orthostatic hypotension: fludrocortisone, midodrine, droxidopa.
+Cognitive impairment/dementia: rivastigmine.
+Constipation: dietary fiber, osmotic laxatives.
+Psychosis/hallucinations: clozapine, pimavanserin.
+
+Physiotherapy and Rehabilitation:
+Specific physiotherapy programs (LSVT BIG, Parkinson's boxing) improve gait, balance, and motor function. Speech therapy (LSVT LOUD) addresses hypophonia. Exercise including tango, cycling, and resistance training improves motor symptoms and quality of life.

@@ -1,0 +1,45 @@
+Title: Typhoid Fever - Treatment and Antimicrobial Management
+Source: Based on Wikipedia, WHO, CDC
+Disease: Typhoid Fever (Enteric Fever)
+
+Typhoid fever is a systemic febrile illness caused by the bacterium Salmonella enterica serotype Typhi (S. Typhi). Paratyphoid fever is caused by S. Paratyphi A, B, or C and presents similarly. Together these are termed enteric fever. Typhoid fever remains a significant public health problem in low- and middle-income countries.
+
+OVERVIEW
+S. Typhi is transmitted via the fecal-oral route through contaminated food and water. After ingestion, the bacteria penetrate the intestinal mucosa and spread to mesenteric lymph nodes, then via the bloodstream (bacteremia) to the liver, spleen, bone marrow, and gallbladder, where it persists and multiplies.
+
+SYMPTOMS
+Stepwise rising fever over the first week, reaching 39-40°C, accompanied by headache, malaise, anorexia, relative bradycardia, splenomegaly, rose spots (salmon-colored macules on the trunk), and constipation or diarrhea. Complications in the third week include intestinal perforation, hemorrhage, encephalopathy, and myocarditis.
+
+DIAGNOSIS
+Blood culture is the gold standard (positive in 50-70% of cases in first week). Stool and urine cultures may be positive after first week. Bone marrow culture has the highest sensitivity (up to 90%) and is less affected by prior antibiotics. Widal test has poor sensitivity and specificity and is not recommended alone. Typhidot and TyphiDot-M serological tests have variable performance.
+
+TREATMENT APPROACHES
+
+Fluoroquinolones:
+Ciprofloxacin and ofloxacin were previously the first-line treatments for uncomplicated typhoid fever. However, extensive resistance has emerged, particularly in South Asia, limiting their utility. Fluoroquinolones are still used where susceptibility is confirmed.
+
+Third-Generation Cephalosporins:
+Ceftriaxone (IV, 2-4 g/day for 7-14 days) and cefixime (oral, 15-20 mg/kg/day for 7-14 days) are now widely recommended first-line agents, particularly in areas with fluoroquinolone-resistant typhoid. They have excellent activity against S. Typhi.
+Cefixime has become the standard oral treatment option globally.
+
+Azithromycin:
+Azithromycin (500 mg daily for 7 days) is effective for uncomplicated typhoid fever and increasingly used as first-line treatment in many endemic regions due to excellent safety profile, oral bioavailability, and good efficacy against fluoroquinolone-resistant strains.
+
+Chloramphenicol, Ampicillin, and Trimethoprim-Sulfamethoxazole:
+These agents were formerly first-line treatments but are now limited by widespread resistance. They may still be used where susceptibility is confirmed.
+
+Extensively Drug-Resistant (XDR) Typhoid:
+XDR typhoid (resistant to chloramphenicol, ampicillin, trimethoprim-sulfamethoxazole, fluoroquinolones, and third-generation cephalosporins) emerged in Pakistan in 2016. Treatment options include azithromycin for uncomplicated XDR typhoid and carbapenems (meropenem) for severe disease.
+
+Severe Typhoid Fever:
+Ceftriaxone IV is the preferred antibiotic. High-dose dexamethasone (initially 3 mg/kg, then 1 mg/kg every 6 hours for 8 doses) reduces mortality in severe typhoid with altered consciousness or shock.
+Surgical intervention for intestinal perforation.
+
+Typhoid Carriers:
+Chronic carriers harbor S. Typhi in the gallbladder. Treatment with fluoroquinolones (ciprofloxacin) for 4 weeks eradicates carriage in most cases. Cholecystectomy may be required in refractory carriers with gallstones.
+
+SUPPORTIVE CARE
+Nutritional support, antipyretics (paracetamol), IV fluids for dehydration, and monitoring for complications.
+
+PREVENTION
+Typhoid vaccines: injectable Vi polysaccharide vaccine (Typhim Vi) for adults and children over 2 years, oral live attenuated Ty21a vaccine, and the WHO-prequalified typhoid conjugate vaccine (TCV) for children from 6 months of age, providing longer lasting protection. Safe water, sanitation, and hygiene (WASH) practices are essential complementary prevention measures.

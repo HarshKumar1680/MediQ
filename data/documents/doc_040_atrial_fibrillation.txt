@@ -1,0 +1,59 @@
+Title: Atrial Fibrillation - Treatment and Cardiological Management
+Source: Based on Wikipedia, Mayo Clinic, ESC/ACC/AHA Guidelines
+Disease: Atrial Fibrillation (AF / AFib)
+
+Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia, characterised by rapid, disorganised electrical activity in the atria causing an irregular and often rapid ventricular response. It affects over 37 million people worldwide and is a major cause of stroke, heart failure, and cardiovascular morbidity.
+
+OVERVIEW
+In AF, normal coordinated atrial activation driven by the sinoatrial node is replaced by chaotic electrical impulses from multiple re-entrant circuits and ectopic foci, particularly around the pulmonary vein ostia in the left atrium. The atrioventricular node filters impulses irregularly, producing an irregularly irregular ventricular rhythm. Loss of effective atrial contraction reduces cardiac output and promotes atrial thrombus formation in the left atrial appendage, increasing stroke risk.
+
+CLASSIFICATION
+Paroxysmal AF: self-terminating within 7 days (usually within 48 hours).
+Persistent AF: lasting more than 7 days and not self-terminating.
+Long-standing persistent AF: lasting more than 12 months.
+Permanent AF: decision made not to pursue rhythm control.
+Lone AF: AF in the absence of underlying structural heart disease.
+
+SYMPTOMS
+Palpitations, dyspnoea, fatigue, reduced exercise tolerance, dizziness, chest discomfort, and presyncope. Some patients are asymptomatic and AF is discovered incidentally.
+
+STROKE RISK ASSESSMENT
+CHA₂DS₂-VASc score guides anticoagulation decisions: Congestive heart failure (1), Hypertension (1), Age ≥ 75 (2), Diabetes (1), Stroke/TIA history (2), Vascular disease (1), Age 65-74 (1), Sex category female (1). Score ≥ 2 in men or ≥ 3 in women warrants anticoagulation. Score 1 in men or 2 in women: anticoagulation may be considered.
+
+TREATMENT APPROACHES
+
+Anticoagulation (Stroke Prevention):
+Anticoagulation is the most important intervention in AF management, dramatically reducing stroke risk.
+Direct oral anticoagulants (DOACs) are preferred over warfarin due to predictable pharmacokinetics, fewer drug and food interactions, no routine INR monitoring, and equal or superior efficacy and safety.
+Apixaban (5 mg twice daily) has the most favourable bleeding profile and is generally preferred.
+Rivaroxaban (20 mg once daily with evening meal) is a convenient once-daily option.
+Dabigatran (150 mg twice daily) is a direct thrombin inhibitor; 110 mg twice daily in elderly or high bleeding risk.
+Edoxaban (60 mg once daily) is an alternative factor Xa inhibitor.
+Warfarin (dose-adjusted to INR 2.0-3.0) remains an option, particularly for patients with mechanical heart valves or significant renal impairment where DOACs are contraindicated.
+Left atrial appendage occlusion (Watchman device) is an alternative to anticoagulation in patients with contraindications to long-term anticoagulation.
+
+Rate Control:
+Rate control aims to slow the ventricular rate to below 110 bpm at rest (lenient control) or below 80 bpm at rest and below 110 bpm during moderate exercise (strict control). It improves symptoms and prevents tachycardia-mediated cardiomyopathy.
+Beta-blockers (metoprolol, bisoprolol, atenolol, carvedilol) are first-line rate control agents, particularly in patients with heart failure with reduced ejection fraction or coronary artery disease.
+Calcium channel blockers (diltiazem, verapamil) are effective rate control agents but are contraindicated in heart failure with reduced ejection fraction.
+Digoxin provides rate control at rest but not during exercise; used as add-on therapy.
+Amiodarone is used for rate control in haemodynamically unstable patients or when other agents are contraindicated.
+AV node ablation with permanent pacemaker implantation is used for refractory rapid AF when pharmacological rate control is inadequate.
+
+Rhythm Control:
+Rhythm control restores and maintains sinus rhythm and is preferred in symptomatic patients, those with reversible causes, younger patients, and those with AF-induced cardiomyopathy.
+Cardioversion: Electrical cardioversion (DC cardioversion) delivers a synchronised shock to restore sinus rhythm. Chemical cardioversion with intravenous flecainide, propafenone, amiodarone, ibutilide, or vernakalant may also be attempted in appropriate patients. Anticoagulation is required before cardioversion for AF of unknown or more than 48 hours duration.
+Antiarrhythmic drug therapy for maintenance of sinus rhythm:
+Flecainide and propafenone (class IC) for patients without structural heart disease.
+Sotalol for patients with coronary artery disease or mild structural heart disease.
+Dronedarone for paroxysmal or persistent AF without severe heart failure.
+Amiodarone is the most effective antiarrhythmic for maintaining sinus rhythm but has significant organ toxicity (thyroid, lung, liver, corneal deposits) requiring long-term monitoring.
+
+Catheter Ablation:
+Pulmonary vein isolation (PVI) by radiofrequency ablation or cryoablation is the cornerstone of catheter ablation for AF. It electrically isolates the pulmonary vein ostia from the left atrium, eliminating the commonest source of AF triggers. It is more effective than antiarrhythmic drugs for maintaining sinus rhythm in paroxysmal and persistent AF and is increasingly recommended as first-line rhythm control in selected patients. Repeat procedures may be needed.
+
+Upstream Therapy:
+Treating underlying conditions (hypertension, obstructive sleep apnea, heart failure, obesity, hyperthyroidism, alcohol excess) reduces AF burden and recurrence after ablation. ACE inhibitors, ARBs, and statins have shown modest AF prevention effects in high-risk patients.
+
+INTEGRATED AF MANAGEMENT
+The ABC pathway (Anticoagulation/Avoid stroke, Better symptom management, Cardiovascular risk factors and comorbidity management) guides comprehensive AF care and improves patient outcomes.
