@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>MedIR — Medical Information Retrieval</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Fira+Code:wght@300;400;500&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/style.css?v=4">
+</head>
+<body>
+
+<div class="scanline-overlay"></div>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="hdr-inner">
+    <div class="brand">
+      <svg class="brand-hex" viewBox="0 0 32 32" width="28" height="28">
+        <polygon points="16,2 28,9 28,23 16,30 4,23 4,9" fill="none" stroke="var(--red)" stroke-width="1.5"/>
+        <text x="16" y="21" text-anchor="middle" font-family="Syne" font-size="10" font-weight="700" fill="var(--red)">MQ</text>
+      </svg>
+      <span class="brand-name">Medi<span>Q</span></span>
+    </div>
+    <div class="hdr-chips">
+      <span class="chip chip--algo" id="chip-docs">— docs</span>
+      <span class="chip chip--algo" id="chip-terms">— terms</span>
+      <span class="chip chip--status">5 Algorithms</span>
+    </div>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <p class="hero-kicker">Academic Information Retrieval System</p>
+    <h1 class="hero-title">Search Medical<br><em>Treatments</em></h1>
+    <p class="hero-sub">40 curated documents · Inverted Index · 5 ranked retrieval algorithms with live timing</p>
+
+    <div class="search-card">
+      <div class="search-top">
+        <div class="search-wrap">
+          <svg class="search-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input id="q" class="search-input" type="text" placeholder="e.g. diabetes treatment insulin…" autocomplete="off" spellcheck="false">
+          <button class="search-btn" id="search-btn">
+            Search <span class="btn-arr">→</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="search-opts">
+        <div class="opt-block">
+          <span class="opt-label">Algorithm</span>
+          <div class="algo-pills" id="algo-pills">
+            <button class="ap active" data-m="bm25">BM25</button>
+            <button class="ap" data-m="bm25p">BM25+</button>
+            <button class="ap" data-m="vsm">VSM Cosine</button>
+            <button class="ap" data-m="lm">LM JM</button>
+            <button class="ap" data-m="tfidf">TF-IDF</button>
+          </div>
+        </div>
+        <div class="opt-block">
+          <span class="opt-label">Top K</span>
+          <select class="sel" id="topk">
+            <option value="5">5</option>
+            <option value="10" selected>10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+          </select>
+        </div>
+        <div class="opt-block">
+          <span class="opt-label">Quick Queries</span>
+          <div class="demo-row">
+            <button class="dq" data-q="diabetes treatment">diabetes</button>
+            <button class="dq" data-q="asthma therapy">asthma</button>
+            <button class="dq" data-q="heart disease management">heart disease</button>
+            <button class="dq" data-q="cancer chemotherapy">cancer</button>
+            <button class="dq" data-q="HIV antiretroviral">HIV</button>
+            <button class="dq" data-q="malaria artemisinin">malaria</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RESULTS AREA -->
+<main class="results-area" id="results-area" hidden>
+
+  <!-- TABS -->
+  <div class="tabs-bar">
+    <div class="tabs-inner">
+      <button class="tb active" data-tab="results">Results</button>
+      <button class="tb" data-tab="compare">⚡ Compare All</button>
+      <button class="tb" data-tab="tokens">Pipeline</button>
+      <button class="tb" data-tab="eval">Evaluate</button>
+    </div>
+  </div>
+
+  <!-- TAB: RESULTS -->
+  <div class="tab-pane active" id="tab-results">
+    <div class="res-meta" id="res-meta"></div>
+    <div class="res-list" id="res-list"></div>
+  </div>
+
+  <!-- TAB: COMPARE ALL ALGORITHMS -->
+  <div class="tab-pane" id="tab-compare">
+    <div class="compare-wrap">
+
+      <!-- Timing table -->
+      <div class="section-hdr">
+        <h2 class="section-title">Algorithm Timing Comparison</h2>
+        <p class="section-sub">All 5 algorithms run on the same query. Times measured server-side in milliseconds.</p>
+      </div>
+      <div class="timing-table-wrap">
+        <table class="timing-table" id="timing-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Algorithm</th>
+              <th>Year</th>
+              <th>Time (ms)</th>
+              <th>Speed Bar</th>
+              <th>Top Result</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody id="timing-tbody"></tbody>
+        </table>
+      </div>
+
+      <!-- Per-algorithm result panels -->
+      <div class="section-hdr" style="margin-top:2.5rem">
+        <h2 class="section-title">Results by Algorithm</h2>
+        <p class="section-sub">Top 5 ranked documents per algorithm. Click an algorithm tab to compare rankings.</p>
+      </div>
+      <div class="algo-tabs" id="algo-tabs"></div>
+      <div class="algo-results" id="algo-results"></div>
+
+    </div>
+  </div>
+
+  <!-- TAB: PIPELINE -->
+  <div class="tab-pane" id="tab-tokens">
+    <div class="pipeline-wrap" id="pipeline-wrap"></div>
+  </div>
+
+  <!-- TAB: EVALUATE -->
+  <div class="tab-pane" id="tab-eval">
+    <div class="eval-wrap">
+      <div class="section-hdr">
+        <h2 class="section-title">Evaluation on Ground Truth</h2>
+        <p class="section-sub">10 queries with known relevant documents. Metrics: Precision@10, Recall@10, F1@10, Average Precision.</p>
+      </div>
+      <div class="eval-run-row">
+        <button class="eval-run-btn" data-m="bm25">Eval BM25</button>
+        <button class="eval-run-btn" data-m="bm25p">Eval BM25+</button>
+        <button class="eval-run-btn" data-m="vsm">Eval VSM</button>
+        <button class="eval-run-btn" data-m="lm">Eval LM</button>
+        <button class="eval-run-btn" data-m="tfidf">Eval TF-IDF</button>
+      </div>
+      <div id="eval-output"></div>
+    </div>
+  </div>
+
+</main>
+
+<!-- LOADER -->
+<div class="loader" id="loader" hidden>
+  <div class="loader-ring"></div>
+  <span>Searching across algorithms…</span>
+</div>
+
+<footer class="site-footer">
+  <span>Medical IR System · Information Retrieval · Academic Project</span>
+  <span>Flask · NLTK · BM25 · BM25+ · VSM · LM · TF-IDF</span>
+</footer>
+
+<script src="/static/js/app.js?v=4"></script>
+</body>
+</html>
