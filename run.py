@@ -29,8 +29,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from app.app import app
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", "5000"))
     print("\n" + "="*55)
-    print("  Open browser → http://127.0.0.1:5000")
+    print(f"  Open browser → http://127.0.0.1:{port}")
     print("  Press Ctrl+C to stop")
     print("="*55 + "\n")
-    app.run(debug=False, port=5000, threaded=True, use_reloader=False)
+    app.run(host="0.0.0.0", port=port, debug=False, threaded=True, use_reloader=False)

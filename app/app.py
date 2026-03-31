@@ -1,13 +1,19 @@
 """
-app/app.py — Flask server with timeout-safe endpoints.
+app/app.py — Flask server with deployment-friendly configuration.
 """
-import sys, os, time
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+import os
+import sys
+
+BASE = os.path.join(os.path.dirname(__file__), "..")
+sys.path.insert(0, BASE)
+
+# Keep NLTK assets in a deterministic folder for hosted environments.
+NLTK_DATA_DIR = os.path.join(BASE, "nltk_data")
+os.makedirs(NLTK_DATA_DIR, exist_ok=True)
+os.environ.setdefault("NLTK_DATA", NLTK_DATA_DIR)
 
 from flask import Flask, request, jsonify, send_from_directory
 import main as ir
-
-BASE = os.path.join(os.path.dirname(__file__), "..")
 
 app = Flask(__name__,
     static_folder  =os.path.join(BASE, "static"),
@@ -24,7 +30,10 @@ def index():
 def search():
     q      = request.args.get("q","").strip()
     method = request.args.get("method","bm25").lower()
-    top_k  = min(int(request.args.get("top_k", 10)), 20)
+    try:
+        top_k = min(int(request.args.get("top_k", 10)), 20)
+    except ValueError:
+        top_k = 10
     if not q:
         return jsonify({"error": "Empty query"}), 400
     try:
@@ -39,7 +48,10 @@ def search():
 @app.route("/compare")
 def compare():
     q     = request.args.get("q","").strip()
-    top_k = min(int(request.args.get("top_k", 10)), 20)
+    try:
+        top_k = min(int(request.args.get("top_k", 10)), 20)
+    except ValueError:
+        top_k = 10
     if not q:
         return jsonify({"error": "Empty query"}), 400
     try:
@@ -74,5 +86,6 @@ def static_files(path):
     return send_from_directory(os.path.join(BASE,"static"), path)
 
 if __name__ == "__main__":
-    print("\n[Flask] http://127.0.0.1:5000\n")
-    app.run(debug=False, port=5000, threaded=True)
+    port = int(os.environ.get("PORT", "5000"))
+    print(f"\n[Flask] http://127.0.0.1:{port}\n")
+    app.run(host="0.0.0.0", port=port, debug=False, threaded=True)
