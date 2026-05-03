@@ -75,9 +75,25 @@ function renderResults(data){
     $('res-list').innerHTML = '<div class="no-res"><h3>No results</h3><p>Try different keywords.</p></div>';
     return;
   }
-  const maxS = data.results[0].score || 1;
+  
+  let maxS = -Infinity;
+  let minS = Infinity;
+  data.results.forEach(function(r) {
+    if(r.score > maxS) maxS = r.score;
+    if(r.score < minS) minS = r.score;
+  });
+  if(maxS === minS) minS = 0;
+
   $('res-list').innerHTML = data.results.map(function(r,i){
-    var pct  = Math.max(4, Math.round((r.score / maxS) * 100));
+    let pct = 100;
+    if (maxS !== minS) {
+      if (minS >= 0) {
+        pct = Math.round((r.score / maxS) * 100);
+      } else {
+        pct = Math.round(((r.score - minS) / (maxS - minS)) * 100);
+      }
+    }
+    pct = Math.max(4, Math.min(100, pct));
     var toks = (r.tokens_matched||[]).map(function(t){
       return '<span class="rt">' + esc(t) + '</span>';
     }).join('');
@@ -307,7 +323,12 @@ $$('.ap').forEach(function(btn){
     $$('.ap').forEach(function(b){ b.classList.remove('active'); });
     btn.classList.add('active');
     activeMethod = btn.dataset.m;
+    if($('q').value.trim()){ doSearch(); }
   });
+});
+
+$('topk').addEventListener('change', function(){
+  if($('q').value.trim()){ doSearch(); }
 });
 
 $$('.dq').forEach(function(pill){

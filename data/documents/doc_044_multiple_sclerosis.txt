@@ -1,0 +1,269 @@
+================================================================================
+  MULTIPLE SCLEROSIS — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Multiple Sclerosis (MS) — Diagnosis and Management
+Source  : European Committee for Treatment and Research in Multiple Sclerosis
+          (ECTRIMS); American Academy of Neurology (AAN); MS Society;
+          NIH / NINDS; McDonald Criteria 2017
+Disease : Multiple Sclerosis (MS)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Multiple sclerosis (MS) is a chronic, immune-mediated demyelinating disease of
+the central nervous system (CNS) characterized by inflammation, demyelination,
+axonal injury, and gliosis. It is the leading cause of non-traumatic disability
+in young adults. Global prevalence is approximately 2.8 million, with highest
+rates in Northern Europe, North America, and Australia. Peak onset is between
+ages 20–40; female:male ratio 3:1. Pathogenesis involves autoreactive CD4+
+T cells (Th1, Th17), CD8+ T cells, and B cells breaching the blood-brain
+barrier, targeting myelin antigens (MBP, MOG, PLP), causing demyelinating
+plaques in the white and gray matter. Genetic risk involves HLA-DRB1*15:01;
+environmental factors include low vitamin D, EBV infection, smoking, and
+childhood obesity. Disease course types: Relapsing-Remitting MS (RRMS; 85%),
+Secondary Progressive MS (SPMS), Primary Progressive MS (PPMS), and
+Clinically Isolated Syndrome (CIS).
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Motor:
+  - Limb weakness, spasticity, gait disturbance
+  - Pyramidal signs: hyperreflexia, upgoing plantars
+
+Sensory:
+  - Paresthesias (numbness, tingling) in limbs and trunk
+  - Lhermitte's sign: electric shock sensation on neck flexion (cervical cord)
+  - Pain (neuropathic and musculoskeletal)
+
+Visual:
+  - Optic neuritis: unilateral painful vision loss; RAPD; classic presentation
+  - Diplopia (internuclear ophthalmoplegia from MLF lesion)
+  - Oscillopsia, nystagmus
+
+Cerebellar/Brainstem:
+  - Ataxia, intention tremor, dysmetria (Charcot's triad)
+  - Dysarthria, dysphagia
+
+Autonomic and Bladder/Bowel:
+  - Neurogenic bladder (urgency, frequency, retention)
+  - Constipation or fecal urgency
+  - Sexual dysfunction
+
+Cognitive and Psychiatric:
+  - Cognitive impairment (processing speed, memory)
+  - Depression (~50%), pseudobulbar affect
+  - Fatigue (most common and disabling symptom, 90%)
+  - Heat sensitivity (Uhthoff's phenomenon): temporary worsening with heat
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+McDonald Criteria 2017 — Based on:
+  1. Dissemination in Space (DIS): ≥1 T2 lesion in ≥2 CNS regions (periventricular,
+     cortical/juxtacortical, infratentorial, spinal cord)
+  2. Dissemination in Time (DIT): New T2 or Gd-enhancing lesion on follow-up MRI,
+     OR simultaneous presence of Gd-enhancing and non-enhancing lesions
+
+MRI Brain and Spine (Gadolinium-Enhanced):
+  - Periventricular plaques (Dawson's fingers — perivenular orientation)
+  - Juxtacortical, cortical, infratentorial, and spinal cord lesions
+  - Active lesions: Gadolinium-enhancing (acute inflammation, BBB disruption)
+  - T1 "black holes" (irreversible axonal loss)
+  - Progressive brain atrophy
+
+CSF Analysis:
+  - Oligoclonal bands (OCBs): Present in >90% of MS patients (IgG bands
+    in CSF but not serum — intrathecal immunoglobulin synthesis)
+  - IgG index elevated (>0.7)
+  - Mild pleocytosis (lymphocytes <50 cells/µL)
+  - No CSF OCBs: Diagnose with caution; consider NMOSD
+
+Evoked Potentials:
+  - Visual evoked potentials (VEP): Prolonged P100 latency in optic neuritis
+  - Somatosensory and brainstem auditory evoked potentials
+
+Blood Tests (to exclude mimics):
+  - AQP4-IgG and MOG-IgG (to differentiate NMOSD and MOGAD)
+  - ANA, anti-dsDNA, ACE (sarcoidosis, SLE)
+  - Vitamin B12, CBC, ESR, TSH
+
+Disability Assessment:
+  - Expanded Disability Status Scale (EDSS): 0 (normal) to 10 (death from MS)
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. ACUTE RELAPSE TREATMENT
+   Methylprednisolone IV:
+     - Mechanism: Reduces inflammation and accelerates myelin repair
+     - Dose: 1000 mg/day IV for 3–5 days (no taper required)
+     - Shortens relapse duration; does not alter long-term disability
+   Oral methylprednisolone 500–1000 mg/day × 5 days: Non-inferior to IV
+   Plasma Exchange (PLEX):
+     - 5–7 exchanges over 14 days
+     - For severe steroid-refractory relapses (transverse myelitis, severe
+       optic neuritis)
+
+2. DISEASE-MODIFYING THERAPIES (DMTs) — RRMS/CIS
+
+   PLATFORM / FIRST-LINE THERAPIES (Moderate Efficacy):
+
+   Beta-Interferons:
+     - Interferon beta-1a (Avonex): 30 mcg IM weekly
+     - Interferon beta-1a (Rebif): 22–44 mcg SC three times weekly
+     - Interferon beta-1b (Betaseron/Extavia): 250 mcg SC every other day
+     - Peginterferon beta-1a (Plegridy): 125 mcg SC every 2 weeks
+     - Mechanism: Immunomodulatory; shifts cytokine balance, reduces T cell
+       trafficking across BBB
+     - Reduce relapse rate ~30–35%
+     - Monitoring: LFTs, CBC, thyroid function; flu-like injection site reactions
+
+   Glatiramer Acetate (Copaxone, Glatopa):
+     - 20 mg SC daily or 40 mg SC three times weekly
+     - Mechanism: Synthetic peptide; mimics MBP; induces T regulatory cells
+     - Relapse reduction ~30%
+     - Minimal systemic side effects; injection site reactions
+
+   Dimethyl Fumarate (Tecfidera):
+     - 240 mg orally twice daily (start 120 mg BID × 7 days)
+     - Mechanism: Nrf2 pathway activation (antioxidant); lymphocyte depletion
+     - Relapse reduction ~49%
+     - Side effects: Flushing (take with food/aspirin), GI symptoms,
+       lymphopenia — monitor lymphocyte count
+
+   Diroximel Fumarate (Vumerity):
+     - 231 mg orally twice daily; improved GI tolerability vs. DMF
+
+   Teriflunomide (Aubagio):
+     - 7 or 14 mg orally once daily
+     - Mechanism: Inhibits dihydroorotate dehydrogenase (DHODH); pyrimidine
+       synthesis inhibition; reduces lymphocyte proliferation
+     - Relapse reduction ~32–36%
+     - Monitoring: LFTs, CBC, BP; teratogenic — elimination procedure required
+
+   Monomethyl fumarate (Bafiertam): 190 mg BID
+
+   HIGH-EFFICACY THERAPIES (for active disease or treat-to-target):
+
+   Natalizumab (Tysabri):
+     - 300 mg IV every 4 weeks
+     - Mechanism: Anti-α4-integrin monoclonal antibody; prevents lymphocyte
+       trafficking into CNS by blocking VLA-4/VCAM-1 interaction
+     - Relapse reduction ~68%
+     - Risk: Progressive Multifocal Leukoencephalopathy (PML) caused by JC
+       virus reactivation; risk stratification by anti-JCV antibody index
+     - Monthly infusion; MRI monitoring for PML
+
+   Fingolimod (Gilenya):
+     - 0.5 mg orally once daily
+     - Mechanism: Sphingosine-1-phosphate (S1P) receptor modulator;
+       sequesters lymphocytes in lymph nodes
+     - Relapse reduction ~55%
+     - Monitoring: First-dose ECG/cardiac observation (bradycardia), LFTs,
+       ophthalmology (macular edema), skin (squamous cell carcinoma)
+     - Live vaccine contraindicated; varicella immunity required
+
+   Siponimod (Mayzent): S1P receptor modulator; 2 mg/day; for RRMS and SPMS
+   Ozanimod (Zeposia): 0.92 mg/day; S1P modulator
+   Ponesimod (Ponvory): 20 mg/day
+
+   Cladribine (Mavenclad):
+     - 3.5 mg/kg total dose over 2 years (short oral courses)
+     - Mechanism: Purine analog; selectively depletes lymphocytes
+     - Relapse reduction ~58%
+     - Monitoring: Lymphocyte count, liver function; teratogenic × 6 months
+
+   Alemtuzumab (Lemtrada):
+     - 12 mg/day IV × 5 days (Year 1), then × 3 days (Year 2)
+     - Mechanism: Anti-CD52 antibody; depletes T and B lymphocytes; allows
+       immune reconstitution
+     - Relapse reduction ~49–69% vs. interferon
+     - Secondary autoimmunity risk (thyroid disease, ITP, nephropathy) in 30–40%
+     - Monthly monitoring for 48 months after last course
+
+   Ocrelizumab (Ocrevus):
+     - 300 mg IV × 2 doses (2 weeks apart), then 600 mg IV every 6 months
+     - Mechanism: Humanized anti-CD20 antibody; depletes B cells
+     - RRMS: Relapse reduction ~46–47% vs. interferon
+     - PPMS: Reduces disability progression (first approved therapy for PPMS)
+     - Risk: Infusion reactions, infections, hepatitis B reactivation, PML
+
+   Ofatumumab (Kesimpta):
+     - 20 mg SC monthly (after loading doses)
+     - Anti-CD20; fully human antibody; self-administered
+     - Similar efficacy to ocrelizumab for RRMS
+
+   Ublituximab (Briumvi): 150 mg IV, then 450 mg IV every 24 weeks; anti-CD20
+
+3. PRIMARY PROGRESSIVE MS (PPMS)
+   - Ocrelizumab 600 mg IV every 6 months: Only approved DMT for PPMS
+   - Reduces disability progression by ~25% vs. placebo
+
+4. SECONDARY PROGRESSIVE MS (SPMS)
+   - Siponimod: Reduces disability progression in active SPMS
+   - Ofatumumab, cladribine: Evidence in active SPMS
+   - Mitoxantrone: 12 mg/m² IV every 3 months (lifetime cumulative limit due
+     to cardiotoxicity); for rapidly worsening SPMS
+
+5. SYMPTOM MANAGEMENT
+   Spasticity:
+     - Baclofen 10–80 mg/day orally (GABA-B agonist)
+     - Tizanidine 4–36 mg/day orally (alpha-2 agonist)
+     - Intrathecal baclofen pump for severe refractory spasticity
+     - Nabiximols (Sativex): THC/CBD oromucosal spray for MS spasticity
+
+   Fatigue:
+     - Amantadine 200 mg/day
+     - Modafinil 100–200 mg/day
+     - Energy conservation, sleep hygiene
+
+   Neuropathic Pain:
+     - Gabapentin 300–3600 mg/day
+     - Pregabalin 150–600 mg/day
+     - Amitriptyline 10–75 mg at night
+     - Duloxetine 30–120 mg/day
+
+   Bladder Dysfunction:
+     - Overactive bladder: Oxybutynin 5–15 mg/day, solifenacin 5–10 mg/day
+     - Clean intermittent catheterization (CIC) for retention
+     - Desmopressin for nocturia
+
+   Depression: SSRIs (sertraline 50–200 mg/day), SNRIs
+   Cognitive Rehabilitation: Cognitive training, neuropsychological support
+   Tremor: Propranolol, clonazepam, deep brain stimulation (DBS) for severe
+   Walking Difficulty: Dalfampridine (4-aminopyridine) 10 mg orally twice
+     daily — potassium channel blocker; improves walking speed in ~35%
+
+6. REHABILITATION
+   - Physiotherapy, occupational therapy, speech therapy
+   - Exercise (aerobic and resistance training) — safe and beneficial in MS
+   - Fatigue management programs, multidisciplinary MS teams
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - MRI brain (and spine if indicated) at 3–6 months after DMT start,
+    then annually (or per agent-specific protocols)
+  - EDSS assessment every 6 months
+  - Regular CBC, LFTs, lymphocyte counts (agent-specific)
+  - JCV antibody monitoring for natalizumab patients every 6 months
+  - Ophthalmology for fingolimod/siponimod
+  - Immunoglobulin levels for prolonged anti-CD20 therapy
+  - Thyroid/renal/hematologic monitoring for alemtuzumab × 4 years
+
+--------------------------------------------------------------------------------
+COMPLICATIONS
+--------------------------------------------------------------------------------
+  - Progressive disability and wheelchair dependence
+  - Recurrent UTIs, pressure ulcers (immobility)
+  - Depression, suicidal ideation
+  - Dysphagia and aspiration pneumonia (progressive disease)
+  - PML (natalizumab, fingolimod, dimethyl fumarate)
+  - Secondary autoimmunity (alemtuzumab)
+
+================================================================================
+END OF DOCUMENT
+================================================================================

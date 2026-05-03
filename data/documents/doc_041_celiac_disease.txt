@@ -1,0 +1,171 @@
+
+
+Title   : Celiac Disease — Diagnosis and Management
+Source  : American College of Gastroenterology (ACG) Guidelines; NIH / NIDDK;
+          Mayo Clinic; World Gastroenterology Organisation (WGO) Global Guidelines
+Disease : Celiac Disease (Gluten-Sensitive Enteropathy)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Celiac disease is a chronic, immune-mediated enteropathy triggered by dietary
+gluten (a protein found in wheat, barley, and rye) in genetically predisposed
+individuals. It is characterized by villous atrophy of the small intestinal
+mucosa, leading to malabsorption of nutrients. Approximately 1% of the global
+population is affected, though the majority remain undiagnosed. The condition
+is strongly associated with HLA-DQ2 and HLA-DQ8 haplotypes. Pathophysiology
+involves both adaptive (T-cell mediated) and innate immune responses to gliadin
+peptides, resulting in mucosal inflammation, crypt hyperplasia, and villous
+blunting. Untreated celiac disease carries risks of osteoporosis, infertility,
+lymphoma, and other autoimmune disorders.
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Classic GI Symptoms:
+  - Chronic diarrhea (steatorrhea — pale, bulky, foul-smelling stools)
+  - Abdominal bloating, distension, and cramping
+  - Flatulence and nausea
+  - Weight loss and failure to thrive (children)
+
+Non-Classic / Extra-Intestinal Manifestations:
+  - Iron-deficiency anemia (most common presentation in adults)
+  - Dermatitis herpetiformis (intensely pruritic vesicular rash)
+  - Peripheral neuropathy, ataxia
+  - Osteopenia and osteoporosis
+  - Infertility, recurrent miscarriage
+  - Elevated liver transaminases (celiac hepatitis)
+  - Aphthous ulcers, dental enamel defects
+  - Fatigue, depression, cognitive impairment ("brain fog")
+  - Short stature in children, delayed puberty
+
+Silent/Asymptomatic Celiac Disease:
+  - Positive serology and histology without symptoms
+  - Often detected on screening of high-risk groups
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+Serological Testing (performed while on gluten-containing diet):
+  - Anti-tissue transglutaminase IgA (tTG-IgA): First-line test; sensitivity
+    >95%, specificity >95%
+  - Anti-endomysial IgA (EMA-IgA): High specificity (>99%), used for
+    confirmation
+  - Deamidated gliadin peptide IgG/IgA (DGP): Useful in IgA-deficient patients
+  - Total serum IgA: Must be measured to exclude selective IgA deficiency
+    (~2-3% of celiac patients)
+
+Endoscopic Findings:
+  - Upper GI endoscopy with multiple duodenal biopsies (≥4 from D2 and ≥1 from
+    duodenal bulb D1)
+  - Scalloping of duodenal folds, mosaic pattern, loss of folds
+
+Histological Classification (Modified Marsh Criteria):
+  - Marsh 0: Normal mucosa
+  - Marsh 1: Increased intraepithelial lymphocytes (IELs >25/100 enterocytes)
+  - Marsh 2: Crypt hyperplasia + increased IELs
+  - Marsh 3a: Partial villous atrophy
+  - Marsh 3b: Subtotal villous atrophy
+  - Marsh 3c: Total villous atrophy (classic celiac)
+
+Genetic Testing:
+  - HLA-DQ2/DQ8 typing: High negative predictive value; used to exclude disease
+    in ambiguous cases
+
+Diagnosis Confirmation:
+  - Positive serology + Marsh ≥2 histology on gluten-containing diet, with
+    clinical/histological response to gluten-free diet (GFD)
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. GLUTEN-FREE DIET (GFD) — THE ONLY PROVEN TREATMENT
+   - Strict, lifelong elimination of wheat, barley, rye, and contaminated oats
+   - Allowed: rice, maize, potato, quinoa, certified gluten-free oats
+   - Dietary counseling by a registered dietitian is essential
+   - Monitoring for nutritional deficiencies: iron, folate, B12, calcium,
+     vitamin D, zinc, magnesium
+   - Label-reading education; cross-contamination avoidance
+   - Threshold for harm: <10–50 mg/day of gluten
+
+2. NUTRITIONAL SUPPLEMENTATION
+   Iron:
+     - Ferrous sulfate 325 mg orally once–three times daily
+     - IV iron (ferric carboxymaltose) for severe deficiency or intolerance
+   Folate:
+     - Folic acid 1 mg/day orally
+   Vitamin B12:
+     - Cyanocobalamin 1000 mcg IM monthly or 1000–2000 mcg orally daily
+   Calcium + Vitamin D:
+     - Calcium carbonate 1000–1500 mg/day
+     - Vitamin D3 (cholecalciferol) 1000–2000 IU/day; adjust per serum levels
+   Zinc:
+     - Zinc sulfate 220 mg orally daily if deficient
+
+3. REFRACTORY CELIAC DISEASE (RCD)
+   Definition: Persistent/recurrent symptoms and villous atrophy despite strict
+   GFD for >12 months after excluding dietary gluten exposure and other causes.
+
+   RCD Type I (normal IEL phenotype):
+     - Nutritional support
+     - Budesonide 9 mg/day orally for 8–12 weeks (tapering)
+     - Prednisolone 20–40 mg/day if budesonide unavailable
+     - Azathioprine 2–2.5 mg/kg/day as steroid-sparing agent
+
+   RCD Type II (clonal/aberrant IEL phenotype — pre-lymphomatous):
+     - Cladribine (2-chlorodeoxyadenosine) 0.1 mg/kg/day SC for 5 days,
+       cycles repeated (disease-modifying)
+     - Autologous hematopoietic stem cell transplantation (HSCT) in eligible
+       patients
+     - Investigational: Anti-IL-15 therapy (AMG-714)
+
+4. DERMATITIS HERPETIFORMIS
+   - Strict GFD (skin lesions may take 6–24 months to resolve)
+   - Dapsone 25–100 mg/day orally for rapid symptom control
+     (monitor for hemolysis and methemoglobinemia)
+
+5. EMERGING / INVESTIGATIONAL THERAPIES
+   - Latiglutenase (ALV003): Oral glutenase enzyme to degrade ingested gluten
+   - Nexvax2: Peptide-based immunotherapy (Phase II trials)
+   - Anti-IL-15 monoclonal antibodies
+   - Tight junction modulators (larazotide acetate)
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - Serological follow-up: tTG-IgA at 6 and 12 months after GFD initiation,
+    then annually
+  - Repeat duodenal biopsy at 12–24 months in symptomatic or serology-positive
+    patients
+  - Bone mineral density (DEXA scan) at diagnosis; repeat per osteoporosis
+    guidelines
+  - Annual CBC, iron studies, B12, folate, vitamin D, liver enzymes
+  - Thyroid function (associated autoimmune thyroid disease)
+  - Annual dietary review with dietitian
+
+--------------------------------------------------------------------------------
+PREVENTION / COMPLICATIONS
+--------------------------------------------------------------------------------
+Complications of Untreated Celiac Disease:
+  - Osteoporosis and fractures
+  - Iron-deficiency and megaloblastic anemia
+  - Enteropathy-associated T-cell lymphoma (EATL) — rare but serious
+  - Small bowel adenocarcinoma
+  - Hyposplenism and increased infection risk
+  - Infertility, adverse pregnancy outcomes
+
+Associated Autoimmune Conditions:
+  - Type 1 diabetes mellitus (~5–10% co-occurrence)
+  - Autoimmune thyroid disease (Hashimoto's, Graves')
+  - Primary biliary cholangitis
+  - IgA nephropathy
+
+Screening Recommendations:
+  - First-degree relatives of confirmed celiac patients (15–20% prevalence)
+  - Patients with type 1 diabetes, Down syndrome, Turner syndrome, William
+    syndrome, IgA deficiency, autoimmune thyroid disease
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,0 +1,263 @@
+================================================================================
+  BIPOLAR DISORDER — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Bipolar Disorder — Diagnosis and Management
+Source  : American Psychiatric Association (APA) Practice Guidelines;
+          CANMAT/ISBD Bipolar Disorder Guidelines; BAP Guidelines;
+          NIH / NIMH; DSM-5-TR
+Disease : Bipolar Disorder (Manic-Depressive Illness)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Bipolar disorder (BD) is a chronic, episodic mood disorder characterized by
+recurrent episodes of mania/hypomania and depression, with periods of normal
+mood (euthymia) between episodes. Lifetime prevalence is approximately 1–4%
+(BD-I ~1%; BD-II ~1.1%; Cyclothymia ~2.4%). It ranks among the leading causes
+of disability worldwide, with peak onset in late adolescence to early adulthood.
+BD-I is defined by at least one manic episode (with or without depression);
+BD-II by hypomanic and major depressive episodes without full mania. Etiology
+involves genetic predisposition (heritability 60–85%; CACNA1C, ANK3, CLOCK
+gene associations), neurobiological dysregulation of monoamine systems, HPA
+axis abnormalities, circadian rhythm disruption, and environmental precipitants
+(sleep deprivation, substance use, stressful life events).
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Manic Episode (BD-I; ≥7 days or any duration if hospitalized):
+  - Elevated, expansive, or irritable mood
+  - Increased energy, goal-directed activity, psychomotor agitation
+  - Decreased need for sleep (feels rested after 3 hours)
+  - Grandiosity or inflated self-esteem
+  - Racing thoughts, flight of ideas, pressure of speech
+  - Distractibility
+  - Risky behavior: sexual indiscretion, spending sprees, impulsive decisions
+  - Psychotic features in severe mania (delusions of grandeur, hallucinations)
+
+Hypomanic Episode (BD-II; ≥4 days):
+  - Similar to mania but less severe; does not cause marked impairment
+  - No psychosis; no hospitalization required
+
+Major Depressive Episode (≥2 weeks):
+  - Depressed mood or anhedonia
+  - Neurovegetative symptoms: sleep (usually hypersomnia), appetite changes,
+    psychomotor retardation or agitation
+  - Fatigue, poor concentration
+  - Feelings of worthlessness, guilt
+  - Suicidal ideation (high-risk: lifetime suicidality ~25–50% in BD)
+
+Mixed Features:
+  - Simultaneous depressive and (hypo)manic symptoms
+  - Associated with higher suicidality and substance use
+
+Rapid Cycling:
+  - ≥4 episodes/year; associated with worse prognosis
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+  - DSM-5-TR diagnostic criteria: BD-I, BD-II, Cyclothymic Disorder,
+    Other Specified BD
+  - Clinical interview; mood charting/life charts
+  - Mood Disorder Questionnaire (MDQ): Screening for BD
+  - Young Mania Rating Scale (YMRS); Hamilton/Montgomery–Åsberg Depression
+    Rating Scale
+  - Exclude medical causes: Thyroid disease (TSH), B12 deficiency, CBC,
+    CMP, neurological evaluation
+  - EEG (if seizure disorder suspected), brain MRI (if first episode/atypical)
+  - Substance use assessment (commonly comorbid)
+
+Differential Diagnosis:
+  - Unipolar major depressive disorder
+  - Schizophrenia/schizoaffective disorder
+  - ADHD, borderline personality disorder
+  - Substance-induced mood disorder
+  - Medical causes: Thyroid disease, Cushing's, epilepsy
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. MOOD STABILIZERS — Cornerstone of BD Management
+
+   Lithium (Eskalith, Lithobid):
+     - Mechanism: Inhibits inositol monophosphatase (IP), GSK-3β; modulates
+       serotonin, dopamine, neuroprotective effects
+     - Dose: 600–1800 mg/day in divided doses (IR) or once daily (ER)
+     - Target serum level: Acute mania: 0.8–1.2 mEq/L;
+       Maintenance: 0.6–0.8 mEq/L
+     - Gold standard for mania prevention, depression prevention, and
+       suicide risk reduction (ONLY mood stabilizer with antisuicide evidence)
+     - Monitoring: Serum lithium level (5–7 days after dose change, then
+       every 3–6 months); renal function (eGFR, creatinine); thyroid function
+       (TSH, T4); ECG if cardiac history
+     - Side effects: Fine tremor, polyuria/polydipsia (nephrogenic DI),
+       hypothyroidism, weight gain, acne, cognitive dulling
+     - Toxicity (>1.5 mEq/L): Coarse tremor, ataxia, confusion, seizures
+     - Narrow therapeutic index; avoid NSAIDs, ACE inhibitors, thiazides
+       (increase lithium levels)
+
+   Valproic Acid / Divalproex (Depakote, Depakene):
+     - Mechanism: Increases GABA activity; inhibits voltage-gated sodium
+       channels; histone deacetylase (HDAC) inhibition
+     - Dose: 750–2000 mg/day; target serum level 50–125 mcg/mL
+     - Extended-release (Depakote ER) for improved tolerability
+     - Particularly effective for: Mixed states, rapid cycling, mania
+     - Side effects: Weight gain, tremor, alopecia, GI upset, sedation,
+       polycystic ovarian syndrome (PCOS)
+     - Serious: Hepatotoxicity (rare), pancreatitis, teratogenicity
+       (neural tube defects — avoid in women of childbearing age)
+     - Monitoring: LFTs, CBC (thrombocytopenia), drug levels, valproate level
+
+   Lamotrigine (Lamictal):
+     - Mechanism: Inhibits voltage-gated sodium and calcium channels; reduces
+       glutamate release
+     - Dose: Slow titration required — 25 mg/day × 2 weeks, 50 mg/day ×
+       2 weeks, target 100–200 mg/day (BD-I: up to 400 mg)
+     - DIFFERENT dosing with valproate (halve doses) and enzyme inducers
+       (double doses)
+     - Most effective for bipolar depression and maintenance (preventing
+       depressive episodes); less effective for acute mania
+     - First-line maintenance, especially BD-II
+     - Risk: Stevens-Johnson syndrome (SJS) / toxic epidermal necrolysis (TEN)
+       — rare but serious; linked to rapid titration
+     - Side effects: Headache, dizziness, diplopia, blurred vision
+     - Monitoring: Clinical monitoring for rash; no blood level monitoring
+       in standard practice
+
+   Carbamazepine (Tegretol):
+     - 400–1600 mg/day in divided doses; therapeutic level 4–12 mcg/mL
+     - Mechanism: Voltage-gated sodium channel blocker
+     - Effective for acute mania and mixed states; less evidence for
+       bipolar depression
+     - Significant drug interactions (P450 inducer)
+     - Risk: Aplastic anemia, agranulocytosis (rare), SJS
+     - Monitoring: CBC, LFTs, sodium, carbamazepine level
+     - HLA-B*1502 testing required before use in Asian populations (SJS risk)
+
+   Oxcarbazepine: 300–2400 mg/day; less drug interactions than carbamazepine;
+   less evidence base
+
+2. ATYPICAL ANTIPSYCHOTICS (for acute mania and maintenance)
+
+   Quetiapine (Seroquel):
+     - 300–800 mg/day at bedtime
+     - FDA-approved for acute mania, bipolar depression (Seroquel XR 300 mg),
+       and maintenance
+     - Dopamine D2, serotonin 5-HT2A antagonism
+     - Side effects: Sedation, weight gain, metabolic syndrome, orthostatic
+       hypotension
+     - Most evidence for bipolar depression among antipsychotics
+
+   Olanzapine (Zyprexa):
+     - 5–20 mg/day; highly effective for acute mania
+     - Olanzapine-fluoxetine combination (Symbyax): Approved for bipolar
+       depression (6/25 or 12/50 mg)
+     - High risk of metabolic complications (weight gain, diabetes, dyslipidemia)
+
+   Aripiprazole (Abilify):
+     - 15–30 mg/day (oral) or 400 mg/month (IM depot)
+     - Dopamine partial agonist; weight-neutral; approved for mania and
+       maintenance
+     - Side effects: Akathisia, insomnia, nausea
+
+   Risperidone (Risperdal):
+     - 1–6 mg/day; approved for acute mania
+     - Risperidone LAI (Risperdal Consta): 25–50 mg IM every 2 weeks
+
+   Lurasidone (Latuda):
+     - 20–120 mg/day with food (≥350 calories)
+     - FDA-approved for bipolar depression (monotherapy and adjunct to
+       lithium/valproate)
+     - Minimal metabolic effects; weight-neutral
+
+   Cariprazine (Vraylar):
+     - 1.5–6 mg/day; dopamine D3/D2 partial agonist
+     - FDA-approved for acute mania/mixed features AND bipolar depression
+     - Metabolically favorable
+
+   Asenapine (Saphris):
+     - 10–20 mg/day sublingual; approved for acute mania and mixed features
+
+   Ziprasidone (Geodon):
+     - 40–160 mg/day; QTc monitoring required
+
+3. ACUTE MANIA TREATMENT
+   - First-line: Lithium OR valproate OR atypical antipsychotic (quetiapine,
+     risperidone, olanzapine, aripiprazole, cariprazine, asenapine)
+   - Combination (lithium or valproate + antipsychotic) for severe mania
+   - Benzodiazepines (lorazepam 1–2 mg IV/IM, clonazepam 0.5–2 mg):
+     Short-term adjunct for agitation and sleep in acute phase
+   - ECT: Rapid, highly effective for severe/refractory mania
+
+4. BIPOLAR DEPRESSION TREATMENT
+   - First-line: Quetiapine (300 mg/day) OR Lithium + lamotrigine;
+     Lurasidone (as monotherapy or adjunct); Cariprazine 1.5 mg/day
+   - Olanzapine-fluoxetine combination (OFC/Symbyax)
+   - Lithium (monotherapy or augmentation)
+   - Lamotrigine (maintenance/prevention; less evidence for acute bipolar depression)
+   - Antidepressants: CONTROVERSIAL — risk of inducing mania/mixed states/
+     rapid cycling; may be considered with mood stabilizer cover; avoid
+     tricyclic antidepressants (higher switch risk); use shortest duration
+   - ECT: Effective for severe bipolar depression with psychosis, catatonia,
+     or suicidality
+
+   Lumateperone (Caplyta):
+     - 42 mg/day; FDA-approved for bipolar depression (BD-I and BD-II)
+     - Serotonin/dopamine modulator; minimal metabolic effects
+
+5. MAINTENANCE THERAPY
+   - Goal: Prevent recurrence of manic and depressive episodes; protect
+     neurocognitive function; reduce suicidality
+   - First-line: Lithium; quetiapine; lamotrigine (depressive polarity);
+     valproate; aripiprazole (depot)
+   - Combination therapy often needed for breakthrough episodes
+
+6. RAPID CYCLING AND MIXED STATES
+   - Valproate or lithium combination; add atypical antipsychotic
+   - Avoid antidepressants; reduce triggers (sleep deprivation, substances)
+   - Thyroid optimization (T4 supplementation if subclinical hypothyroidism)
+
+7. PSYCHOSOCIAL INTERVENTIONS
+   - Psychoeducation: Foundation of BD self-management; improves adherence
+   - Cognitive Behavioral Therapy (CBT): Addresses negative thought patterns
+   - Interpersonal and Social Rhythm Therapy (IPSRT): Stabilizes daily routines
+     and circadian rhythms
+   - Family-Focused Therapy (FFT): Reduces expressed emotion; improves family
+     functioning
+   - Group therapy, peer support
+
+8. SUICIDE PREVENTION
+   - Highest-risk period: Depressive or mixed phases; after hospitalization
+   - Lithium: Reduces suicide risk by ~50–80% in BD; only agent with
+     anti-suicidal evidence
+   - Safety planning; lethal means restriction; crisis line access
+   - Hospitalization: For active suicidal ideation with plan/intent
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - Lithium serum levels, renal function, thyroid function every 6 months
+  - Valproate levels, LFTs, CBC: Every 6 months
+  - Metabolic monitoring (weight, BMI, glucose, lipids): Annually (especially
+    on atypical antipsychotics)
+  - Mood charting (mood diary, apps): Daily tracking
+  - Clinical assessment for emerging episodes: Every 3–6 months
+
+--------------------------------------------------------------------------------
+COMPLICATIONS
+--------------------------------------------------------------------------------
+  - Suicide (15–20× higher risk than general population)
+  - Substance use disorders (>50% comorbidity)
+  - Cardiovascular disease (major cause of premature mortality)
+  - Neurocognitive impairment (residual between episodes)
+  - Social and occupational dysfunction
+  - Medication side effects: Lithium nephropathy, thyroid disease;
+    metabolic syndrome with antipsychotics
+  - Comorbid anxiety disorders (~50%), ADHD
+
+================================================================================
+END OF DOCUMENT
+================================================================================

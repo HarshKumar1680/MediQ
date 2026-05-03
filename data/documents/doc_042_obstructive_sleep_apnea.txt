@@ -1,0 +1,214 @@
+================================================================================
+  OBSTRUCTIVE SLEEP APNEA — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Obstructive Sleep Apnea (OSA) — Diagnosis and Management
+Source  : American Academy of Sleep Medicine (AASM) Clinical Guidelines;
+          American Thoracic Society (ATS); NIH / NHLBI; Mayo Clinic
+Disease : Obstructive Sleep Apnea (OSA)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Obstructive sleep apnea (OSA) is the most common sleep-related breathing
+disorder, characterized by repetitive episodes of partial (hypopnea) or
+complete (apnea) upper airway obstruction during sleep, resulting in
+intermittent hypoxia, hypercapnia, and sleep fragmentation. OSA affects
+approximately 9–38% of adults globally, with prevalence rising due to obesity
+epidemics. Risk factors include obesity (BMI >30), male sex, age >40, large
+neck circumference (>40 cm women, >43 cm men), craniofacial abnormalities,
+upper airway soft tissue enlargement (enlarged tonsils, macroglossia), alcohol
+and sedative use, and family history. Untreated OSA is associated with
+hypertension, cardiovascular disease, stroke, type 2 diabetes, metabolic
+syndrome, motor vehicle accidents, and impaired quality of life.
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Nocturnal Symptoms:
+  - Loud, habitual snoring
+  - Witnessed apneas (breathing cessation observed by bed partner)
+  - Gasping or choking arousals
+  - Nocturia (frequent nighttime urination)
+  - Diaphoresis (night sweats)
+  - Restless sleep, insomnia
+
+Daytime Symptoms:
+  - Excessive daytime sleepiness (EDS) — cardinal symptom
+  - Morning headaches (from hypercapnia/hypoxia)
+  - Unrefreshing sleep
+  - Cognitive impairment: memory loss, poor concentration
+  - Mood changes: irritability, depression, anxiety
+  - Decreased libido, erectile dysfunction
+
+Children (Pediatric OSA):
+  - Mouth breathing, snoring, restless sleep
+  - Behavioral problems, attention-deficit hyperactivity
+  - Enuresis (bedwetting)
+  - Poor school performance
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+Screening Tools:
+  - STOP-BANG Questionnaire (Snoring, Tired, Observed apneas, Pressure,
+    BMI >35, Age >50, Neck >40 cm, Gender male): Score 0–2 low risk,
+    3–4 intermediate, 5–8 high risk
+  - Epworth Sleepiness Scale (ESS): Score >10 indicates significant sleepiness
+
+Diagnostic Testing:
+  Polysomnography (PSG) — Gold Standard:
+    - In-laboratory, full-night study monitoring EEG, EOG, EMG, airflow,
+      respiratory effort, SpO2, ECG, body position
+    - Apnea-Hypopnea Index (AHI): apneas + hypopneas per hour of sleep
+      · Mild OSA: AHI 5–14.9/hour
+      · Moderate OSA: AHI 15–29.9/hour
+      · Severe OSA: AHI ≥30/hour
+    - Oxygen Desaturation Index (ODI): desaturations >3–4% per hour
+
+  Home Sleep Apnea Testing (HSAT):
+    - Type 3 devices: airflow, respiratory effort, SpO2 — appropriate for
+      adults with high pre-test probability and no comorbidities
+    - Not suitable for: suspected central sleep apnea, severe cardiopulmonary
+      disease, or hypoventilation syndromes
+
+  Additional Evaluation:
+    - Lateral cephalometry or CT/MRI for anatomical assessment
+    - Drug-Induced Sleep Endoscopy (DISE) for surgical planning
+    - Thyroid function tests (hypothyroidism associated with OSA)
+    - Fasting glucose, HbA1c, lipid panel (metabolic comorbidities)
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. POSITIVE AIRWAY PRESSURE (PAP) THERAPY — First-Line Treatment
+
+   Continuous Positive Airway Pressure (CPAP):
+     - Delivers fixed pressure (4–20 cm H2O) to pneumatically splint the
+       upper airway open during sleep
+     - Gold standard for moderate-to-severe OSA (AHI ≥15) and symptomatic
+       mild OSA
+     - Pressure titrated via PSG or auto-titrating CPAP (APAP)
+     - Reduces AHI, improves daytime sleepiness, blood pressure, quality of
+       life, and cardiovascular risk
+     - Adherence target: ≥4 hours/night on ≥70% of nights
+
+   Auto-titrating PAP (APAP):
+     - Adjusts pressure breath-by-breath within a set range (e.g., 4–20 cm H2O)
+     - Preferred for uncomplicated OSA; increases comfort and adherence
+
+   Bilevel PAP (BiPAP / BPAP):
+     - Separate inspiratory (IPAP) and expiratory (EPAP) pressures
+     - Used when CPAP pressure is poorly tolerated, or in OSA with
+       hypoventilation, central apneas, or neuromuscular disease
+
+   Adaptive Servo-Ventilation (ASV):
+     - For complex/central sleep apnea syndromes
+     - Contraindicated in heart failure with reduced EF <45%
+
+   CPAP Adherence Enhancement:
+     - Heated humidification (reduces mouth/nasal dryness)
+     - Mask fitting optimization (nasal, nasal pillow, full-face masks)
+     - Ramp feature (starts at lower pressure, gradually increases)
+     - Desensitization/acclimatization protocols
+     - Cognitive behavioral therapy for CPAP (CBT-CPAP)
+     - Telemedicine and data-driven coaching (adherence monitoring via
+       SD card/wireless data download)
+
+2. ORAL APPLIANCE THERAPY (OAT)
+   - Mandibular Advancement Device (MAD): repositions mandible and tongue
+     anteriorly to enlarge retropalatal and retroglossal airway
+   - Indicated for: mild-to-moderate OSA, CPAP intolerance, positional OSA
+   - Custom-fitted by trained dental sleep medicine specialist
+   - Efficacy: AHI reduction ~50%; less effective than CPAP in severe OSA
+   - Side effects: tooth soreness, temporomandibular joint discomfort,
+     excessive salivation, dental movement
+
+3. LIFESTYLE MODIFICATIONS
+   Weight Loss:
+     - 10% weight loss can reduce AHI by 26%
+     - Bariatric surgery (BMI >35 with comorbidities): most effective
+       weight-loss intervention; can achieve near-remission of OSA
+   Positional Therapy:
+     - Supine-predominant OSA: Positional devices, lateral sleep positioning
+     - Tennis ball technique, positional alarms/vibrating devices
+   Alcohol and Sedative Avoidance:
+     - Alcohol relaxes pharyngeal muscles; avoid within 3–4 hours of sleep
+     - Avoid benzodiazepines, opioids, and muscle relaxants before sleep
+   Exercise:
+     - Regular aerobic exercise reduces OSA severity independent of weight loss
+   Sleep Hygiene:
+     - Consistent sleep-wake schedule; adequate sleep duration
+
+4. PHARMACOTHERAPY (Adjunctive — Not First-Line)
+   Solriamfetol (Sunosi):
+     - Dopamine/norepinephrine reuptake inhibitor
+     - 37.5–150 mg orally once daily in morning
+     - For residual EDS despite adequate CPAP adherence
+   Modafinil (Provigil):
+     - Wakefulness-promoting agent
+     - 200–400 mg orally once daily in morning
+     - For residual sleepiness; does not treat underlying OSA
+   Armodafinil (Nuvigil):
+     - R-enantiomer of modafinil; 150–250 mg/day
+   Pitolisant (Wakix):
+     - Histamine H3 receptor antagonist/inverse agonist
+     - 8.9–35.6 mg/day for EDS in OSA
+   Acetazolamide:
+     - Carbonic anhydrase inhibitor; used in central/high-altitude sleep apnea
+     - 125–250 mg twice daily
+   Topical Nasal Therapies:
+     - Intranasal corticosteroids (e.g., fluticasone 50 mcg/nostril/day) for
+       coexistent allergic rhinitis/nasal congestion
+
+5. SURGICAL TREATMENT
+   Upper Airway Surgery:
+     - Tonsillectomy and adenoidectomy: First-line in children; effective in
+       adults with tonsillar hypertrophy
+     - Uvulopalatopharyngoplasty (UPPP): Removes excess tissue from soft
+       palate and oropharynx; 50–60% success rate
+     - Maxillomandibular advancement (MMA): Most effective surgical option
+       in adults; success rate 75–90%
+     - Genioglossus advancement, hyoid suspension
+
+   Hypoglossal Nerve Stimulation (HNS — Inspire Therapy):
+     - Implantable device that stimulates XII cranial nerve to protrude tongue
+       during inspiration
+     - Indicated for moderate-to-severe OSA (AHI 15–65), CPAP intolerant,
+       BMI <32, without concentric palatal collapse
+     - Response rate: ~80% with AHI reduction >50%
+
+   Nasal Surgery:
+     - Septoplasty, turbinate reduction: Improves nasal airway; adjunctive
+       to CPAP or OAT rather than standalone treatment
+
+   Tracheotomy:
+     - Reserved for life-threatening OSA refractory to all other treatments
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - Follow-up in 4–8 weeks after CPAP initiation with adherence/efficacy data
+  - Annual review of CPAP pressure, mask fit, and adherence
+  - Repeat PSG if weight change >10%, or clinical deterioration
+  - Blood pressure monitoring (OSA is a secondary cause of hypertension)
+  - Cardiovascular and metabolic risk assessment annually
+  - Driving safety counseling (significant crash risk when untreated)
+
+--------------------------------------------------------------------------------
+COMPLICATIONS OF UNTREATED OSA
+--------------------------------------------------------------------------------
+  - Systemic hypertension (in 50% of OSA patients)
+  - Pulmonary hypertension
+  - Atrial fibrillation and cardiac arrhythmias
+  - Heart failure, coronary artery disease
+  - Stroke (2–4× increased risk)
+  - Type 2 diabetes and insulin resistance
+  - Depression and anxiety
+  - Increased motor vehicle accident risk (7× higher)
+  - Non-alcoholic fatty liver disease (NAFLD)
+
+================================================================================
+END OF DOCUMENT
+================================================================================

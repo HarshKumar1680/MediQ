@@ -1,0 +1,272 @@
+================================================================================
+  ACUTE KIDNEY INJURY — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Acute Kidney Injury (AKI) — Diagnosis and Management
+Source  : KDIGO (Kidney Disease: Improving Global Outcomes) AKI Guidelines;
+          American Society of Nephrology (ASN); NIH / NIDDK;
+          UpToDate Clinical Reference; Critical Care Nephrology
+Disease : Acute Kidney Injury (AKI) / Acute Renal Failure
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Acute kidney injury (AKI) is an abrupt decline in kidney function (within
+hours to days) resulting in reduced GFR, accumulation of nitrogenous waste
+products, and dysregulation of fluid, electrolyte, and acid-base homeostasis.
+Hospital prevalence is approximately 10–15% of admitted patients; 50–60% in
+ICU settings. In-hospital mortality for severe AKI ranges from 40–60% in
+critically ill patients. Etiology is classified as prerenal (60–70%): reduced
+renal perfusion (hypovolemia, heart failure, sepsis); intrinsic (25–40%):
+acute tubular necrosis (ATN), glomerulonephritis, interstitial nephritis,
+vasculitis; and postrenal (5–10%): urinary tract obstruction. ATN from
+ischemia or nephrotoxins is the most common intrinsic cause. AKI is a risk
+factor for subsequent CKD and ESKD development.
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Oliguria/Anuria:
+  - Urine output <0.5 mL/kg/hour for >6 hours (oliguria)
+  - Urine output <100 mL/day (anuria)
+
+Fluid Overload:
+  - Peripheral edema, pulmonary edema
+  - Hypertension
+  - Dyspnea, orthopnea
+
+Uremia (azotemic symptoms):
+  - Nausea, vomiting, anorexia
+  - Altered mental status, confusion
+  - Uremic frost (rare, severe)
+  - Pericarditis (uremic)
+  - Coagulopathy
+
+Electrolyte Disturbances:
+  - Hyperkalemia: Weakness, paresthesias, arrhythmia
+  - Hyponatremia: Headache, confusion, seizures
+  - Hyperphosphatemia, hypocalcemia: Muscle cramps, tetany
+  - Metabolic acidosis: Kussmaul breathing, confusion
+
+Cause-Specific Features:
+  - Prerenal: Thirst, orthostatic hypotension, reduced skin turgor
+  - Obstruction: Flank pain, distended bladder, hematuria
+  - Glomerulonephritis: Hematuria, proteinuria, hypertension
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+KDIGO Diagnostic Criteria (any one of):
+  - Serum creatinine rise ≥0.3 mg/dL within 48 hours
+  - Serum creatinine ≥1.5× baseline within 7 days
+  - Urine output <0.5 mL/kg/hour for ≥6 hours
+
+KDIGO Staging:
+  Stage 1: SCr ×1.5–1.9 baseline or +0.3 mg/dL; UO <0.5 mL/kg/hr × 6–12 hr
+  Stage 2: SCr ×2.0–2.9 baseline; UO <0.5 mL/kg/hr × ≥12 hr
+  Stage 3: SCr ×3.0 baseline or ≥4.0 mg/dL or RRT initiated; UO <0.3 ml/kg/hr
+            × ≥24 hr or anuria ≥12 hr
+
+Laboratory:
+  - BMP (BUN, creatinine, electrolytes, bicarbonate, calcium, phosphate)
+  - CBC, coagulation (DIC)
+  - Urinalysis with microscopy:
+    · Prerenal: Normal sediment; hyaline casts; high SG (>1.020)
+    · ATN: Muddy brown granular casts; renal tubular epithelial cells;
+      isosthenuric (SG ~1.010)
+    · Glomerulonephritis: RBC casts, dysmorphic red cells, proteinuria
+    · Interstitial nephritis: WBC casts, eosinophiluria, mild proteinuria
+  - Urine electrolytes: FENa = (UNa × SCr)/(SNa × UCr) × 100
+    · FENa <1%: Prerenal; >2%: Intrinsic (ATN)
+    · FEUrea <35%: Prerenal (useful in patients on diuretics)
+  - Urine sodium (<20 mEq/L: prerenal; >40: intrinsic)
+
+Imaging:
+  - Renal ultrasound: Size, echogenicity, obstruction (hydronephrosis),
+    resistive index (RI >0.7 = poor renal vascular flow)
+  - CT without contrast: Stones, masses, obstruction
+
+Additional Tests (if intrinsic AKI suspected):
+  - ANA, anti-dsDNA, ANCA (pANCA, cANCA), anti-GBM antibodies
+  - Complement (C3, C4)
+  - Serum protein electrophoresis (myeloma)
+  - Blood cultures (sepsis-associated AKI)
+  - HIV, hepatitis B/C (glomerulonephritis)
+
+Kidney Biopsy:
+  - For unexplained intrinsic AKI without clear diagnosis
+  - Required for suspected rapidly progressive glomerulonephritis (RPGN)
+  - Contraindicated if coagulopathy, single kidney, uncontrolled HTN
+
+Novel Biomarkers:
+  - Urine NGAL (neutrophil gelatinase-associated lipocalin): Early ATN marker
+  - Urine KIM-1 (kidney injury molecule-1)
+  - Urine IL-18, liver-type FABP
+  - Insulin-like growth factor-binding protein 7 (IGFBP7) × tissue inhibitor
+    of metalloproteinase-2 (TIMP-2) — FDA-cleared (NephroCheck) for AKI risk
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. IDENTIFY AND TREAT UNDERLYING CAUSE
+
+   Prerenal AKI — Volume Resuscitation:
+     - Isotonic crystalloids: Normal saline (0.9% NaCl) or balanced solutions
+       (Ringer's lactate, Plasmalyte) 500 mL bolus IV, reassess
+     - Balanced crystalloids preferred (lower risk of hyperchloremic acidosis):
+       Plasmalyte or Ringer's lactate
+     - Albumin 4% or 20%: For cirrhosis-associated AKI (HRS-AKI), hypoalbuminemia
+     - Vasopressors (septic/vasodilatory shock): Norepinephrine first-line;
+       maintain MAP ≥65 mmHg
+     - Treat underlying heart failure, hepatorenal syndrome
+
+   Intrinsic AKI — ATN:
+     - Remove/reduce nephrotoxins (see below)
+     - Optimize hemodynamics and renal perfusion
+     - Supportive management; no specific reversal therapy for ATN
+
+   Glomerulonephritis (RPGN):
+     - Immunosuppression urgently: Pulse methylprednisolone 500–1000 mg IV
+       × 3 days, then oral prednisolone 1 mg/kg/day
+     - Cyclophosphamide 2 mg/kg/day (ANCA vasculitis, anti-GBM)
+     - Rituximab (anti-CD20): ANCA vasculitis — 375 mg/m² weekly × 4 doses
+       (non-inferior to cyclophosphamide)
+     - Plasma exchange: Anti-GBM (Goodpasture's) disease and severe ANCA
+
+   Acute Interstitial Nephritis (AIN):
+     - Withdraw offending drug (most common: NSAIDs, PPIs, antibiotics,
+       antibiotics, allopurinol)
+     - Prednisolone 0.5–1 mg/kg/day if no improvement within 1–2 weeks
+
+   Obstructive AKI (Postrenal):
+     - Bladder catheter for bladder outlet obstruction
+     - Nephrostomy tube or ureteral stent for ureteral obstruction
+     - Treat underlying cause (stones, malignancy, BPH)
+
+2. FLUID MANAGEMENT
+   - Restrictive fluid strategy in anuric/oliguric AKI to avoid overload
+   - Fluid challenges guided by dynamic markers (pulse pressure variation,
+     stroke volume variation, passive leg raise test)
+   - Loop diuretics (Furosemide 40–200 mg IV): For fluid overload management;
+     does NOT reduce AKI duration but facilitates fluid balance
+   - Furosemide stress test (FST): 1–1.5 mg/kg IV; predict renal recovery
+     (adequate response >200 mL in 2 hours)
+
+3. ELECTROLYTE MANAGEMENT
+
+   Hyperkalemia Treatment (K+ >6.0 mEq/L or ECG changes):
+     Priority: Stabilize cardiac membrane → Shift K+ intracellularly → Eliminate
+     a) Calcium gluconate 10% 10–20 mL IV over 10 min: Cardiac membrane
+        stabilization (does NOT lower K+); ECG monitoring
+     b) Regular insulin 10 units IV + Dextrose 50% 50 mL (if normoglycemic):
+        Shifts K+ into cells; lasts 4–6 hours; lowers K+ by 0.5–1.5 mEq/L
+     c) Sodium bicarbonate 50–100 mEq IV: In metabolic acidosis; shifts K+
+     d) Albuterol (Salbutamol) 10–20 mg nebulized: Shifts K+ intracellularly
+     e) Patiromer (Veltassa) 8.4 g orally: Non-absorbed K+ binder (stool);
+        onset 7 hours; for chronic hyperkalemia
+     f) Sodium zirconium cyclosilicate (Lokelma) 10 g TID × 48 hours, then
+        maintenance: Fast-acting K+ binder (1 hour onset)
+     g) Sodium polystyrene sulfonate (Kayexalate): Historically used;
+        efficacy questioned; risk of intestinal necrosis
+     h) Renal replacement therapy: Severe/refractory hyperkalemia
+
+   Metabolic Acidosis:
+     - Sodium bicarbonate: IV in severe acidosis (pH <7.1 or HCO3 <10 mEq/L)
+     - 1 mEq/kg IV bolus; infusion 150 mEq in 1L D5W
+     - Caution: Hypernatremia, volume overload, paradoxical intracellular acidosis
+
+   Hyponatremia:
+     - Fluid restriction in dilutional hyponatremia
+     - Hypertonic saline (3% NaCl) for severe symptomatic hyponatremia
+     - Correct no faster than 8–10 mEq/L per 24 hours (osmotic demyelination risk)
+
+4. NEPHROTOXIN AVOIDANCE AND PREVENTION
+   - Avoid/minimize nephrotoxic drugs: NSAIDs, aminoglycosides, contrast agents,
+     vancomycin, calcineurin inhibitors, cidofovir, tenofovir
+   - IV contrast-induced AKI prevention:
+     · Adequate hydration pre/post (normal saline 1 mL/kg/hour × 6–12 hr)
+     · Use iso-osmolar or low-osmolar contrast
+     · Hold metformin 48 hours pre-contrast
+     · N-acetylcysteine (NAC): 600–1200 mg BID × 2 days — evidence mixed
+   - Aminoglycoside dosing: Once-daily dosing and AUC-based monitoring
+   - Vancomycin: AUC/MIC dosing (target 400–600 mg·h/L); avoid trough
+     monitoring alone
+
+5. NUTRITIONAL SUPPORT
+   - Caloric intake: 20–25 kcal/kg/day (non-catabolic) or 25–30 (hypercatabolic)
+   - Protein: 0.8–1.0 g/kg/day (non-dialysis); 1.2–1.7 g/kg/day (RRT)
+   - Enteral nutrition preferred over parenteral
+   - Avoid hyperglycemia (target glucose 110–150 mg/dL)
+   - Restrict potassium, phosphate, sodium as needed
+
+6. RENAL REPLACEMENT THERAPY (RRT)
+
+   Indications (AEIOU):
+     A — Acidosis (pH <7.1 refractory to bicarbonate)
+     E — Electrolytes (severe refractory hyperkalemia >6.5 mEq/L)
+     I — Intoxication (dialyzable: lithium, methanol, ethylene glycol, salicylates)
+     O — Overload (fluid overload refractory to diuretics)
+     U — Uremia (symptomatic: encephalopathy, pericarditis, bleeding)
+
+   RRT Modalities:
+   Intermittent Hemodialysis (IHD):
+     - 3–5 sessions/week, 3–4 hours each
+     - Blood flow 250–400 mL/min; dialysate flow 500–800 mL/min
+     - More efficient solute clearance; preferred for stable patients
+     - Anticoagulation: Unfractionated heparin (UFH) or citrate
+
+   Continuous Renal Replacement Therapy (CRRT):
+     - Continuous Veno-Venous Hemofiltration (CVVH): Convection
+     - Continuous Veno-Venous Hemodialysis (CVVHD): Diffusion
+     - Continuous Veno-Venous Hemodiafiltration (CVVHDF): Combined
+     - Dose: 20–25 mL/kg/hour effluent; ≥35 mL/kg/hr does NOT improve outcomes
+     - Anticoagulation: Regional citrate (preferred); prostacyclin; UFH
+     - Preferred for hemodynamically unstable ICU patients
+
+   Sustained Low-Efficiency Dialysis (SLED):
+     - 6–12 hour sessions at lower blood/dialysate flow rates
+     - Intermediate modality; suitable for hemodynamically unstable patients
+
+   Peritoneal Dialysis (PD):
+     - Used in AKI when vascular access impossible or in low-resource settings
+     - Manual or automated exchanges via peritoneal catheter
+
+   Timing of RRT:
+     - Based on clinical indications (AEIOU criteria) rather than creatinine
+       threshold alone (STARRT-AKI trial: no benefit to early initiation
+       without clear indication)
+
+7. HEPATORENAL SYNDROME (HRS-AKI)
+   - AKI in cirrhosis with ascites; functional vasoconstriction (not structural)
+   - Treat precipitants: Infections, GI bleeding, excessive diuresis
+   - Terlipressin 0.5–2 mg IV every 4–6 hours + Albumin 20–40 g/day:
+     First-line vasoconstrictive therapy (Type 1 HRS)
+   - Norepinephrine (0.5–3 mg/hour) + albumin: ICU setting for HRS
+   - Midodrine (5–15 mg TID) + octreotide (100–200 mcg TID SC) + albumin:
+     Alternative/outpatient
+   - Liver transplantation: Definitive treatment
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - Serum creatinine, electrolytes, BUN: Daily (or more frequently in ICU)
+  - Urine output: Hourly in critical AKI
+  - Fluid balance: Daily weight
+  - 12-lead ECG: If hyperkalemia
+  - Renal recovery: Creatinine trending; RRT weaning trial when UO >500 mL/day
+
+--------------------------------------------------------------------------------
+PREVENTION
+--------------------------------------------------------------------------------
+  - Optimize fluid status perioperatively
+  - Avoid nephrotoxic combinations (NSAIDs + ACE inhibitor + diuretic = triple
+    whammy — high AKI risk)
+  - Contrast nephropathy prophylaxis
+  - Prompt treatment of sepsis (Surviving Sepsis Campaign)
+  - Bundle care: KDIGO AKI Care Bundle (Stage 2–3)
+  - Post-AKI follow-up: 3-month nephrology review; CKD surveillance
+
+================================================================================
+END OF DOCUMENT
+================================================================================

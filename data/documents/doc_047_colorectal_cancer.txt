@@ -1,0 +1,236 @@
+================================================================================
+  COLORECTAL CANCER — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Colorectal Cancer (CRC) — Diagnosis and Management
+Source  : American Cancer Society (ACS); NCCN Clinical Practice Guidelines;
+          European Society for Medical Oncology (ESMO); American Society of
+          Clinical Oncology (ASCO); NIH / NCI
+Disease : Colorectal Cancer (Adenocarcinoma of the Colon and Rectum)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Colorectal cancer (CRC) is the third most common malignancy and second leading
+cause of cancer-related death worldwide (~2 million new cases; ~935,000 deaths
+annually). It arises predominantly as adenocarcinoma from colonic and rectal
+epithelium. Pathogenesis involves stepwise accumulation of genetic mutations
+along adenoma-carcinoma sequence: APC → KRAS/NRAS → TP53, or via serrated
+(BRAF, CIMP) or mismatch repair deficient (MMR-d/MSI-H) pathways. Risk factors
+include age >50, family history, Lynch syndrome (MLH1, MSH2, MSH6, PMS2),
+familial adenomatous polyposis (FAP/APC), inflammatory bowel disease, obesity,
+red/processed meat consumption, alcohol, tobacco, and physical inactivity.
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+  - Rectal bleeding or blood in stool (bright red or dark/tarry)
+  - Change in bowel habits: diarrhea, constipation, narrow stools
+  - Abdominal pain, cramping, bloating
+  - Feeling of incomplete bowel emptying (tenesmus — rectal cancer)
+  - Iron-deficiency anemia (right-sided colon cancer)
+  - Unexplained weight loss, fatigue
+  - Palpable abdominal mass
+  - Obstruction: acute severe abdominal pain, distension, vomiting (emergency)
+  - Rectal mass on DRE
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+Colonoscopy (Gold Standard):
+  - Full visualization of entire colon; polypectomy for polyps
+  - Four-quadrant biopsies; tattooing of lesion site
+
+Flexible Sigmoidoscopy:
+  - Views to splenic flexure; misses right-sided lesions
+
+CT Colonography (Virtual Colonoscopy):
+  - Alternative for incomplete or refused optical colonoscopy
+
+Fecal Tests (Screening):
+  - Fecal immunochemical test (FIT): Annual; detects hemoglobin
+  - FIT-DNA (Cologuard): Stool DNA + FIT every 3 years
+  - Guaiac fecal occult blood test (gFOBT): Annual
+
+Staging — CT Chest/Abdomen/Pelvis (with contrast):
+  - Local extent, regional lymph nodes, hepatic/pulmonary metastases
+
+MRI Pelvis (Rectal Cancer):
+  - CRM (circumferential resection margin), mesorectal fascia, T/N staging
+  - Essential for neoadjuvant chemoradiation planning
+
+PET-CT:
+  - For equivocal metastatic disease or suspected recurrence
+
+Biomarkers:
+  - CEA (carcinoembryonic antigen): Baseline staging and surveillance;
+    not diagnostic
+  - KRAS, NRAS, BRAF mutations: Predictive for anti-EGFR therapy eligibility
+  - MMR/MSI status (IHC + PCR): Predictive for immunotherapy; Lynch syndrome
+  - HER2 amplification: Emerging target (trastuzumab + pertuzumab for HER2+)
+  - NTRK fusion: Larotrectinib/entrectinib indication
+
+TNM Staging (AJCC 8th):
+  - Stage I: T1–T2, N0, M0 (5-yr OS ~90%)
+  - Stage II: T3–T4, N0, M0 (5-yr OS ~70–85%)
+  - Stage III: Any T, N1–N2, M0 (5-yr OS ~40–70%)
+  - Stage IV: Any T, Any N, M1 (5-yr OS ~14%)
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. SURGERY — PRIMARY TREATMENT FOR LOCALIZED CRC
+
+   Colon Cancer:
+     - Right hemicolectomy: Cecum, ascending colon, hepatic flexure tumors
+     - Extended right hemicolectomy: Transverse colon
+     - Left hemicolectomy: Descending colon
+     - Sigmoid colectomy: Sigmoid colon
+     - Laparoscopic/robotic approaches: Preferred for equivalent oncologic
+       outcomes with faster recovery
+     - Complete mesocolic excision (CME): Analogous to TME; improves nodal yield
+
+   Rectal Cancer:
+     - Total Mesorectal Excision (TME): Standard; excision of tumor with intact
+       mesorectal envelope
+     - Low anterior resection (LAR): Upper and mid-rectum; sphincter-preserving
+     - Abdominoperineal resection (APR): Very low rectal tumors; permanent
+       colostomy
+     - Transanal TME (TaTME): Improved access for narrow pelvis/obesity
+     - Local excision (TEM/TAMIS): Select T1N0 rectal cancers
+
+   Stoma: Temporary or permanent colostomy/ileostomy as needed
+
+   Liver Metastases:
+     - Hepatic resection for resectable liver-only metastases (20–30% of Stage IV):
+       Curative intent; 5-year OS 25–40%
+     - Ablation: Radiofrequency ablation (RFA), microwave ablation (MWA)
+     - Staged resections, portal vein embolization (PVE) to increase future
+       liver remnant
+
+2. NEOADJUVANT THERAPY (Rectal Cancer — Stage II/III)
+   Standard Chemoradiation (CRT):
+     - Long-course: 45–50.4 Gy EBRT + concurrent fluoropyrimidine
+       (capecitabine 825 mg/m² BID or 5-FU CI) × 5–6 weeks
+     - Surgery 8–12 weeks after completion
+     - Short-course RT: 5 × 5 Gy, followed by chemotherapy then surgery
+       (Total Neoadjuvant Therapy — TNT approach)
+
+   Total Neoadjuvant Therapy (TNT):
+     - Induction chemotherapy (FOLFIRINOX or CAPOX) + CRT → surgery
+     - Higher pathological complete response (pCR) rates (~25%)
+     - pCR patients may consider "watch and wait" (non-operative management)
+
+3. ADJUVANT CHEMOTHERAPY
+
+   Stage III Colon Cancer (Standard):
+   FOLFOX (Oxaliplatin-Based — Most Common):
+     - Oxaliplatin 85 mg/m² IV (Day 1) + Leucovorin 400 mg/m² IV +
+       5-Fluorouracil (5-FU) 400 mg/m² IV bolus, then 2400 mg/m² CI × 46 hours
+     - Every 2 weeks × 12 cycles (6 months)
+     - Mechanism: Oxaliplatin — platinum alkylating agent; 5-FU — thymidylate
+       synthase inhibitor (inhibits DNA synthesis)
+
+   CAPOX (Capecitabine + Oxaliplatin):
+     - Oxaliplatin 130 mg/m² IV (Day 1) + Capecitabine 1000 mg/m² BID
+       (Days 1–14) every 3 weeks × 8 cycles (6 months)
+     - Capecitabine: Oral prodrug of 5-FU; converted to 5-FU in tumor
+     - 3-month CAPOX = 6-month efficacy for low-risk Stage III
+
+   5-FU/LV (Fluorouracil + Leucovorin):
+     - FLOX regimen; alternative when oxaliplatin contraindicated
+     - Older patients or peripheral neuropathy risk
+
+   Stage II Colon Cancer:
+     - High-risk Stage II: Adjuvant chemotherapy (T4, perforation, obstruction,
+       fewer <12 lymph nodes, lymphovascular invasion, perineural invasion)
+     - MSI-H Stage II: No benefit from 5-FU-based adjuvant chemotherapy
+
+4. TREATMENT OF METASTATIC CRC (mCRC)
+
+   First-Line Regimens:
+   FOLFOX or CAPOX + Bevacizumab (anti-VEGF):
+     - Bevacizumab 5 mg/kg IV every 2 weeks (with FOLFOX) or
+       7.5 mg/kg every 3 weeks (with CAPOX)
+     - Mechanism: Humanized anti-VEGF-A antibody; inhibits tumor angiogenesis
+     - Used in RAS wild-type and mutant; first-line combination
+
+   FOLFIRI + Bevacizumab:
+     - Irinotecan 180 mg/m² + 5-FU/LV → bevacizumab
+     - Irinotecan: Topoisomerase I inhibitor
+
+   FOLFOX/FOLFIRI + Cetuximab or Panitumumab (RAS/RAF Wild-Type Only):
+     - Cetuximab (Erbitux): Chimeric anti-EGFR IgG1 antibody;
+       500 mg/m² IV every 2 weeks
+     - Panitumumab (Vectibix): Fully human anti-EGFR IgG2 antibody;
+       6 mg/kg IV every 2 weeks
+     - ONLY for left-sided KRAS/NRAS/BRAF wild-type tumors (right-sided CRC
+       has inferior response to anti-EGFR)
+     - Monitoring: Skin toxicity (acneiform rash), hypomagnesemia
+
+   FOLFOXIRI + Bevacizumab:
+     - Triplet chemotherapy; for fit patients with high disease burden
+     - Higher response rates; increased toxicity
+
+   Second-Line Options:
+     - FOLFIRI ± Ramucirumab (anti-VEGFR2): 8 mg/kg IV every 2 weeks
+     - FOLFIRI ± Aflibercept (VEGF trap): 4 mg/kg IV every 2 weeks
+     - Re-challenge regimens; TAS-102 (trifluridine/tipiracil)
+
+5. TARGETED THERAPIES
+   BRAF V600E Inhibitor Combinations:
+     - Encorafenib 300 mg/day + Cetuximab: Approved for BRAF V600E mCRC
+       (BEACON trial); ORR ~26%, OS improvement vs. standard therapy
+     - ± Binimetinib (MEK inhibitor)
+
+   HER2 Amplification:
+     - Trastuzumab + pertuzumab; trastuzumab deruxtecan (T-DXd)
+     - Tucatinib + trastuzumab (investigational/approved in some settings)
+
+   NTRK Fusion (rare ~1%):
+     - Larotrectinib (Vitrakvi) 100 mg twice daily
+     - Entrectinib (Rozlytrek) 600 mg daily
+
+6. IMMUNOTHERAPY
+   Pembrolizumab (Keytruda):
+     - 200 mg IV every 3 weeks or 400 mg every 6 weeks
+     - First-line monotherapy for MSI-H/dMMR mCRC (KEYNOTE-177 trial)
+     - Impressive durable responses; ~16-month PFS vs. ~8 months chemotherapy
+
+   Nivolumab ± Ipilimumab:
+     - For MSI-H/dMMR mCRC refractory to chemotherapy
+
+   Dostarlimab:
+     - Approved for dMMR solid tumors including CRC
+
+7. REGORAFENIB AND TAS-102 (Late-Line Therapy)
+   Regorafenib (Stivarga):
+     - 160 mg/day orally (Days 1–21 of 28-day cycle)
+     - Multikinase inhibitor (VEGFR, PDGFR, FGFR, KIT, RET, BRAF, TIE2)
+     - 3rd/4th line mCRC; modest OS benefit
+
+   TAS-102 / Trifluridine-Tipiracil (Lonsurf):
+     - 35 mg/m² twice daily (Days 1–5 and 8–12 of 28-day cycle)
+     - Late-line mCRC; oral; modest OS benefit
+
+--------------------------------------------------------------------------------
+SCREENING
+--------------------------------------------------------------------------------
+  - Average-risk: Colonoscopy every 10 years starting at age 45 (ACS 2018
+    recommendation)
+  - Annual FIT test as alternative
+  - High-risk (FAP): Annual sigmoidoscopy/colonoscopy from age 10–12
+  - Lynch syndrome: Colonoscopy every 1–2 years from 20–25 years
+  - IBD (extensive colitis ≥8 years): Surveillance colonoscopy every 1–3 years
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - CEA every 3 months × 3 years, then every 6 months × 2 years
+  - CT chest/abdomen/pelvis every 6–12 months × 5 years
+  - Colonoscopy at 1 year after resection, then every 3–5 years
+
+================================================================================
+END OF DOCUMENT
+================================================================================

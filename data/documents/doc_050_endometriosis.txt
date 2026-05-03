@@ -1,0 +1,239 @@
+================================================================================
+  ENDOMETRIOSIS — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Endometriosis — Diagnosis and Management
+Source  : American Society for Reproductive Medicine (ASRM) Guidelines;
+          European Society of Human Reproduction and Embryology (ESHRE);
+          ACOG Practice Bulletin; NIH / NICHD; World Endometriosis Society
+Disease : Endometriosis
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Endometriosis is a chronic, estrogen-dependent inflammatory disease defined
+by the presence of endometrial-like tissue (glands and stroma) outside the
+uterine cavity. It affects approximately 10% of reproductive-age women globally
+(~190 million), with prevalence of 40–50% among women with infertility or
+chronic pelvic pain. The most common sites are the ovaries (endometriomas),
+peritoneum, uterosacral ligaments, pouch of Douglas, bowel, and bladder.
+Pathogenesis is multifactorial and incompletely understood; theories include
+retrograde menstruation (Sampson), coelomic metaplasia, lymphovascular
+spread, and immune dysfunction allowing ectopic implantation and survival.
+Endometriotic lesions are hormonally active and produce prostaglandins, cytokines,
+and local estrogen via aromatase activity, driving inflammation, adhesion
+formation, fibrosis, and pain. Average diagnostic delay is 7–10 years.
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Pain (Cardinal Symptoms):
+  - Dysmenorrhea: Severe, progressive menstrual cramping; often begins days
+    before period; does not respond adequately to NSAIDs
+  - Chronic pelvic pain: Non-cyclical pelvic pain >6 months
+  - Dyspareunia: Deep pain with sexual intercourse (especially posterior
+    compartment disease)
+  - Dyschezia: Painful defecation (bowel endometriosis)
+  - Dysuria: Painful urination (bladder endometriosis)
+  - Cyclical rectal bleeding/hematuria (bowel/bladder involvement)
+
+Reproductive:
+  - Infertility (40–50% of infertile women have endometriosis)
+  - Recurrent pregnancy loss
+
+Systemic Symptoms:
+  - Fatigue (chronic inflammation)
+  - Bloating, nausea, diarrhea (GI involvement)
+  - Sciatica, leg pain (sciatic nerve involvement)
+  - Shoulder/diaphragmatic pain (catamenial pneumothorax — rare thoracic disease)
+
+Endometrioma-Specific:
+  - Adnexal mass (ovarian endometrioma/"chocolate cyst")
+  - Risk of cyst rupture with severe acute pain
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+Clinical Assessment:
+  - Detailed menstrual/pain/sexual history
+  - Physical examination: Fixed, tender uterus in retroversion, tender
+    uterosacral nodularity on bimanual/speculum exam, adnexal mass
+
+Imaging:
+  Transvaginal Ultrasound (TVUS):
+    - First-line imaging modality
+    - Detects endometriomas (typical "ground glass" echogenicity, thick walls)
+    - Limited sensitivity for peritoneal/superficial lesions
+  MRI Pelvis:
+    - Superior for deep infiltrating endometriosis (DIE)
+    - Evaluates extent: Bowel, bladder, ureter, uterosacral ligament involvement
+    - T1 hyperintense, T2 shading in endometriomas
+
+Surgical Diagnosis (Definitive):
+  - Laparoscopy with direct visualization and histological confirmation
+  - Gold standard for diagnosis
+  - American Society for Reproductive Medicine (ASRM/rASRM) Staging I–IV:
+    Stage I (Minimal) → Stage IV (Severe; dense adhesions, endometriomas)
+  - Lesion types: Superficial peritoneal, ovarian endometrioma, deep
+    infiltrating endometriosis (DIE)
+
+Laboratory:
+  - CA-125: Elevated in moderate-severe disease; non-specific (also elevated
+    in other conditions); limited diagnostic utility; used for monitoring
+  - No reliable blood biomarker for diagnosis currently
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. PAIN MANAGEMENT — FIRST-LINE MEDICAL
+
+   NSAIDs (First-line for dysmenorrhea):
+     - Naproxen 500 mg BID, ibuprofen 400–800 mg TID, mefenamic acid 500 mg TID
+     - Taken continuously from 1–2 days before expected pain onset
+     - Reduces prostaglandin-mediated dysmenorrhea; does not alter progression
+
+   Combined Oral Contraceptives (COC):
+     - Any monophasic low-dose OCP (ethinyl estradiol 20–35 mcg + progestin)
+     - Continuous (no pill-free interval) or cyclic regimens
+     - Suppresses ovulation; reduces menstrual flow and ectopic tissue stimulation
+     - Effective for dysmenorrhea and pain; does not cure or prevent progression
+     - Side effects: Nausea, breast tenderness, mood changes, VTE risk
+
+2. PROGESTOGENS — Second-Line / First-Line for Endometrioma
+
+   Norethindrone Acetate (NETA):
+     - 5–15 mg/day orally
+     - Induces decidualization/atrophy of endometriotic lesions
+     - Effective for pain including DIE; long-term maintenance
+
+   Medroxyprogesterone Acetate (MPA, Depo-Provera):
+     - 150 mg IM every 3 months (injectable DMPA)
+     - 10–50 mg/day orally
+     - Highly effective for pain; reduces bleeding; associated with bone density
+       loss and delayed return of fertility with DMPA
+
+   Levonorgestrel IUS (Mirena):
+     - 52 mg LNG-IUS intrauterine device
+     - Reduces dysmenorrhea significantly; amenorrhea common
+     - Local progestin delivery; minimal systemic effects
+     - Effective for minimal-mild endometriosis and post-surgical maintenance
+
+   Dienogest (Visanne):
+     - 2 mg/day orally
+     - Highly selective progestin; anti-inflammatory; reduces endometriotic
+       tissue; comparable efficacy to GnRH agonist with fewer side effects
+     - First-choice progestin in many European guidelines
+     - Side effects: Irregular bleeding, spotting, mild bone loss
+
+   Etonogestrel Implant (Nexplanon):
+     - Subdermal 68 mg implant; effective pain reduction in some patients
+
+3. GnRH AGONISTS — Second-Line
+   Leuprolide Acetate (Lupron Depot):
+     - 3.75 mg IM monthly or 11.25 mg every 3 months
+   Nafarelin (Synarel): 200 mcg intranasal twice daily
+   Goserelin (Zoladex): 3.6 mg SC monthly
+   Buserelin, triptorelin
+
+   Mechanism: Initial flare, then downregulation of GnRH receptor → hypogonadal
+   state → profound estrogen suppression → endometriotic tissue atrophy
+   Efficacy: Highly effective for pain; equivalent to surgery in studies
+   Duration: Maximum 6 months (bone loss concern) without add-back
+   Add-back Therapy (mandatory >6 months or earlier):
+     - Norethindrone acetate 5 mg/day ± low-dose estrogen (0.625 mg CEE)
+     - Protects bone mineral density; does not compromise efficacy for pain
+
+   Side Effects (hypoestrogenic): Hot flashes, vaginal dryness, mood changes,
+   insomnia, bone density loss (reversible with add-back)
+
+4. GnRH ANTAGONISTS (Oral)
+   Elagolix (Orilissa):
+     - 150 mg once daily (moderate pain) or 200 mg twice daily (severe pain)
+     - Immediate, dose-dependent estrogen suppression without flare
+     - FDA-approved for moderate-to-severe endometriosis pain
+     - 150 mg/day × 24 months; 200 mg BID × 6 months (bone loss limits duration)
+     - Add-back therapy recommended for 200 mg BID regimen
+
+   Relugolix-estradiol-norethindrone (Myfembree):
+     - 40/1.0/0.5 mg once daily (relugolix 40 mg + E2 1 mg + NETA 0.5 mg)
+     - Built-in add-back; FDA-approved for pain associated with endometriosis
+     - Approved for 24 months
+
+   Linzagolix (Yselty):
+     - Approved in EU; 75 mg or 200 mg daily ± add-back
+
+5. AROMATASE INHIBITORS (for Refractory Disease)
+   Letrozole 2.5 mg/day or Anastrozole 1 mg/day:
+     - Inhibits local estrogen synthesis in endometriotic lesions (aromatase P450)
+     - Used in refractory cases not responding to standard hormonal therapy
+     - Combined with progestin or OCP to suppress ovarian estrogen and prevent
+       follicular cysts
+     - Not first or second-line; research/specialist use
+
+6. SURGICAL TREATMENT
+   Laparoscopic Excision (Preferred):
+     - Gold standard for diagnosis AND treatment
+     - Excision > ablation for endometriomas and DIE (lower recurrence)
+     - Ovarian cystectomy for endometriomas ≥3 cm (stripping technique)
+     - Excision of peritoneal lesions; restoration of normal anatomy;
+       adhesiolysis
+     - Ureterolysis, bowel shaving/segmental resection (colorectal surgeons)
+       for DIE involving ureters/bowel
+     - Multidisciplinary approach essential for advanced DIE
+
+   Laparotomy:
+     - For complex DIE requiring bowel resection, hysterectomy
+
+   Hysterectomy + Bilateral Salpingo-Oophorectomy (BSO):
+     - Definitive surgery for severe, refractory, childbearing-complete cases
+     - BSO reduces recurrence risk
+     - Discuss HRT after surgical menopause (low-dose estrogen generally safe
+       post-BSO for endometriosis; combined with progestin if uterus retained)
+
+7. INFERTILITY MANAGEMENT
+   - Laparoscopic treatment of endometriosis improves natural conception rates
+     (especially Stage I/II — ENDO trial debate)
+   - Endometrioma: Surgical cystectomy before IVF improves oocyte yield
+     (debate: may reduce ovarian reserve; individualized decision)
+   - Controlled Ovarian Stimulation + IUI: For minimal-mild disease
+   - IVF: For moderate-severe disease or failed IUI; endometriosis reduces IVF
+     success; GnRH agonist down-regulation preferred protocol
+   - Avoid surgery <3 months before IVF (follicle pool recovery)
+
+8. ADJUNCTIVE AND EMERGING THERAPIES
+   - Pentoxifylline (anti-inflammatory/immunomodulatory): Limited evidence
+   - Low-dose naltrexone: Immunomodulatory; investigational
+   - Omega-3 fatty acids, anti-inflammatory diet: Symptom support
+   - Pelvic floor physiotherapy for chronic pelvic pain and dyspareunia
+   - Pain psychology and multidisciplinary pain management
+   - TNF-α inhibitors, anti-angiogenics: Investigational
+   - JAK inhibitors: Pre-clinical studies
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - Clinical review every 3–6 months during medical treatment
+  - TVUS: Annual for endometrioma surveillance; pre-operatively for DIE extent
+  - CA-125: Baseline and follow-up for moderate-severe disease (monitoring
+    treatment response, not diagnosis)
+  - Bone density (DEXA): Before/after GnRH agonist therapy >6 months
+  - Post-surgical: Resumption of hormonal therapy to prevent recurrence
+    (recurrence rate 40–50% at 5 years without suppression)
+  - Fertility planning: Timely referral for reproductive endocrinology
+
+--------------------------------------------------------------------------------
+COMPLICATIONS
+--------------------------------------------------------------------------------
+  - Infertility (tubal, ovarian reserve damage, implantation failure)
+  - Ovarian endometrioma rupture
+  - Ureteral obstruction and hydronephrosis (DIE)
+  - Bowel obstruction or perforation (bowel endometriosis)
+  - Catamenial pneumothorax (thoracic endometriosis — rare)
+  - Malignant transformation (endometriosis-associated ovarian cancer — rare;
+    clear cell and endometrioid subtypes)
+  - Depression, anxiety, impaired quality of life
+
+================================================================================
+END OF DOCUMENT
+================================================================================

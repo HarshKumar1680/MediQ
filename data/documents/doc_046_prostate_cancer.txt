@@ -1,0 +1,238 @@
+================================================================================
+  PROSTATE CANCER — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Prostate Cancer — Diagnosis and Management
+Source  : National Comprehensive Cancer Network (NCCN) Guidelines;
+          European Association of Urology (EAU); American Cancer Society (ACS);
+          American Urological Association (AUA); NIH / NCI
+Disease : Prostate Cancer (Prostate Adenocarcinoma)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Prostate cancer is the most common non-skin malignancy and second leading cause
+of cancer death in men worldwide, with approximately 1.4 million new cases and
+375,000 deaths annually. It arises predominantly from the peripheral zone of
+the prostate gland as prostatic adenocarcinoma (>95%). Median age at diagnosis
+is 66 years. Risk factors include age, African American ethnicity (highest
+incidence globally), family history, and inherited mutations (BRCA2, BRCA1,
+Lynch syndrome genes). Androgen signaling drives tumor growth; the androgen
+receptor (AR) axis is the primary therapeutic target. Disease ranges from
+indolent, organ-confined tumors (curable with local therapy) to lethal
+metastatic castration-resistant prostate cancer (mCRPC).
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Localized Disease (often asymptomatic):
+  - Detected incidentally via PSA screening
+  - Lower urinary tract symptoms (LUTS): frequency, urgency, hesitancy,
+    weak stream, nocturia (indistinguishable from BPH)
+  - Hematuria, hematospermia (uncommon)
+
+Locally Advanced Disease:
+  - Obstructive uropathy, hydronephrosis
+  - Rectal symptoms (posterior invasion)
+  - Perineal pain
+
+Metastatic Disease:
+  - Bone pain (axial skeleton: spine, pelvis, ribs — osteoblastic metastases)
+  - Pathological fractures
+  - Spinal cord compression (oncological emergency)
+  - Constitutional: fatigue, weight loss, anemia
+  - Lower extremity edema (lymph node obstruction)
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+PSA (Prostate-Specific Antigen):
+  - Serine protease produced by prostatic epithelium
+  - Normal: <4.0 ng/mL (age-adjusted norms)
+  - PSA density, PSA velocity, free:total PSA ratio improve specificity
+  - PSA is not cancer-specific (elevated in BPH, prostatitis, trauma)
+
+Digital Rectal Exam (DRE):
+  - Hard, nodular, asymmetric prostate — suspicious for cancer
+
+Prostate Biopsy:
+  - Trans-rectal ultrasound (TRUS)-guided systematic biopsy: 12-core
+  - MRI-targeted (fusion biopsy): Preferred for better detection of clinically
+    significant cancer; targets PI-RADS 3–5 lesions
+
+Multiparametric MRI (mpMRI):
+  - T2, DWI, DCE sequences; PI-RADS scoring 1–5
+  - Performed before biopsy in suspected localized disease
+  - Detects extracapsular extension, seminal vesicle invasion
+
+Gleason Grading / Grade Groups:
+  - Gleason 6 (Grade Group 1): Well-differentiated; low risk
+  - Gleason 7 (3+4; Grade Group 2): Intermediate favorable
+  - Gleason 7 (4+3; Grade Group 3): Intermediate unfavorable
+  - Gleason 8 (Grade Group 4): High risk
+  - Gleason 9–10 (Grade Group 5): Very high risk / anaplastic
+
+Staging:
+  - Bone scan: Osteoblastic metastases; PSMA PET-CT more sensitive
+  - CT chest/abdomen/pelvis: Nodal and visceral metastases
+  - PSMA PET (68Ga-PSMA-11 or 18F-DCFPyL): Highly sensitive for
+    nodal and distant metastases; increasingly first-line staging
+
+Risk Stratification (AUA/NCCN):
+  - Very Low: T1c, PSA <10, Gleason ≤6, <3 positive cores, PSA density <0.15
+  - Low: T1–T2a, PSA <10, Gleason ≤6
+  - Intermediate Favorable/Unfavorable (T2b–T2c, PSA 10–20, Gleason 7)
+  - High: T3a, PSA >20, or Gleason 8+
+  - Very High: T3b–T4, primary Gleason 5, multiple high-risk features
+  - Metastatic (N1 or M1)
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. ACTIVE SURVEILLANCE (Low-Risk Disease)
+   - Serial PSA every 3–6 months
+   - Annual MRI and/or repeat biopsy every 1–5 years
+   - Curative treatment initiated on reclassification to higher grade/stage
+   - Appropriate for very low/low risk and select intermediate favorable risk
+
+2. RADICAL PROSTATECTOMY
+   Technique:
+     - Robot-assisted radical prostatectomy (RARP): Standard of care at
+       major centers (da Vinci system)
+     - Open retropubic radical prostatectomy
+     - Nerve-sparing technique for potency preservation when oncologically safe
+   Indications: Localized/locally advanced prostate cancer; life expectancy >10 yr
+   Outcomes: PSA should be undetectable (<0.1 ng/mL) post-surgery
+   Pelvic lymph node dissection: Extended PLND for intermediate–high risk
+
+3. RADIATION THERAPY
+
+   External Beam Radiation Therapy (EBRT):
+     - Intensity-Modulated Radiation Therapy (IMRT): 76–80 Gy in 38–40 fractions
+       or moderate hypofractionation (60 Gy/20 fractions; 70 Gy/28 fractions)
+     - Ultra-hypofractionation (SBRT): 35–40 Gy in 5 fractions for low-
+       intermediate risk
+
+   Brachytherapy:
+     - Low-dose rate (LDR): Permanent iodine-125 or palladium-103 seeds
+       implanted transperineally; suitable for low/favorable intermediate risk
+     - High-dose rate (HDR): Temporary iridium-192 implants; boost in high-risk
+
+   Combined EBRT + ADT:
+     - Short-term ADT (6 months): Intermediate risk EBRT
+     - Long-term ADT (2–3 years): High/very high risk EBRT
+
+4. ANDROGEN DEPRIVATION THERAPY (ADT)
+
+   Medical Castration:
+   GnRH Agonists (Cause initial testosterone flare — use anti-androgen for 4 weeks):
+     - Leuprolide acetate (Lupron): 7.5 mg IM monthly, 22.5 mg every 3 months,
+       45 mg every 6 months
+     - Goserelin (Zoladex): 3.6 mg SC monthly or 10.8 mg every 3 months
+     - Triptorelin: 3.75 mg IM monthly
+   GnRH Antagonists (No testosterone flare; rapid castration):
+     - Degarelix (Firmagon): 240 mg SC loading, then 80 mg SC monthly
+     - Relugolix (Orgovyx): 360 mg orally once, then 120 mg daily
+       (oral GnRH antagonist; faster recovery of testosterone)
+
+   Anti-androgens (Androgen Receptor Blockers):
+   First-generation:
+     - Bicalutamide 50 mg/day (competitive AR inhibitor; used for flare
+       prevention or combined blockade)
+     - Flutamide 250 mg TID; nilutamide 150 mg/day (less used)
+   Second-generation (superior efficacy in mCRPC):
+     - Enzalutamide (Xtandi): 160 mg/day orally; binds AR with 8× higher
+       affinity; also blocks nuclear translocation and DNA binding
+     - Apalutamide (Erleada): 240 mg/day; approved for nmCRPC and mCSPC
+     - Darolutamide (Nubeqa): 600 mg twice daily; fewer CNS side effects;
+       approved for nmCRPC and mHSPC
+
+5. CYP17 INHIBITORS (ANDROGEN SYNTHESIS INHIBITORS)
+   Abiraterone Acetate (Zytiga, Yonsa):
+     - 1000 mg/day orally on empty stomach (standard) OR
+       500 mg fine particle formulation with low-fat meal
+     - Inhibits CYP17A1 (17α-hydroxylase/17,20-lyase) → blocks androgen
+       biosynthesis in adrenal, testes, and tumor tissue
+     - Always co-administered with prednisone 5 mg twice daily
+       (to suppress ACTH and prevent mineralocorticoid excess)
+     - Approved: mCRPC, mCSPC, high-risk localized (STAMPEDE trial)
+     - Monitoring: LFTs, electrolytes, blood pressure
+
+6. CHEMOTHERAPY
+   Docetaxel (Taxotere):
+     - 75 mg/m² IV every 3 weeks × 10 cycles
+     - Mechanism: Taxane; stabilizes microtubules; impairs cell division
+     - Indicated: mCRPC (first-line) and mCSPC with high-volume metastatic disease
+       (in combination with ADT — CHAARTED/STAMPEDE trials)
+     - Premedication: Dexamethasone 8 mg BID for 3 days
+     - Monitoring: CBC (neutropenia), neuropathy, fluid retention
+
+   Cabazitaxel (Jevtana):
+     - 20–25 mg/m² IV every 3 weeks
+     - Second-generation taxane active in docetaxel-resistant mCRPC
+     - G-CSF prophylaxis recommended
+     - Cabazitaxel + carboplatin: For BRCA2-mutated or ATM-mutated mCRPC
+
+7. PARP INHIBITORS (for Homologous Recombination Repair Mutations)
+   Olaparib (Lynparza):
+     - 300 mg orally twice daily
+     - Indicated for mCRPC with BRCA1/2, ATM, or HRR mutations (post-ADT/CYP17)
+   Rucaparib (Rubraca): 600 mg orally twice daily; BRCA1/2 mCRPC
+   Niraparib (Zejula): 200–300 mg/day; HRR mutations
+   Talazoparib (Talzenna) + enzalutamide: Combination approved for mCRPC
+
+8. IMMUNOTHERAPY AND TARGETED THERAPY
+   Sipuleucel-T (Provenge):
+     - Autologous dendritic cell vaccine pulsed with PAP-GM-CSF fusion protein
+     - 3 infusions every 2 weeks; improves OS by ~4 months in asymptomatic
+       or minimally symptomatic mCRPC
+   Pembrolizumab (Keytruda):
+     - 200 mg IV every 3 weeks
+     - Approved for MSI-H/dMMR or TMB-high mCRPC (tissue-agnostic approval)
+   Lutetium-177 PSMA-617 (Pluvicto):
+     - Radioligand therapy: 177Lu-PSMA-617 7.4 GBq IV every 6 weeks × 6 cycles
+     - Targets PSMA-expressing prostate cancer cells; delivers beta radiation
+     - Approved for PSMA-positive mCRPC after ADT and taxane chemotherapy
+
+9. BONE-TARGETED THERAPY
+   Radium-223 (Xofigo):
+     - Alpha-emitting radioisotope; targets osteoblastic bone metastases
+     - 55 kBq/kg IV every 4 weeks × 6 doses
+     - Approved for symptomatic bone-only metastatic CRPC; OS benefit
+   Denosumab (Xgeva):
+     - 120 mg SC every 4 weeks
+     - RANK-L inhibitor; prevents skeletal-related events in bone mets
+   Zoledronic Acid (Zometa):
+     - 4 mg IV every 3–4 weeks
+     - Bisphosphonate; reduces skeletal complications in mCRPC with bone mets
+
+10. ADT SIDE EFFECT MANAGEMENT
+    - Hot flashes: Venlafaxine, medroxyprogesterone
+    - Osteoporosis: Calcium + vitamin D; denosumab 60 mg SC every 6 months
+    - Sexual dysfunction: PDE5 inhibitors (sildenafil, tadalafil)
+    - Metabolic syndrome/cardiovascular: Exercise, statins, dietary modification
+    - Fatigue, sarcopenia: Resistance exercise, dietitian referral
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - PSA every 3–6 months during active treatment
+  - Testosterone level monitoring (castrate level: <50 ng/dL = <1.7 nmol/L)
+  - Imaging: PSMA PET or conventional imaging for PSA rise/progression
+  - Bone density (DEXA) every 1–2 years on ADT
+  - Metabolic panel, lipid profile annually on ADT
+  - Cardiovascular assessment: ADT increases CV risk
+
+--------------------------------------------------------------------------------
+PREVENTION
+--------------------------------------------------------------------------------
+  - PSA screening: ACS recommends discussion starting at 50 (average risk),
+    45 (African American or family history), 40 (multiple first-degree relatives)
+  - 5-alpha reductase inhibitors (finasteride, dutasteride): Reduce diagnosis
+    of low-grade PCa; not routine chemopreventive recommendation
+  - Diet: Mediterranean diet, low red/processed meat, high fruits and vegetables
+
+================================================================================
+END OF DOCUMENT
+================================================================================

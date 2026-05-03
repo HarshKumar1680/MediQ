@@ -33,7 +33,7 @@ from nltk          import pos_tag
 _lemmatizer = WordNetLemmatizer()
 _STOP = set(stopwords.words("english")) | {
     "patient","patients","may","also","used","use","include","including",
-    "treatment","treatments","therapy","disease","condition","medical","health"
+    
 }
 
 def _wn_pos(tag):

@@ -1,0 +1,252 @@
+================================================================================
+  SYSTEMIC LUPUS ERYTHEMATOSUS — DIAGNOSIS AND MANAGEMENT
+================================================================================
+
+Title   : Systemic Lupus Erythematosus (SLE) — Diagnosis and Management
+Source  : European League Against Rheumatism (EULAR) Recommendations;
+          American College of Rheumatology (ACR); Lupus Foundation of America;
+          NIH / NIAMS; UpToDate Clinical Reference
+Disease : Systemic Lupus Erythematosus (SLE)
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+Systemic lupus erythematosus (SLE) is a chronic, multisystem autoimmune
+disease characterized by dysregulated immune responses, autoantibody production
+(particularly anti-dsDNA and anti-Smith), complement consumption, and immune
+complex deposition in target organs. SLE predominantly affects women of
+childbearing age (female:male ratio 9:1), with peak incidence between ages
+15–45. Global prevalence is 20–150 per 100,000, higher in African, Asian, and
+Hispanic populations. Pathogenesis involves a combination of genetic
+predisposition (HLA-DR2, HLA-DR3, complement deficiencies), environmental
+triggers (UV light, infections, hormones, drugs), and epigenetic dysregulation.
+The resulting loss of self-tolerance leads to B-cell hyperactivity, autoreactive
+T cells, and multiorgan inflammation affecting the kidneys, skin, joints,
+serosal surfaces, CNS, and blood.
+
+--------------------------------------------------------------------------------
+SYMPTOMS
+--------------------------------------------------------------------------------
+Constitutional:
+  - Fatigue (most common symptom, >90%)
+  - Fever, weight loss, lymphadenopathy
+
+Mucocutaneous (70–80%):
+  - Malar (butterfly) rash: erythematous rash across cheeks/nose, spares
+    nasolabial folds; photosensitive
+  - Discoid lupus: scarring plaques on sun-exposed areas
+  - Subacute cutaneous lupus: annular/papulosquamous photosensitive rash
+  - Oral/nasal ulcers (usually painless)
+  - Hair loss (diffuse alopecia)
+  - Raynaud's phenomenon
+
+Musculoskeletal (>90%):
+  - Arthralgia and non-erosive arthritis (symmetric, polyarticular)
+  - Jaccoud's arthropathy (reducible deformities)
+  - Myalgia, myositis (less common)
+
+Renal — Lupus Nephritis (50%):
+  - Proteinuria, hematuria, cellular casts
+  - Hypertension, peripheral edema
+  - Reduced GFR progressing to renal failure
+
+Neuropsychiatric (20–40%):
+  - Headache, seizures, psychosis
+  - Cognitive dysfunction, mood disorders
+  - Cerebrovascular disease, myelopathy
+  - Peripheral and cranial neuropathies
+
+Cardiopulmonary:
+  - Pleuritis (pleuritic chest pain, effusion)
+  - Pericarditis, myocarditis
+  - Libman-Sacks endocarditis (sterile verrucous lesions)
+  - Accelerated atherosclerosis
+
+Hematological:
+  - Hemolytic anemia, leukopenia, lymphopenia, thrombocytopenia
+
+Antiphospholipid Syndrome (secondary):
+  - Thrombosis (arterial/venous), recurrent pregnancy loss
+
+--------------------------------------------------------------------------------
+DIAGNOSIS
+--------------------------------------------------------------------------------
+Classification Criteria (2019 EULAR/ACR Criteria):
+  - Entry criterion: ANA titer ≥1:80 (required)
+  - Seven domains with weighted criteria; score ≥10 classifies as SLE
+  - Domains: constitutional, hematological, neuropsychiatric, mucocutaneous,
+    serosal, musculoskeletal, renal, immunological
+
+Key Autoantibodies:
+  - Antinuclear antibody (ANA): Sensitive (~99%) but not specific; screening test
+  - Anti-dsDNA: Specific (>97%), correlates with disease activity and nephritis
+  - Anti-Smith (anti-Sm): Highly specific (>99%), does not correlate with activity
+  - Anti-Ro/SSA, anti-La/SSB: Associated with neonatal lupus, subacute cutaneous
+    lupus, secondary Sjögren's
+  - Anti-phospholipid antibodies (aCL, β2-GP1, lupus anticoagulant):
+    Antiphospholipid syndrome
+  - Anti-histone: Drug-induced lupus
+
+Complement Studies:
+  - Low C3, C4: Active disease (consumed by immune complexes)
+
+Lupus Nephritis Assessment:
+  - Urine protein:creatinine ratio (UPCR), 24-hour urine protein
+  - Urinalysis with microscopy (red cell casts = Class III–IV nephritis)
+  - Renal biopsy: Gold standard; ISN/RPS classification:
+    Class I (minimal mesangial) → Class VI (advanced sclerosing)
+
+Other Tests:
+  - CBC, CMP, ESR, CRP (usually normal in flare)
+  - Coombs test (hemolytic anemia)
+  - SLEDAI or BILAG scores for disease activity assessment
+
+--------------------------------------------------------------------------------
+TREATMENT
+--------------------------------------------------------------------------------
+
+1. ANTIMALARIALS — Backbone of SLE Therapy
+   Hydroxychloroquine (HCQ, Plaquenil):
+     - Mechanism: Toll-like receptor inhibition; interferes with antigen
+       presentation and immune activation
+     - Dose: 200–400 mg/day orally (weight-based: ≤5 mg/kg/day)
+     - Indicated in ALL SLE patients without contraindication
+     - Reduces flare frequency, cumulative organ damage, and mortality
+     - Cardioprotective and antithrombotic effects
+     - Monitoring: Annual ophthalmology exam (retinal toxicity after 5+ years)
+   Chloroquine:
+     - 250 mg/day; alternative when HCQ unavailable
+
+2. NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs)
+   - For arthralgia, serositis, mild musculoskeletal symptoms
+   - Naproxen 250–500 mg twice daily; ibuprofen 400–800 mg TID
+   - Use cautiously in lupus nephritis (renal prostaglandin effects)
+
+3. CORTICOSTEROIDS
+   Mechanism: Broad immunosuppression via glucocorticoid receptor
+   Indications and Doses:
+     - Mild-moderate disease: Prednisone/prednisolone 5–15 mg/day orally
+     - Moderate-severe flare: 0.5–1 mg/kg/day oral prednisone
+     - Severe/life-threatening (nephritis, CNS, cytopenias):
+       Methylprednisolone IV pulse 500–1000 mg/day × 3 days
+     - Topical for cutaneous disease: Triamcinolone, betamethasone
+   Tapering: Taper to lowest effective dose; goal <7.5 mg/day prednisolone
+   Glucocorticoid-sparing agents initiated alongside for long-term use
+
+4. CONVENTIONAL IMMUNOSUPPRESSANTS
+   Hydroxychloroquine (see above)
+
+   Azathioprine (Imuran):
+     - Mechanism: Purine analog; inhibits T and B cell proliferation
+     - Dose: 1–2.5 mg/kg/day orally
+     - Indications: Mild-moderate disease, lupus nephritis maintenance,
+       pregnancy-compatible immunosuppression
+     - Check TPMT enzyme activity before initiation
+     - Monitoring: CBC (myelosuppression), LFTs
+
+   Mycophenolate Mofetil (MMF, CellCept):
+     - Mechanism: Inhibits inosine monophosphate dehydrogenase (IMPDH);
+       selective B and T cell antiproliferative
+     - Dose: 2–3 g/day orally in divided doses (induction); 1–2 g/day
+       (maintenance)
+     - First-line for lupus nephritis Class III–V induction and maintenance
+     - Monitoring: CBC, LFTs, renal function; teratogenic — contraception required
+
+   Cyclophosphamide (Cytoxan):
+     - Mechanism: Alkylating agent; cross-links DNA in rapidly dividing
+       immune cells
+     - IV pulse regimen (NIH): 0.5–1 g/m² monthly × 6 doses (induction for
+       severe nephritis, CNS lupus)
+     - Euro-Lupus low-dose regimen: 500 mg IV every 2 weeks × 6 doses
+     - Monitoring: Urinalysis (hemorrhagic cystitis — use mesna prophylaxis),
+       CBC, gonadal toxicity; strongly teratogenic
+
+   Methotrexate (MTX):
+     - 7.5–20 mg/week orally/SC; folic acid 1 mg/day supplementation
+     - For articular and cutaneous disease
+     - Contraindicated in pregnancy and renal impairment
+
+   Calcineurin Inhibitors:
+     - Tacrolimus 2–4 mg/day or cyclosporine 2.5–5 mg/kg/day
+     - Used in refractory lupus nephritis, especially membranous (Class V)
+
+5. BIOLOGIC THERAPY
+   Belimumab (Benlysta):
+     - Mechanism: Human monoclonal antibody against BAFF (B-lymphocyte
+       stimulator); reduces autoreactive B cell survival
+     - Dose: 10 mg/kg IV every 4 weeks (after 3 loading doses) OR
+       200 mg SC weekly
+     - Indicated for active SLE (excluding severe active nephritis/CNS)
+     - Reduces flares and allows corticosteroid tapering
+
+   Voclosporin (Lupkynis):
+     - Calcineurin inhibitor combined with MMF for lupus nephritis
+     - Dose: 23.7 mg orally twice daily
+     - FDA-approved specifically for active lupus nephritis
+
+   Anifrolumab (Saphnelo):
+     - Mechanism: Anti-type I interferon receptor antibody
+     - 300 mg IV every 4 weeks
+     - FDA-approved for moderate-to-severe SLE; not for severe active nephritis
+     - Reduces disease activity, skin and joint manifestations
+
+   Rituximab (off-label):
+     - Anti-CD20 monoclonal antibody; depletes B cells
+     - 1000 mg IV × 2 doses (2 weeks apart), repeated every 6 months
+     - Used for refractory SLE, severe cytopenias, refractory nephritis
+
+6. ANTIPHOSPHOLIPID SYNDROME MANAGEMENT
+   Thromboprophylaxis:
+     - Low-dose aspirin 81 mg/day for aPL-positive patients without thrombosis
+     - Warfarin (target INR 2–3 for venous thrombosis; 2.5–3.5 for arterial)
+       as long-term anticoagulation after thrombotic event
+     - Hydroxychloroquine: Antithrombotic benefit
+
+7. SPECIAL CONSIDERATIONS
+   Pregnancy in SLE:
+     - High-risk pregnancy; requires specialist co-management
+     - Continue hydroxychloroquine (reduces neonatal lupus risk)
+     - Compatible: Azathioprine, prednisolone, low-dose aspirin
+     - Contraindicated: MMF, cyclophosphamide, methotrexate, belimumab
+     - Monitor for pre-eclampsia, fetal growth restriction
+
+   Osteoporosis Prevention:
+     - Calcium + vitamin D supplementation for all on corticosteroids
+     - Bisphosphonates for high-risk patients
+
+   Infection Prevention:
+     - Vaccinations: Inactivated influenza, pneumococcal, Tdap, hepatitis B
+       (avoid live vaccines during immunosuppression)
+     - PCP prophylaxis (trimethoprim-sulfamethoxazole 400/80 mg daily)
+       during high-dose immunosuppression
+
+   Cardiovascular Risk Reduction:
+     - Statins, antihypertensives, smoking cessation
+     - ACE inhibitors/ARBs for proteinuria/nephritis
+
+   Sun Protection:
+     - SPF 30–50 broad-spectrum sunscreen; UV-protective clothing
+
+--------------------------------------------------------------------------------
+MONITORING
+--------------------------------------------------------------------------------
+  - Disease activity: SLEDAI, BILAG, physician global assessment
+  - CBC, CMP, urinalysis, UPCR: every 1–3 months (active) or 3–6 months (stable)
+  - Complement (C3, C4), anti-dsDNA: follow disease activity
+  - Ophthalmology for HCQ retinopathy: annually after 5 years
+  - Blood pressure, lipid profile, glucose: cardiovascular monitoring
+  - Bone mineral density (DEXA): baseline and every 1–2 years on steroids
+
+--------------------------------------------------------------------------------
+COMPLICATIONS
+--------------------------------------------------------------------------------
+  - End-stage renal disease (lupus nephritis progression)
+  - Cardiovascular events (MI, stroke — leading cause of late mortality)
+  - Avascular necrosis of bone (corticosteroid-related)
+  - Opportunistic infections (immunosuppression-related)
+  - Lymphoma (slightly elevated risk)
+  - Drug toxicity (HCQ retinopathy, cyclophosphamide-induced malignancy)
+
+================================================================================
+END OF DOCUMENT
+================================================================================
