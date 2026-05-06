@@ -1,18 +1,4 @@
-"""
-ranking/tfidf_ranker.py
 
-TF-IDF Ranking (built from scratch).
-
-Formula:
-  TF(t,d)  = freq(t,d) / len(d)          (normalized term frequency)
-  IDF(t)   = log((N+1)/(df(t)+1)) + 1    (smoothed inverse doc frequency)
-  Score(q,d) = sum over query terms of [ TF(t,d) * IDF(t) ]
-
-Why TF-IDF?
-  - TF rewards documents that use a query term often
-  - IDF penalizes terms that are common across all documents (low discrimination)
-  - The product balances local term importance vs global rarity
-"""
 
 import math
 

@@ -1,6 +1,4 @@
-================================================================================
-  PROSTATE CANCER — DIAGNOSIS AND MANAGEMENT
-================================================================================
+
 
 Title   : Prostate Cancer — Diagnosis and Management
 Source  : National Comprehensive Cancer Network (NCCN) Guidelines;

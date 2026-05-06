@@ -1,26 +1,4 @@
-"""
-ranking/bm25_ranker.py
 
-BM25 (Best Match 25) Ranking — built from scratch.
-
-Formula:
-  Score(q,d) = sum over query terms t of:
-    IDF(t) * [ tf(t,d) * (k1+1) ]
-              / [ tf(t,d) + k1 * (1 - b + b * (|d|/avgdl)) ]
-
-Parameters:
-  k1 = 1.5   (term frequency saturation — controls how fast TF saturates)
-  b  = 0.75  (document length normalization — 0 = no normalization, 1 = full)
-
-Why BM25 is better than plain TF-IDF:
-  1. TF SATURATION: BM25 diminishes returns for very high TF values.
-     Mentioning "insulin" 20 times doesn't score 20x more than 2 times.
-  2. LENGTH NORMALIZATION: Long documents are not unfairly rewarded.
-     A 3000-word doc about "insulin" doesn't automatically beat a focused 300-word one.
-  3. k1 & b are tunable hyperparameters proven effective across many test collections.
-
-BM25 consistently outperforms plain TF-IDF on standard IR benchmarks (TREC, etc.)
-"""
 
 import math
 

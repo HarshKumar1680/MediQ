@@ -1,29 +1,3 @@
-"""
-ranking/bm25plus_ranker.py
-
-BM25+ (Lv & Zhai, 2011) — Latest improvement over BM25.
-
-PROBLEM WITH BM25:
-  BM25 assigns zero score to a document if a query term appears in ALL docs,
-  because IDF becomes 0. Also, documents with very low TF are scored identically
-  to documents with slightly higher TF due to saturation.
-
-BM25+ FIX:
-  Adds a lower-bound delta (δ) to the TF component, ensuring every document
-  that contains a query term gets a non-zero positive contribution.
-
-Formula:
-  Score(q,d) = Σ IDF(t) * [ delta + tf(t,d)*(k1+1) / (tf(t,d) + k1*(1-b+b*|d|/avgdl)) ]
-
-Parameters:
-  k1    = 1.5   (TF saturation)
-  b     = 0.75  (length normalization)
-  delta = 0.5   (lower-bound constant — the key BM25+ addition)
-
-Academic Reference:
-  Lv, Y., & Zhai, C. (2011). "Lower-bounding term frequency normalization."
-  CIKM '11. doi:10.1145/2063576.2063584
-"""
 
 import math
 

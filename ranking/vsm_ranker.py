@@ -1,27 +1,4 @@
-"""
-ranking/vsm_ranker.py
 
-Vector Space Model with TF-IDF Cosine Similarity (Salton et al., 1975 — foundation;
-modern variant using sublinear TF scaling & L2-normalized vectors).
-
-The standard TF-IDF ranker computes a raw dot-product score, which still
-disadvantages shorter documents. This VSM variant:
-
-  1. Uses SUBLINEAR TF scaling:  tf_weight = 1 + log(tf)   if tf > 0 else 0
-     This dampens the effect of very high TF values more aggressively than BM25.
-
-  2. L2-normalizes BOTH the document and query vectors before computing cosine:
-     cosine(q,d) = (q⃗ · d⃗) / (|q⃗| * |d⃗|)
-
-  3. Uses smoothed IDF: log((N+1)/(df+1)) + 1
-
-This is the approach used by scikit-learn's TfidfVectorizer and is the
-standard modern implementation of VSM.
-
-Academic Reference:
-  Manning, C., Raghavan, P., Schütze, H. (2008). Introduction to Information
-  Retrieval. Cambridge University Press. Chapter 6.
-"""
 
 import math
 from collections import defaultdict

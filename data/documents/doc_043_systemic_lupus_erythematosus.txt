@@ -1,6 +1,4 @@
-================================================================================
-  SYSTEMIC LUPUS ERYTHEMATOSUS — DIAGNOSIS AND MANAGEMENT
-================================================================================
+
 
 Title   : Systemic Lupus Erythematosus (SLE) — Diagnosis and Management
 Source  : European League Against Rheumatism (EULAR) Recommendations;

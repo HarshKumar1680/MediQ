@@ -1,6 +1,4 @@
-================================================================================
-  OBSTRUCTIVE SLEEP APNEA — DIAGNOSIS AND MANAGEMENT
-================================================================================
+
 
 Title   : Obstructive Sleep Apnea (OSA) — Diagnosis and Management
 Source  : American Academy of Sleep Medicine (AASM) Clinical Guidelines;

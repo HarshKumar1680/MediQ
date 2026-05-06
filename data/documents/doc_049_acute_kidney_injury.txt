@@ -1,6 +1,4 @@
-================================================================================
-  ACUTE KIDNEY INJURY — DIAGNOSIS AND MANAGEMENT
-================================================================================
+
 
 Title   : Acute Kidney Injury (AKI) — Diagnosis and Management
 Source  : KDIGO (Kidney Disease: Improving Global Outcomes) AKI Guidelines;

@@ -1,16 +1,3 @@
-"""
-main.py
-Loads corpus, builds index, initialises all 4 ranking algorithms,
-and exposes query() + evaluate() + compare_all() functions.
-
-Algorithms implemented:
-  1. TF-IDF       — Classical normalized TF × IDF dot product
-  2. BM25         — Probabilistic ranking with TF saturation (Robertson, 1994)
-  3. BM25+        — BM25 with delta lower-bound fix (Lv & Zhai, 2011)
-  4. VSM Cosine   — Sublinear TF-IDF with L2-normalized cosine similarity
-  5. LM (JM)      — Query Likelihood Language Model, Jelinek-Mercer smoothing
-"""
-
 import os, glob, sys, time
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))

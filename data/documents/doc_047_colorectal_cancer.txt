@@ -1,6 +1,4 @@
-================================================================================
-  COLORECTAL CANCER — DIAGNOSIS AND MANAGEMENT
-================================================================================
+
 
 Title   : Colorectal Cancer (CRC) — Diagnosis and Management
 Source  : American Cancer Society (ACS); NCCN Clinical Practice Guidelines;

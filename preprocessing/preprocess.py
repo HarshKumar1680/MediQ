@@ -1,10 +1,8 @@
-"""
-preprocessing/preprocess.py  — with guaranteed NLTK download on import
-"""
+
 import re, sys, nltk
 
 def _download_all():
-    """Download all required NLTK data packages silently before anything else."""
+   
     needed = [
         ("tokenizers/punkt",       "punkt"),
         ("tokenizers/punkt_tab",   "punkt_tab"),

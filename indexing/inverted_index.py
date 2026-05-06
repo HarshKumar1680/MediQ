@@ -1,20 +1,3 @@
-"""
-indexing/inverted_index.py
-
-Inverted Index for the Medical IR System.
-
-Structure:
-  index[term] = {
-      doc_id: term_frequency,
-      ...
-  }
-
-Also stores:
-  doc_lengths    : {doc_id: total_token_count}
-  doc_texts      : {doc_id: raw_text}
-  doc_titles     : {doc_id: title_string}
-  total_docs     : int
-"""
 
 import math
 from collections import defaultdict
